@@ -14,7 +14,11 @@ The Chinese-CFL UD treebank is manually annotated by Keying Li with minor manual
 
 .CONLLUX (extension files)
 
-Note that there is an additional `.conllux` file of the same name for each of its `.conllu` counterpart. The `.conllux` file contains extra information not ordinarily stored in any of the 10 columns in `.conllu` format. The non-duplicate columns in `.conllux` for this treebank are columns 3 (distributional tag), 6 (distributional head), 7 (distributional relation), and 10 (alignment). [If data in columns 3, 6, and 7 in the `.conllux` file are the same as their counterparts in `.conllu`, that means the distributional annotation is the same as the morphological annotation. For more information on "distributional" vs. "morphological" annotation, see descriptions further below.]
+[NOTE: This is a temporary measure for procedures whose descriptions are not yet available in the UD guidelines.]
+
+Included is an additional `.conllux` file for the `.conllu` file of the same name.  The `.conllux` counterpart file contains extra information not ordinarily stored in any of the 10 columns in the CONLL-U format. The non-duplicate columns in `.conllux` for this treebank are columns 3 (distributional tag), 6 (distributional head), 7 (distributional relation), and 10 (alignment). [If data in columns 3, 6, and 7 in the `.conllux` file are the same as their counterparts in `.conllu`, that means the distributional annotation is the same as the morphological annotation. For more information on "distributional" vs. "morphological" annotation, see descriptions further below.]
+
+ALIGNMENTS
 
 Alignments are linked to native-Chinese-speaker corrections (by Keying Li) of the learner sentences; storage of the corrected sentences are to be determined. All sentences pertaining to the learner corpus have a sent_id beginning with `CFL-`; original learner sentences have the parallel-treebank extension `/ori` in the sent_id, whereas the corrected sentences have the extension `/crr` in the sent_id. Each alignment includes the full sent_id followed by '#' and the index of the token aligned. Additional alignments in a one-to-many alignment is offset by commas (e.g. `CFL_A_1-5/crr#5,CFL_A_1-5/crr#6` means the token is aligned to tokens 5 and 6 of the corrected ('crr') sentence of 'CFL_A_1-5').
 
@@ -49,7 +53,7 @@ POS tagging is performed on the basis of the lemma, rather than the word. Hence,
 
 When determining the POS, one usually considers both the "morphological evidence", i.e., the linguistic form of the word, as well as the "distributional evidence", i.e., its syntactic use in the sentence. In a well-formed sentence, these two kinds of evidence should agree; in learner text, however, they may conflict (Ragheb and Dickinson, 2014).
 
-Consider the word 可怕 _kepa_ "scary" in the sentence 我可怕他 "*I scary him". Morphological evidence suggests the word kepa should be tagged as an adjective, reflecting its normal usage. Distributional evidence suggests it should be tagged as a verb, since the trailing pronoun 他 _ta_ "him" implies its use as a verb with a direct object.
+Consider the word 可怕 _kepa_ "scary" in the sentence 我可怕他 "*I scary him". Morphological evidence suggests the word 可怕 _kepa_ "scary" should be tagged as an adjective (ADJ), reflecting its normal usage. Distributional evidence suggests it should be tagged as a verb, since the trailing pronoun 他 _ta_ "him" implies its use as a verb with a direct object.
 
 When these two kinds of evidence contradict one another, the morphological evidence prevails. The example sentence is thus tagged as:
 
@@ -79,4 +83,4 @@ When a word has a different distributional POS tag, we also include a "distribut
 
 REFERENCES
 
-Marwa Ragheb and Markus Dickinson. 2014. Developing a Corpus of Syntactically-annotated Learner Language for English. Proc. 13 th International Workshop on Treebanks and Linguistic Theories (TLT).
+Marwa Ragheb and Markus Dickinson. 2014. Developing a Corpus of Syntactically-annotated Learner Language for English. Proceedings of the 13th International Workshop on Treebanks and Linguistic Theories (TLT).
