@@ -10,7 +10,7 @@ Contact: tswong-c@my.cityu.edu.hk, leung.hm@gmail.com
 
 UD CHINESE-CFL
 
-The Chinese-CFL UD treebank is manually annotated by Keying Li with minor manual revisions by Herman Leung and John Lee at City University of Hong Kong, based on essays written by learners of Chinese as a foreign language. The data is in Simplified Chinese.
+The Chinese-CFL UD treebank is manually annotated by Keying Li with minor manual revisions by Herman Leung and John Lee at City University of Hong Kong, based on essays written by learners of Mandarin Chinese as a foreign language. The data is in Simplified Chinese.
 
 .CONLLUX (extension files)
 
