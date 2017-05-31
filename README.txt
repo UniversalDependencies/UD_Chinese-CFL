@@ -41,7 +41,7 @@ Non-words are allowed only when there are spelling errors resulting from orthogr
 
 Phonetic confusion must involve characters with the same pronunciation but different tones, e.g., between 關 and 管 in the sentence *不關多貴我也買; or, characters with easily confusable pairs such as {j, zh} and {x, sh}.
 
-In these cases, the lemma of the misspelt word is its corrected version. For example, the lemma of 花花公了 is 花花公子, and the lemma of 不關 is 不管.
+In these cases, the lemma of the misspelt word is its corrected version. For example, the lemma of *花花公了 is 花花公子, and the lemma of 不關 is 不管.
 
 LEMMA
 
@@ -53,7 +53,7 @@ POS tagging is performed on the basis of the lemma, rather than the word. Hence,
 
 When determining the POS, one usually considers both the "morphological evidence", i.e., the linguistic form of the word, as well as the "distributional evidence", i.e., its syntactic use in the sentence. In a well-formed sentence, these two kinds of evidence should agree; in learner text, however, they may conflict (Ragheb and Dickinson, 2014).
 
-Consider the word 可怕 _kepa_ "scary" in the sentence 我可怕他 "*I scary him". Morphological evidence suggests the word 可怕 _kepa_ "scary" should be tagged as an adjective (ADJ), reflecting its normal usage. Distributional evidence suggests it should be tagged as a verb, since the trailing pronoun 他 _ta_ "him" implies its use as a verb with a direct object.
+Consider the word 可怕 _kepa_ "scary" in the sentence *我可怕他 "*I scary him". Morphological evidence suggests the word 可怕 _kepa_ "scary" should be tagged as an adjective (ADJ), reflecting its normal usage. Distributional evidence suggests it should be tagged as a verb, since the trailing pronoun 他 _ta_ "him" implies its use as a verb with a direct object.
 
 When these two kinds of evidence contradict one another, the morphological evidence prevails. The example sentence is thus tagged as:
 
@@ -77,7 +77,7 @@ To adhere to the principle of "literal annotation", rather than annotating le as
 
 When learner errors make it difficult to characterize the grammatical relation between a word and the rest of the sentence, we use the `dep` relation. Typically, when the POS tag differs from the distributional POS tag, the `dep` relation is needed.
 
-Consider the sentence 我可怕他 "*I scary him". From the point of view of its POS tag, it is unclear how the word 可怕 _kepa_ "scary", as an adjective, relates to the pronoun. We thus consider kepa as the head of 他 _ta_ "him" with the `dep` relation.
+Consider the sentence *我可怕他 "*I scary him". From the point of view of its POS tag, it is unclear how the word 可怕 _kepa_ "scary", as an adjective, relates to the pronoun. We thus consider kepa as the head of 他 _ta_ "him" with the `dep` relation.
 
 When a word has a different distributional POS tag, we also include a "distributional" dependency relation on the basis of the word's distributional POS tag. This relation is stored in column 4 of the `.conllux` file. In the example sentence above, the word 可怕 _kepa_ "scary", as a verb, is the head of 他 _ta_ "him" with the `obj` relation.
 
