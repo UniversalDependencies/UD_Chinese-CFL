@@ -3471,7 +3471,7 @@
 1	所以	所以	ADV	_	_	3	advmod	_	SpaceAfter=No
 2	我	我	PRON	_	_	3	nsubj	_	SpaceAfter=No
 3	建议	建议	VERB	_	_	0	root	_	SpaceAfter=No
-4	大家	大家	NOUN	_	_	3	obj	_	SpaceAfter=No
+4	大家	大家	PRON	_	_	3	obj	_	SpaceAfter=No
 5	偶尔	偶尔	ADV	_	_	7	advmod	_	SpaceAfter=No
 6	不	不	ADV	_	_	7	advmod	_	SpaceAfter=No
 7	停	听	VERB	_	_	3	xcomp	_	SpaceAfter=No

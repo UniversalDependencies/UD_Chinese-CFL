@@ -3471,7 +3471,7 @@
 1	所以	所以	ADV	_	_	3	advmod	_	CFL_F_2-39/crr#1
 2	我	我	PRON	_	_	3	nsubj	_	CFL_F_2-39/crr#2
 3	建议	建议	VERB	_	_	0	root	_	CFL_F_2-39/crr#3
-4	大家	大家	NOUN	_	_	3	obj	_	CFL_F_2-39/crr#4
+4	大家	大家	PRON	_	_	3	obj	_	CFL_F_2-39/crr#4
 5	偶尔	偶尔	ADV	_	_	7	advmod	_	CFL_F_2-39/crr#5
 6	不	不	ADV	_	_	7	advmod	_	CFL_F_2-39/crr#6
 7	停	听	VERB	_	_	3	xcomp	_	CFL_F_2-39/crr#7
