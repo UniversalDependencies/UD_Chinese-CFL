@@ -2132,7 +2132,7 @@
 5	自然	自然	ADJ	_	_	6	advmod	_	SpaceAfter=No
 6	去	去	VERB	_	_	0	root	_	SpaceAfter=No
 7	了	了	AUX	_	_	6	aux	_	SpaceAfter=No
-8	KTV	KTV	PROPN	_	_	6	obj	_	CFL_E_1-5/crr#8
+8	KTV	KTV	PROPN	_	_	6	obj	_	SpaceAfter=No
 9	，	，	PUNCT	_	_	21	punct	_	SpaceAfter=No
 10	我	我	PRON	_	_	16	nsubj	_	SpaceAfter=No
 11	跟	跟	ADP	_	_	15	case	_	SpaceAfter=No
@@ -2419,7 +2419,7 @@
 1	以后	以后	NOUN	_	_	7	obl:tmod	_	SpaceAfter=No
 2	我	我	PRON	_	_	3	nsubj	_	SpaceAfter=No
 3	去	去	VERB	_	_	7	advcl	_	SpaceAfter=No
-4	KTV	KTV	PROPN	_	_	3	obj	_	CFL_E_1-19/crr#4
+4	KTV	KTV	PROPN	_	_	3	obj	_	SpaceAfter=No
 5	时	时	ADP	_	_	3	mark	_	SpaceAfter=No
 6	很	很	ADV	_	_	7	advmod	_	SpaceAfter=No
 7	小心	小心	ADJ	_	_	0	root	_	SpaceAfter=No
@@ -3125,7 +3125,7 @@
 # text = 不过他们帮我找预定的青年旅社。
 1	不过	不过	ADV	_	_	5	advmod	_	SpaceAfter=No
 2	他们	他们	PRON	_	_	5	nsubj	_	SpaceAfter=No
-3	帮	帮	VERB	_	_	2	root	_	SpaceAfter=No
+3	帮	帮	VERB	_	_	0	root	_	SpaceAfter=No
 4	我	我	PRON	_	_	3	obj	_	SpaceAfter=No
 5	找	找	VERB	_	_	3	conj	_	SpaceAfter=No
 6	预定	预定	VERB	_	_	8	acl	_	SpaceAfter=No
