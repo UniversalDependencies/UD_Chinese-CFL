@@ -1,16 +1,8 @@
-=== Machine-readable metadata =================================================
-Documentation status: partial
-Data source: manual
-Data available since: UD v2.1
-License: CC BY-SA 4.0
-Genre: learner-essays
-Contributors: Lee, John; Leung, Herman; Li, Keying
-Contact: tswong-c@my.cityu.edu.hk, leung.hm@gmail.com
-===============================================================================
-
-UD CHINESE-CFL
+# Summary
 
 The Chinese-CFL UD treebank is manually annotated by Keying Li with minor manual revisions by Herman Leung and John Lee at City University of Hong Kong, based on essays written by learners of Mandarin Chinese as a foreign language. The data is in Simplified Chinese.
+
+# Introduction
 
 .CONLLUX (extension files)
 
@@ -82,5 +74,32 @@ Consider the sentence *我可怕他 "*I scary him". From the point of view of it
 When a word has a different distributional POS tag, we also include a "distributional" dependency relation on the basis of the word's distributional POS tag. This relation is stored in column 4 of the `.conllux` file. In the example sentence above, the word 可怕 _kepa_ "scary", as a verb, is the head of 他 _ta_ "him" with the `obj` relation.
 
 REFERENCES
-
 Marwa Ragheb and Markus Dickinson. 2014. Developing a Corpus of Syntactically-annotated Learner Language for English. Proceedings of the 13th International Workshop on Treebanks and Linguistic Theories (TLT).
+
+# Acknowledgments
+This work is partially supported by a Strategic Research Grant (Project no. 7004494) from City University of Hong Kong.
+
+# References
+
+When using this treebank, please cite at least one paper from the following references:
+John Lee, Herman Leung, Keying Li. 2017. Towards Universal Dependencies for Learner Chinese. In Proc. Workshop on Universal Dependencies.
+
+
+=== Machine-readable metadata =================================================
+Data available since: UD v2.1
+Documentation status: partial
+Data source: manual
+Data available since: UD v2.1
+License: CC BY-SA 4.0
+Includes text: yes
+Genre: learner-essays
+Lemmas: not available
+UPOS: manual native
+XPOS: not available
+Features: not available
+Relations: manual native
+Contributors: Lee, John; Leung, Herman; Li, Keying
+contributing: elsewhere
+Contact: keyingli3-c@my.cityu.edu.hk, tswong-c@my.cityu.edu.hk, jsylee@cityu.edu.hk
+===============================================================================
+
