@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank>
+  <!-- tokens means "surface tokens", e.g. Spanish "vámonos" counts as one token
+       words means "syntactic words", e.g. Spanish "vámonos" is split to two words, "vamos" and "nos"
+       fused is the number of tokens that are split to two or more syntactic words
+       The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
+  <size>
+    <total><sentences>451</sentences><tokens>7256</tokens><words>7256</words><fused>0</fused></total>
+  </size>
+  <lemmas unique="1501" /><!-- ，, 的, 。, 我, 了, 是, 我们, 一, 到, 去, 个, 在, 不, 很, 他 -->
+  <forms unique="1505" /><!-- ，, 的, 。, 我, 了, 是, 我们, 一, 到, 去, 个, 在, 不, 很, 他 -->
+  <fusions unique="0" /><!--  -->
+  <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
+  <tags unique="15">
+    <tag name="ADJ">354</tag><!-- 好, 难忘, 快, 一样, 多, 第一, 冷, 新, 大, 容易 -->
+    <tag name="ADP">330</tag><!-- 在, 上, 对, 给, 从, 后, 跟, 里, 以后, 和 -->
+    <tag name="ADV">756</tag><!-- 不, 很, 就, 所以, 都, 也, 一起, 最, 已经, 真的 -->
+    <tag name="AUX">356</tag><!-- 了, 是, 着, 要, 会, 能, 想, 过, 可以, 没 -->
+    <tag name="CCONJ">94</tag><!-- 和, 但是, 而, 但, 跟, 还有, 并且, 并, 而且, 也 -->
+    <tag name="DET">127</tag><!-- 这, 那, 很多, 每, 什么, 一些, 几, 哪, 有的, 这些 -->
+    <tag name="INTJ">3</tag><!-- 吧, 天哪, 罢了 -->
+    <tag name="NOUN">1352</tag><!-- 个, 人, 时候, 天, 次, 朋友, 自行车, 旅行, 事, 时间 -->
+    <tag name="NUM">143</tag><!-- 一, 两, 三, 第一, 几, 10, 20, 之一, 仨, 半 -->
+    <tag name="PART">537</tag><!-- 的, 了, 地, 得, 吧, 吗, 呢, 啊, 。, 和 -->
+    <tag name="PRON">759</tag><!-- 我, 我们, 他, 她, 他们, 这, 你, 那里, 自己, 什么 -->
+    <tag name="PROPN">144</tag><!-- 中国, 西安, 麦加, 北京, 商洛, 韩国, 天池, 日本, 香港, 加拿大 -->
+    <tag name="PUNCT">917</tag><!-- ，, 。, ！, ？, “, ”, ：, ?, 、, （ -->
+    <tag name="SCONJ">68</tag><!-- 虽然, 因为, 来, 因, 如果, 虽, 一, 之所以, 但是, 不但 -->
+    <tag name="VERB">1316</tag><!-- 到, 去, 有, 是, 看, 说, 让, 来, 见, 吃 -->
+  </tags>
+  <!-- Statistics of features and values. The comments show the most frequent word forms. -->
+  <feats unique="0">
+  </feats>
+  <!-- Statistics of universal dependency relations. -->
+  <deps unique="45">
+    <dep name="acl">111</dep>
+    <dep name="advcl">206</dep>
+    <dep name="advmod">812</dep>
+    <dep name="advmod:df">14</dep>
+    <dep name="amod">148</dep>
+    <dep name="appos">19</dep>
+    <dep name="aux">283</dep>
+    <dep name="case">376</dep>
+    <dep name="case:loc">90</dep>
+    <dep name="cc">97</dep>
+    <dep name="ccomp">110</dep>
+    <dep name="clf">128</dep>
+    <dep name="compound">52</dep>
+    <dep name="compound:dir">29</dep>
+    <dep name="compound:ext">10</dep>
+    <dep name="compound:vo">25</dep>
+    <dep name="compound:vv">106</dep>
+    <dep name="conj">274</dep>
+    <dep name="cop">74</dep>
+    <dep name="csubj">5</dep>
+    <dep name="dep">14</dep>
+    <dep name="det">137</dep>
+    <dep name="discourse">2</dep>
+    <dep name="discourse:sp">103</dep>
+    <dep name="dislocated">17</dep>
+    <dep name="flat">3</dep>
+    <dep name="iobj">7</dep>
+    <dep name="mark">107</dep>
+    <dep name="mark:adv">25</dep>
+    <dep name="mark:rel">229</dep>
+    <dep name="nmod">258</dep>
+    <dep name="nsubj">657</dep>
+    <dep name="nsubj:pass">3</dep>
+    <dep name="nummod">137</dep>
+    <dep name="obj">562</dep>
+    <dep name="obl">202</dep>
+    <dep name="obl:agent">5</dep>
+    <dep name="obl:patient">7</dep>
+    <dep name="obl:tmod">143</dep>
+    <dep name="parataxis">175</dep>
+    <dep name="punct">912</dep>
+    <dep name="reparandum">2</dep>
+    <dep name="root">451</dep>
+    <dep name="vocative">1</dep>
+    <dep name="xcomp">128</dep>
+  </deps>
+</treebank>
