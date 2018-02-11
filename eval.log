@@ -1,0 +1,41 @@
+Sun Feb 11 20:32:20 CET 2018
+perl -I perllib/lib/perl5 -I tools tools/evaluate_treebank.pl --verbose UD_Chinese-CFL
+Running the following version of tools/evaluate_treebank.pl:
+commit c1cb17aec6a5505b56b885f578dc6b1093bb4b30
+Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Sun Feb 11 20:27:50 2018 +0100
+Switched to branch 'master'
+Your branch is up-to-date with 'origin/master'.
+Evaluating the following revision of UD_Chinese-CFL:
+commit 4253857e373f9dad0c499cdf75b6aec28eee8c90
+Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Sat Nov 11 14:00:02 2017 +0100
+Size: counted 7256 of 7256 words (nodes).
+Size: min(0, log((N/1000)**2)) = 3.96365742562567.
+Size: maximum value 13.815511 is for 1000000 words or more.
+Split: Did not find more than 10000 training words.
+Split: Did not find at least 10000 development words.
+Split: Did not find at least 10000 test words.
+Lemmas: source of annotation (from README) factor is 0.4.
+Universal POS tags: 15 out of 17 found in the corpus.
+Universal POS tags: source of annotation (from README) factor is 1.
+Features: 0 out of 7256 total words have one or more features.
+Features: source of annotation (from README) factor is 0.4.
+Universal relations: 32 out of 37 found in the corpus.
+Universal relations: source of annotation (from README) factor is 1.
+Udapi: found 2398 bugs.
+Udapi: worst expected case (threshold) is one bug per 10 words. There are 7256 words.
+Genres: found 1 out of 14 known.
+(weight=0.0769230769230769) * (score{features}=0.01) = 0.000769230769230769
+(weight=0.0769230769230769) * (score{genres}=0.0714285714285714) = 0.00549450549450549
+(weight=0.0769230769230769) * (score{lemmas}=0.4) = 0.0307692307692308
+(weight=0.256410256410256) * (score{size}=0.28689909135068) = 0.0735638695770973
+(weight=0.0512820512820513) * (score{split}=0.01) = 0.000512820512820513
+(weight=0.0769230769230769) * (score{tags}=0.882352941176471) = 0.0678733031674208
+(weight=0.307692307692308) * (score{udapi}=0.01) = 0.00307692307692308
+(weight=0.0769230769230769) * (score{udeprels}=0.864864864864865) = 0.0665280665280665
+(TOTAL score=0.248587949895295) * (availability=1) * (validity=1) = 0.248587949895295
+STARS = 1
+UD_Chinese-CFL	0.248587949895295	1
+Switched to branch 'dev'
+Your branch is up-to-date with 'origin/dev'.
