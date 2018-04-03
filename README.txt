@@ -84,6 +84,13 @@ This work is partially supported by a Strategic Research Grant (Project no. 7004
 When using this treebank, please cite at least one paper from the following references:
 John Lee, Herman Leung, Keying Li. 2017. Towards Universal Dependencies for Learner Chinese. In Proc. Workshop on Universal Dependencies.
 
+# Changelog
+
+* 2018-04-15 v2.2
+  * ?
+* 2017-11-15 v2.1
+  * Initial UD release.
+
 
 === Machine-readable metadata =================================================
 Data available since: UD v2.1
