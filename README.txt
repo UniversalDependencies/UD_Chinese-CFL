@@ -103,6 +103,6 @@ XPOS: not available
 Features: not available
 Relations: manual native
 Contributors: Lee, John; Leung, Herman; Li, Keying
-contributing: elsewhere
+Contributing: elsewhere
 Contact: keyingli3-c@my.cityu.edu.hk, tswong-c@my.cityu.edu.hk, jsylee@cityu.edu.hk
 ===============================================================================
