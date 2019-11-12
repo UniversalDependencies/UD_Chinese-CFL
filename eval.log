@@ -3,9 +3,9 @@ commit d71d1b63fd448a8b098d4b5a0329f8da3f7413b0
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Date:   Sat Apr 21 19:02:58 2018 +0200
 Evaluating the following revision of UD_Chinese-CFL:
-commit b1513a92012c29d07690a98165162de10d12da3a
-Merge: 4229072 bbc045c
+commit f92daaffb31209cac3e3cd1b0583e2c79ee0661b
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Fri May 10 20:58:19 2019 +0200
 Size: counted 7256 of 7256 words (nodes).
 Size: min(0, log((N/1000)**2)) = 3.96365742562567.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -23,8 +23,20 @@ Udapi: found 2398 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 7256 words.
 Genres: found 1 out of 17 known.
 validate.py --lang zh --max-err=10 UD_Chinese-CFL/zh_cfl-ud-test.conllu
-*** PASSED ***
-Validity: 1
+[Line 53 Sent CFL_A_1-3_ori Node 8]: [L3 Syntax leaf-aux-cop] 'aux' not expected to have children (8:想:aux --> 7:不:advmod)
+[Line 270 Sent CFL_A_2-1_ori Node 22]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'NOUN'
+[Line 303 Sent CFL_A_2-3a_ori Node 5]: [L3 Syntax leaf-aux-cop] 'aux' not expected to have children (5:会:aux --> 4:不:advmod)
+[Line 343 Sent CFL_A_2-5_ori Node 6]: [L3 Syntax upos-rel-punct] 'PUNCT' must be 'punct' but it is 'parataxis'
+[Line 348 Sent CFL_A_2-5_ori Node 11]: [L3 Syntax rel-upos-punct] 'punct' must be 'PUNCT' but it is 'VERB'
+[Line 343 Sent CFL_A_2-5_ori Node 11]: [L3 Syntax leaf-punct] 'punct' not expected to have children (11:来:punct --> 6:，:parataxis)
+[Line 347 Sent CFL_A_2-5_ori Node 11]: [L3 Syntax leaf-punct] 'punct' not expected to have children (11:来:punct --> 10:时间:nsubj)
+[Line 349 Sent CFL_A_2-5_ori Node 11]: [L3 Syntax leaf-punct] 'punct' not expected to have children (11:来:punct --> 12:了:discourse)
+[Line 392 Sent CFL_A_2-9_ori Node 3]: [L3 Syntax leaf-aux-cop] 'cop' not expected to have children (3:是:cop --> 1:本来:advmod)
+...suppressing further errors regarding Syntax
+Syntax errors: 112
+*** FAILED *** with 112 errors
+Exit code: 1
+Validity: 0.01
 (weight=0.0769230769230769) * (score{features}=0.01) = 0.000769230769230769
 (weight=0.0769230769230769) * (score{genres}=0.0588235294117647) = 0.00452488687782805
 (weight=0.0769230769230769) * (score{lemmas}=0.4) = 0.0307692307692308
@@ -33,6 +45,6 @@ Validity: 1
 (weight=0.0769230769230769) * (score{tags}=0.882352941176471) = 0.0678733031674208
 (weight=0.307692307692308) * (score{udapi}=0.01) = 0.00307692307692308
 (weight=0.0769230769230769) * (score{udeprels}=0.864864864864865) = 0.0665280665280665
-(TOTAL score=0.247618331278618) * (availability=1) * (validity=1) = 0.247618331278618
-STARS = 1
-UD_Chinese-CFL	0.247618331278618	1
+(TOTAL score=0.247618331278618) * (availability=1) * (validity=0.01) = 0.00247618331278618
+STARS = 0
+UD_Chinese-CFL	0.00247618331278618	0
