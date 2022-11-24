@@ -340,7 +340,7 @@
 3	得	得	PART	_	_	2	compound:ext	_	SpaceAfter=No
 4	很	很	ADV	_	_	5	advmod	_	SpaceAfter=No
 5	快	快	ADJ	_	_	2	xcomp	_	SpaceAfter=No
-6	，	，	PUNCT	_	_	11	parataxis	_	SpaceAfter=No
+6	，	，	PUNCT	_	_	11	punct	_	SpaceAfter=No
 7	我们	我们	PRON	_	_	8	nsubj	_	SpaceAfter=No
 8	离开	离开	VERB	_	_	10	acl	_	SpaceAfter=No
 9	的	的	PART	_	_	8	mark:rel	_	SpaceAfter=No
@@ -1651,7 +1651,7 @@
 2	往常	往常	NOUN	_	_	4	obl	_	SpaceAfter=No
 3	不	不	ADV	_	_	4	advmod	_	SpaceAfter=No
 4	一样	一样	ADJ	_	_	6	advcl	_	SpaceAfter=No
-5	，	，	PUNCT	_	_	6	punct	_	SpaceAfter=No
+5	，	，	PUNCT	_	_	4	punct	_	SpaceAfter=No
 6	准备	准备	VERB	_	_	0	root	_	SpaceAfter=No
 7	这	这	DET	_	_	9	det	_	SpaceAfter=No
 8	次	次	NOUN	_	_	7	clf	_	SpaceAfter=No
@@ -1877,7 +1877,7 @@
 4	我们	我们	PRON	_	_	5	nsubj	_	SpaceAfter=No
 5	吃	吃	VERB	_	_	0	root	_	SpaceAfter=No
 6	生鱼脍	生鱼脍	NOUN	_	_	5	obj	_	SpaceAfter=No
-7	，	，	PUNCT	_	_	16	parataxis	_	SpaceAfter=No
+7	，	，	PUNCT	_	_	16	punct	_	SpaceAfter=No
 8	我	我	PRON	_	_	10	nsubj	_	SpaceAfter=No
 9	要	要	AUX	_	_	10	aux	_	SpaceAfter=No
 10	开车	开车	VERB	_	_	12	acl	_	SpaceAfter=No
@@ -2534,7 +2534,7 @@
 7	热门	热门	ADJ	_	_	9	amod	_	SpaceAfter=No
 8	的	的	PART	_	_	7	mark:rel	_	SpaceAfter=No
 9	游乐器	游乐器	NOUN	_	_	5	obj	_	SpaceAfter=No
-10	。	。	PUNCT	_	_	3	punct	_	SpaceAfter=No
+10	。	。	PUNCT	_	_	11	punct	_	SpaceAfter=No
 11	机	机	NOUN	_	_	3	parataxis	_	SpaceAfter=No
 12	（	（	PUNCT	_	_	13	punct	_	SpaceAfter=No
 13	机械	机械	NOUN	_	_	11	parataxis	_	SpaceAfter=No
@@ -2616,7 +2616,7 @@
 9	冷	冷	ADJ	_	_	5	parataxis	_	SpaceAfter=No
 10	了	了	PART	_	_	9	discourse:sp	_	SpaceAfter=No
 11	吧	吧	PART	_	_	9	discourse:sp	_	SpaceAfter=No
-12	？	？	PUNCT	_	_	9	punct	_	SpaceAfter=No
+12	？	？	PUNCT	_	_	15	punct	_	SpaceAfter=No
 13	我们	我们	PRON	_	_	15	nsubj	_	SpaceAfter=No
 14	怎么	怎么	ADV	_	_	15	advmod	_	SpaceAfter=No
 15	办	办	VERB	_	_	9	conj	_	SpaceAfter=No
@@ -3183,7 +3183,7 @@
 15	微信	微信	NOUN	_	_	17	obl	_	SpaceAfter=No
 16	上	上	ADP	_	_	15	case:loc	_	SpaceAfter=No
 17	联系	联系	VERB	_	_	4	parataxis	_	SpaceAfter=No
-18	，	，	PUNCT	_	_	21	cc	_	SpaceAfter=No
+18	，	，	PUNCT	_	_	21	punct	_	SpaceAfter=No
 19	偶尔	偶尔	ADV	_	_	21	advmod	_	SpaceAfter=No
 20	一起	一起	ADV	_	_	21	advmod	_	SpaceAfter=No
 21	吃饭	吃饭	VERB	_	_	17	conj	_	SpaceAfter=No
@@ -3594,7 +3594,7 @@
 15	的	的	PART	_	_	14	mark:rel	_	SpaceAfter=No
 16	大学	大学	NOUN	_	_	17	obl	_	SpaceAfter=No
 17	学习	学习	VERB	_	_	11	parataxis	_	SpaceAfter=No
-18	，	，	PUNCT	_	_	17	parataxis	_	SpaceAfter=No
+18	，	，	PUNCT	_	_	20	punct	_	SpaceAfter=No
 19	她	她	PRON	_	_	20	nsubj	_	SpaceAfter=No
 20	学习	学习	VERB	_	_	17	parataxis	_	SpaceAfter=No
 21	教	教	VERB	_	_	20	xcomp	_	SpaceAfter=No
@@ -3612,7 +3612,7 @@
 33	我们	我们	PRON	_	_	35	obl	_	SpaceAfter=No
 34	很	很	ADV	_	_	35	advmod	_	SpaceAfter=No
 35	热情	热情	ADJ	_	_	6	parataxis	_	SpaceAfter=No
-36	，	，	PUNCT	_	_	35	punct	_	SpaceAfter=No
+36	，	，	PUNCT	_	_	41	punct	_	SpaceAfter=No
 37	那	那	DET	_	_	38	det	_	SpaceAfter=No
 38	时候	时候	NOUN	_	_	41	obl:tmod	_	SpaceAfter=No
 39	，	，	PUNCT	_	_	38	punct	_	SpaceAfter=No
@@ -3715,7 +3715,7 @@
 2	一	一	ADV	_	_	3	advmod	_	SpaceAfter=No
 3	看	看	VERB	_	_	7	advcl	_	SpaceAfter=No
 4	山	山	NOUN	_	_	3	obj	_	SpaceAfter=No
-5	，	，	PUNCT	_	_	7	punct	_	SpaceAfter=No
+5	，	，	PUNCT	_	_	3	punct	_	SpaceAfter=No
 6	就	就	ADV	_	_	7	advmod	_	SpaceAfter=No
 7	觉得	觉得	VERB	_	_	0	root	_	SpaceAfter=No
 8	很	很	ADV	_	_	9	advmod	_	SpaceAfter=No
@@ -3737,7 +3737,7 @@
 24	是	是	AUX	_	_	25	cop	_	SpaceAfter=No
 25	绿色	绿色	NOUN	_	_	30	cc	_	SpaceAfter=No
 26	的	的	PART	_	_	25	discourse:sp	_	SpaceAfter=No
-27	，	，	PUNCT	_	_	30	punct	_	SpaceAfter=No
+27	，	，	PUNCT	_	_	25	punct	_	SpaceAfter=No
 28	天气	天气	NOUN	_	_	30	nsubj	_	SpaceAfter=No
 29	很	很	ADV	_	_	30	advmod	_	SpaceAfter=No
 30	风和日丽	风和日丽	ADJ	_	_	17	conj	_	SpaceAfter=No
@@ -3853,7 +3853,7 @@
 17	那儿	那儿	PRON	_	_	16	obj	_	SpaceAfter=No
 18	做	做	VERB	_	_	16	conj	_	SpaceAfter=No
 19	礼拜	礼拜	NOUN	_	_	18	compound:vo	_	SpaceAfter=No
-20	，	，	PUNCT	_	_	16	punct	_	SpaceAfter=No
+20	，	，	PUNCT	_	_	24	punct	_	SpaceAfter=No
 21	也	也	ADV	_	_	24	advmod	_	SpaceAfter=No
 22	跟	跟	ADP	_	_	23	case	_	SpaceAfter=No
 23	佛家	佛家	NOUN	_	_	24	obl	_	SpaceAfter=No
@@ -4458,7 +4458,7 @@
 21	怎么样	怎么样	PRON	_	_	23	nmod	_	SpaceAfter=No
 22	的	的	PART	_	_	21	case	_	SpaceAfter=No
 23	城市	城市	NOUN	_	_	19	xcomp	_	SpaceAfter=No
-24	，	，	PUNCT	_	_	27	reparandum	_	SpaceAfter=No
+24	，	，	PUNCT	_	_	27	punct	_	SpaceAfter=No
 25	跟	跟	ADP	_	_	26	case	_	SpaceAfter=No
 26	西安	西安	PROPN	_	_	27	obl	_	SpaceAfter=No
 27	有	有	VERB	_	_	23	parataxis	_	SpaceAfter=No
@@ -4698,7 +4698,7 @@
 7	商洛	商洛	PROPN	_	_	9	nmod	_	SpaceAfter=No
 8	的	的	PART	_	_	7	case	_	SpaceAfter=No
 9	小吃	小吃	NOUN	_	_	13	nsubj	_	SpaceAfter=No
-10	，	，	PUNCT	_	_	13	punct	_	SpaceAfter=No
+10	，	，	PUNCT	_	_	9	punct	_	SpaceAfter=No
 11	真的	真的	ADV	_	_	13	advmod	_	SpaceAfter=No
 12	特别	特别	ADV	_	_	13	advmod	_	SpaceAfter=No
 13	好吃	好吃	ADJ	_	_	5	parataxis	_	SpaceAfter=No
@@ -5216,7 +5216,7 @@
 5	小朋友	小朋友	NOUN	_	_	6	nsubj	_	SpaceAfter=No
 6	走	走	VERB	_	_	0	root	_	SpaceAfter=No
 7	来	来	VERB	_	_	6	compound:dir	_	SpaceAfter=No
-8	，	，	PUNCT	_	_	6	punct	_	SpaceAfter=No
+8	，	，	PUNCT	_	_	13	punct	_	SpaceAfter=No
 9	他	他	PRON	_	_	12	nmod	_	SpaceAfter=No
 10	一	一	NUM	_	_	12	nummod	_	SpaceAfter=No
 11	只	只	NOUN	_	_	10	clf	_	SpaceAfter=No
@@ -5327,7 +5327,7 @@
 11	忘性	忘性	NOUN	_	_	13	nmod	_	SpaceAfter=No
 12	的	的	PART	_	_	11	mark:rel	_	SpaceAfter=No
 13	意思	意思	NOUN	_	_	10	xcomp	_	SpaceAfter=No
-14	，	，	PUNCT	_	_	10	punct	_	SpaceAfter=No
+14	，	，	PUNCT	_	_	17	punct	_	SpaceAfter=No
 15	因为	因为	ADV	_	_	17	advmod	_	SpaceAfter=No
 16	他们	他们	PRON	_	_	17	nsubj	_	SpaceAfter=No
 17	觉得	觉得	VERB	_	_	10	parataxis	_	SpaceAfter=No
@@ -5335,7 +5335,7 @@
 19	又	又	ADV	_	_	21	advmod	_	SpaceAfter=No
 20	很	很	ADV	_	_	21	advmod	_	SpaceAfter=No
 21	容易	容易	ADJ	_	_	17	xcomp	_	SpaceAfter=No
-22	，	，	PUNCT	_	_	27	cc	_	SpaceAfter=No
+22	，	，	PUNCT	_	_	27	punct	_	SpaceAfter=No
 23	有	又	ADV	_	_	25	advmod	_	SpaceAfter=No
 24	很	很	ADV	_	_	25	advmod	_	SpaceAfter=No
 25	快	快	ADJ	_	_	27	advmod	_	SpaceAfter=No
@@ -5375,7 +5375,7 @@
 28	分手	分手	VERB	_	_	30	acl	_	SpaceAfter=No
 29	的	的	PART	_	_	28	mark:rel	_	SpaceAfter=No
 30	时候	时候	NOUN	_	_	34	obl:tmod	_	SpaceAfter=No
-31	，	，	PUNCT	_	_	34	punct	_	SpaceAfter=No
+31	，	，	PUNCT	_	_	30	punct	_	SpaceAfter=No
 32	当时	当时	NOUN	_	_	34	obl:tmod	_	SpaceAfter=No
 33	我	我	PRON	_	_	34	nsubj	_	SpaceAfter=No
 34	觉得	觉得	VERB	_	_	21	parataxis	_	SpaceAfter=No
@@ -5428,7 +5428,7 @@
 30	变成	变成	VERB	_	_	28	xcomp	_	SpaceAfter=No
 31	今天	今天	NOUN	_	_	34	nmod	_	SpaceAfter=No
 32	的	的	PART	_	_	31	mark:rel	_	SpaceAfter=No
-33	。	。	PUNCT	_	_	31	dep	_	SpaceAfter=No
+33	。	。	PUNCT	_	_	31	punct	_	SpaceAfter=No
 34	我们	我们	PRON	_	_	30	obj	_	SpaceAfter=No
 35	。	。	PUNCT	_	_	7	punct	_	SpaceAfter=No
 
@@ -5474,7 +5474,7 @@
 38	他	他	PRON	_	_	40	nmod	_	SpaceAfter=No
 39	的	的	PART	_	_	38	case	_	SpaceAfter=No
 40	悲剧	悲剧	NOUN	_	_	37	obj	_	SpaceAfter=No
-41	，	，	PUNCT	_	_	37	punct	_	SpaceAfter=No
+41	，	，	PUNCT	_	_	44	punct	_	SpaceAfter=No
 42	以前	以前	NOUN	_	_	44	obl:tmod	_	SpaceAfter=No
 43	他	他	PRON	_	_	44	nsubj	_	SpaceAfter=No
 44	算	算	VERB	_	_	37	parataxis	_	SpaceAfter=No
@@ -5593,7 +5593,7 @@
 5	会	会	AUX	_	_	6	aux	_	SpaceAfter=No
 6	踢	踢	VERB	_	_	13	advcl	_	SpaceAfter=No
 7	足球	足球	NOUN	_	_	6	compound:vo	_	SpaceAfter=No
-8	，	，	PUNCT	_	_	13	punct	_	SpaceAfter=No
+8	，	，	PUNCT	_	_	6	punct	_	SpaceAfter=No
 9	但是	但是	ADV	_	_	13	advmod	_	SpaceAfter=No
 10	他	他	PRON	_	_	13	nsubj	_	SpaceAfter=No
 11	还	还	ADV	_	_	13	advmod	_	SpaceAfter=No
@@ -5840,7 +5840,7 @@
 5	是	是	AUX	_	_	6	cop	_	SpaceAfter=No
 6	这样	这样	PRON	_	_	0	root	_	SpaceAfter=No
 7	的	的	PART	_	_	6	discourse:sp	_	SpaceAfter=No
-8	：	：	PUNCT	_	_	6	punct	_	SpaceAfter=No
+8	：	：	PUNCT	_	_	22	punct	_	SpaceAfter=No
 9	“	“	PUNCT	_	_	22	punct	_	SpaceAfter=No
 10	天池	天池	PROPN	_	_	22	nsubj	_	SpaceAfter=No
 11	不	不	ADV	_	_	22	advmod	_	SpaceAfter=No
@@ -5918,7 +5918,7 @@
 11	有些	有些	DET	_	_	12	det	_	SpaceAfter=No
 12	人	人	NOUN	_	_	13	nsubj	_	SpaceAfter=No
 13	消失	消失	VERB	_	_	9	conj	_	SpaceAfter=No
-14	，	，	PUNCT	_	_	6	punct	_	SpaceAfter=No
+14	，	，	PUNCT	_	_	30	punct	_	SpaceAfter=No
 15	但	但	CCONJ	_	_	30	cc	_	SpaceAfter=No
 16	那些	那些	DET	_	_	20	det	_	SpaceAfter=No
 17	消失	消失	VERB	_	_	20	acl	_	SpaceAfter=No
@@ -5952,7 +5952,7 @@
 8	一	一	NUM	_	_	10	nummod	_	SpaceAfter=No
 9	件	件	NOUN	_	_	8	clf	_	SpaceAfter=No
 10	事	事	NOUN	_	_	15	nsubj	_	SpaceAfter=No
-11	，	，	PUNCT	_	_	15	punct	_	SpaceAfter=No
+11	，	，	PUNCT	_	_	10	punct	_	SpaceAfter=No
 12	是	是	AUX	_	_	15	cop	_	SpaceAfter=No
 13	那	那	DET	_	_	15	det	_	SpaceAfter=No
 14	次	次	NOUN	_	_	13	clf	_	SpaceAfter=No
@@ -5971,7 +5971,7 @@
 8	了	了	AUX	_	_	6	aux	_	SpaceAfter=No
 9	我们	我们	PRON	_	_	10	nmod	_	SpaceAfter=No
 10	班	班	NOUN	_	_	6	obj	_	SpaceAfter=No
-11	，	，	PUNCT	_	_	6	punct	_	SpaceAfter=No
+11	，	，	PUNCT	_	_	21	punct	_	SpaceAfter=No
 12	因为	因为	SCONJ	_	_	13	mark	_	SpaceAfter=No
 13	没有	没有	VERB	_	_	21	advcl	_	SpaceAfter=No
 14	别	别	PRON	_	_	17	nmod	_	SpaceAfter=No
@@ -6027,7 +6027,7 @@
 15	整	整	DET	_	_	17	det	_	SpaceAfter=No
 16	片	片	NOUN	_	_	15	clf	_	SpaceAfter=No
 17	海洋	海洋	NOUN	_	_	13	obj	_	SpaceAfter=No
-18	，	，	PUNCT	_	_	13	punct	_	SpaceAfter=No
+18	，	，	PUNCT	_	_	20	punct	_	SpaceAfter=No
 19	我	我	PRON	_	_	20	nsubj	_	SpaceAfter=No
 20	想	想	VERB	_	_	13	parataxis	_	SpaceAfter=No
 21	也许	也许	ADV	_	_	23	advmod	_	SpaceAfter=No
@@ -6196,7 +6196,7 @@
 21	去	去	VERB	_	_	13	conj	_	SpaceAfter=No
 22	寻找	寻找	VERB	_	_	21	conj	_	SpaceAfter=No
 23	答案	答案	NOUN	_	_	22	obj	_	SpaceAfter=No
-24	，	，	PUNCT	_	_	13	punct	_	SpaceAfter=No
+24	，	，	PUNCT	_	_	27	punct	_	SpaceAfter=No
 25	我	我	PRON	_	_	27	nsubj	_	SpaceAfter=No
 26	十分	十分	ADV	_	_	27	advmod	_	SpaceAfter=No
 27	享受	享受	VERB	_	_	13	parataxis	_	SpaceAfter=No
@@ -6523,12 +6523,12 @@
 8	新	新	ADJ	_	_	10	amod	_	SpaceAfter=No
 9	的	的	PART	_	_	8	mark:rel	_	SpaceAfter=No
 10	男朋友	男朋友	NOUN	_	_	6	obj	_	SpaceAfter=No
-11	，	，	PUNCT	_	_	2	punct	_	SpaceAfter=No
+11	，	，	PUNCT	_	_	13	punct	_	SpaceAfter=No
 12	我	我	PRON	_	_	13	nsubj	_	SpaceAfter=No
 13	感觉	感觉	VERB	_	_	2	parataxis	_	SpaceAfter=No
 14	极度	极度	ADV	_	_	15	advmod	_	SpaceAfter=No
 15	悲伤	悲伤	ADJ	_	_	13	xcomp	_	SpaceAfter=No
-16	，	，	PUNCT	_	_	13	punct	_	SpaceAfter=No
+16	，	，	PUNCT	_	_	19	punct	_	SpaceAfter=No
 17	甚至	甚至	ADV	_	_	19	advmod	_	SpaceAfter=No
 18	想	想	AUX	_	_	19	aux	_	SpaceAfter=No
 19	自杀	自杀	VERB	_	_	13	parataxis	_	SpaceAfter=No
@@ -6597,7 +6597,7 @@
 5	不	不	ADV	_	_	6	advmod	_	SpaceAfter=No
 6	后悔	后悔	VERB	_	_	0	root	_	SpaceAfter=No
 7	了	了	AUX	_	_	6	aux	_	SpaceAfter=No
-8	，	，	PUNCT	_	_	6	punct	_	SpaceAfter=No
+8	，	，	PUNCT	_	_	11	punct	_	SpaceAfter=No
 9	因为	因为	SCONJ	_	_	11	mark	_	SpaceAfter=No
 10	我	我	PRON	_	_	11	nsubj	_	SpaceAfter=No
 11	怕	怕	VERB	_	_	6	advcl	_	SpaceAfter=No
@@ -6647,7 +6647,7 @@
 35	别	别	PRON	_	_	37	nmod	_	SpaceAfter=No
 36	的	的	PART	_	_	35	case	_	SpaceAfter=No
 37	女孩子	女孩子	NOUN	_	_	33	obj	_	SpaceAfter=No
-38	，	，	PUNCT	_	_	31	punct	_	SpaceAfter=No
+38	，	，	PUNCT	_	_	50	punct	_	SpaceAfter=No
 39	因为	因为	ADV	_	_	44	advmod	_	SpaceAfter=No
 40	分手	分手	NOUN	_	_	42	nmod	_	SpaceAfter=No
 41	的	的	PART	_	_	40	mark:rel	_	SpaceAfter=No
@@ -6693,7 +6693,7 @@
 9	一	一	NUM	_	_	11	nummod	_	SpaceAfter=No
 10	件	件	NOUN	_	_	9	clf	_	SpaceAfter=No
 11	事	事	NOUN	_	_	8	obj	_	SpaceAfter=No
-12	，	，	PUNCT	_	_	5	punct	_	SpaceAfter=No
+12	，	，	PUNCT	_	_	14	punct	_	SpaceAfter=No
 13	就	就	ADV	_	_	14	advmod	_	SpaceAfter=No
 14	是	是	VERB	_	_	5	parataxis	_	SpaceAfter=No
 15	在	在	ADP	_	_	21	case	_	SpaceAfter=No
@@ -6791,7 +6791,7 @@
 20	个	个	NOUN	_	_	19	clf	_	SpaceAfter=No
 21	女孩	女孩	NOUN	_	_	22	obl	_	SpaceAfter=No
 22	约会	约会	VERB	_	_	13	xcomp	_	SpaceAfter=No
-23	，	，	PUNCT	_	_	9	punct	_	SpaceAfter=No
+23	，	，	PUNCT	_	_	25	punct	_	SpaceAfter=No
 24	我	我	PRON	_	_	25	nsubj	_	SpaceAfter=No
 25	告诉	告诉	VERB	_	_	9	parataxis	_	SpaceAfter=No
 26	他	他	PRON	_	_	28	nsubj	_	SpaceAfter=No
@@ -6846,7 +6846,7 @@
 25	的	的	PART	_	_	24	case	_	SpaceAfter=No
 26	公寓	公寓	NOUN	_	_	20	obl	_	SpaceAfter=No
 27	里面	里面	NOUN	_	_	26	case:loc	_	SpaceAfter=No
-28	，	，	PUNCT	_	_	10	punct	_	SpaceAfter=No
+28	，	，	PUNCT	_	_	33	punct	_	SpaceAfter=No
 29	上	上	NOUN	_	_	31	nmod	_	SpaceAfter=No
 30	一	一	NUM	_	_	31	nummod	_	SpaceAfter=No
 31	次	次	NOUN	_	_	33	obl:tmod	_	SpaceAfter=No
@@ -6874,7 +6874,7 @@
 8	在	在	ADP	_	_	9	case	_	SpaceAfter=No
 9	东京	东京	PROPN	_	_	10	obl	_	SpaceAfter=No
 10	玩	玩	VERB	_	_	0	root	_	SpaceAfter=No
-11	，	，	PUNCT	_	_	10	punct	_	SpaceAfter=No
+11	，	，	PUNCT	_	_	16	punct	_	SpaceAfter=No
 12	我们	我们	PRON	_	_	16	nsubj	_	SpaceAfter=No
 13	主要	主要	ADJ	_	_	16	advmod	_	SpaceAfter=No
 14	在	在	ADP	_	_	15	case	_	SpaceAfter=No
@@ -6893,7 +6893,7 @@
 7	动漫	动漫	NOUN	_	_	5	conj	_	SpaceAfter=No
 8	的	的	PART	_	_	5	case	_	SpaceAfter=No
 9	东西	东西	NOUN	_	_	2	obj	_	SpaceAfter=No
-10	，	，	PUNCT	_	_	2	punct	_	SpaceAfter=No
+10	，	，	PUNCT	_	_	12	punct	_	SpaceAfter=No
 11	很	很	ADV	_	_	12	advmod	_	SpaceAfter=No
 12	有意思	有意思	ADJ	_	_	2	parataxis	_	SpaceAfter=No
 13	。	。	PUNCT	_	_	2	punct	_	SpaceAfter=No
@@ -7663,7 +7663,7 @@
 19	他们	他们	PRON	_	_	25	nsubj	_	SpaceAfter=No
 20	为了	为了	ADP	_	_	21	case	_	SpaceAfter=No
 21	比赛	比赛	NOUN	_	_	25	obl	_	SpaceAfter=No
-22	，	，	PUNCT	_	_	32	punct	_	SpaceAfter=No
+22	，	，	PUNCT	_	_	21	punct	_	SpaceAfter=No
 23	努力	努力	ADJ	_	_	25	advmod	_	SpaceAfter=No
 24	刻苦	刻苦	ADJ	_	_	23	conj	_	SpaceAfter=No
 25	训练	训练	VERB	_	_	29	acl	_	SpaceAfter=No
@@ -7738,7 +7738,7 @@
 13	观众	观众	NOUN	_	_	8	obj	_	SpaceAfter=No
 14	，	，	PUNCT	_	_	15	punct	_	SpaceAfter=No
 15	家人	家人	NOUN	_	_	13	conj	_	SpaceAfter=No
-16	，	，	PUNCT	_	_	13	punct	_	SpaceAfter=No
+16	，	，	PUNCT	_	_	20	punct	_	SpaceAfter=No
 17	不断	不断	ADV	_	_	20	advmod	_	SpaceAfter=No
 18	为	为	ADP	_	_	19	case	_	SpaceAfter=No
 19	他们	他们	PRON	_	_	20	obl	_	SpaceAfter=No
@@ -7885,7 +7885,7 @@
 19	叽叽喳喳	叽叽喳喳	ADV	_	_	21	advmod	_	SpaceAfter=No
 20	地	地	PART	_	_	19	mark:adv	_	SpaceAfter=No
 21	叫	叫	VERB	_	_	5	parataxis	_	SpaceAfter=No
-22	，	，	PUNCT	_	_	21	punct	_	SpaceAfter=No
+22	，	，	PUNCT	_	_	25	punct	_	SpaceAfter=No
 23	好像	好像	ADV	_	_	25	advmod	_	SpaceAfter=No
 24	在	在	ADV	_	_	25	advmod	_	SpaceAfter=No
 25	说	说	VERB	_	_	21	conj	_	SpaceAfter=No
@@ -8036,7 +8036,7 @@
 29	的	的	PART	_	_	26	mark:rel	_	SpaceAfter=No
 30	工作	工作	VERB	_	_	24	obj	_	SpaceAfter=No
 31	了	了	PART	_	_	24	discourse:sp	_	SpaceAfter=No
-32	，	，	PUNCT	_	_	24	punct	_	SpaceAfter=No
+32	，	，	PUNCT	_	_	43	punct	_	SpaceAfter=No
 33	有	有	VERB	_	_	43	advcl	_	SpaceAfter=No
 34	了	了	AUX	_	_	33	aux	_	SpaceAfter=No
 35	他们	他们	PRON	_	_	33	obj	_	SpaceAfter=No
@@ -8296,7 +8296,7 @@
 4	宿舍	宿舍	NOUN	_	_	5	acl	_	SpaceAfter=No
 5	到	到	VERB	_	_	10	advcl	_	SpaceAfter=No
 6	教室楼	教室楼	NOUN	_	_	5	obj	_	SpaceAfter=No
-7	，	，	PUNCT	_	_	10	punct	_	SpaceAfter=No
+7	，	，	PUNCT	_	_	5	punct	_	SpaceAfter=No
 8	走路	走路	VERB	_	_	10	advcl	_	SpaceAfter=No
 9	大概	大概	ADV	_	_	10	advmod	_	SpaceAfter=No
 10	要	要	VERB	_	_	0	root	_	SpaceAfter=No
@@ -8528,7 +8528,7 @@
 13	的	的	PART	_	_	12	case	_	SpaceAfter=No
 14	使用	使用	NOUN	_	_	11	obj	_	SpaceAfter=No
 15	次数	次数	NOUN	_	_	14	compound	_	SpaceAfter=No
-16	，	，	PUNCT	_	_	17	cc	_	SpaceAfter=No
+16	，	，	PUNCT	_	_	17	punct	_	SpaceAfter=No
 17	选择	选择	VERB	_	_	11	conj	_	SpaceAfter=No
 18	自行车	自行车	NOUN	_	_	17	obj	_	SpaceAfter=No
 19	这样	这样	PRON	_	_	22	nmod	_	SpaceAfter=No
@@ -8536,7 +8536,7 @@
 21	绿色	绿色	NOUN	_	_	22	nmod	_	SpaceAfter=No
 22	出行	出行	NOUN	_	_	18	appos	_	SpaceAfter=No
 23	方式	方式	NOUN	_	_	22	compound	_	SpaceAfter=No
-24	，	，	PUNCT	_	_	25	punct	_	SpaceAfter=No
+24	，	，	PUNCT	_	_	5	punct	_	SpaceAfter=No
 25	建设	建设	VERB	_	_	2	ccomp	_	SpaceAfter=No
 26	了	了	AUX	_	_	25	aux	_	SpaceAfter=No
 27	借	借	VERB	_	_	29	acl	_	SpaceAfter=No

@@ -45,7 +45,7 @@
     <dep name="aux">283</dep>
     <dep name="case">376</dep>
     <dep name="case:loc">90</dep>
-    <dep name="cc">97</dep>
+    <dep name="cc">94</dep>
     <dep name="ccomp">110</dep>
     <dep name="clf">128</dep>
     <dep name="compound">52</dep>
@@ -56,7 +56,7 @@
     <dep name="conj">274</dep>
     <dep name="cop">74</dep>
     <dep name="csubj">5</dep>
-    <dep name="dep">14</dep>
+    <dep name="dep">13</dep>
     <dep name="det">137</dep>
     <dep name="discourse">2</dep>
     <dep name="discourse:sp">103</dep>
@@ -75,9 +75,9 @@
     <dep name="obl:agent">5</dep>
     <dep name="obl:patient">7</dep>
     <dep name="obl:tmod">143</dep>
-    <dep name="parataxis">175</dep>
-    <dep name="punct">912</dep>
-    <dep name="reparandum">2</dep>
+    <dep name="parataxis">172</dep>
+    <dep name="punct">920</dep>
+    <dep name="reparandum">1</dep>
     <dep name="root">451</dep>
     <dep name="vocative">1</dep>
     <dep name="xcomp">128</dep>

@@ -86,8 +86,8 @@ John Lee, Herman Leung, Keying Li. 2017. Towards Universal Dependencies for Lear
 
 # Changelog
 
-* 2018-04-15 v2.2
-  * ?
+* 2023-05-15 v2.12
+  * Fixed: PUNCT nodes must be attached via punct relations.
 * 2017-11-15 v2.1
   * Initial UD release.
 
