@@ -3462,7 +3462,7 @@
 13	了	了	AUX	_	_	12	aux	_	SpaceAfter=No
 14	身份	身份	NOUN	_	_	12	dep	_	SpaceAfter=No
 15	宝贵	宝贵	ADJ	_	_	17	amod	_	SpaceAfter=No
-16	的	的	ADJ	_	_	15	mark:rel	_	SpaceAfter=No
+16	的	的	PART	_	_	15	mark:rel	_	SpaceAfter=No
 17	经验	经验	NOUN	_	_	12	obj	_	SpaceAfter=No
 18	。	。	PUNCT	_	_	8	punct	_	SpaceAfter=No
 
