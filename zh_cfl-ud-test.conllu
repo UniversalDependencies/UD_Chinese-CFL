@@ -3735,7 +3735,7 @@
 22	叶子	叶子	NOUN	_	_	25	nsubj	_	SpaceAfter=No
 23	都	都	ADV	_	_	24	advmod	_	SpaceAfter=No
 24	是	是	AUX	_	_	25	cop	_	SpaceAfter=No
-25	绿色	绿色	NOUN	_	_	30	cc	_	SpaceAfter=No
+25	绿色	绿色	NOUN	_	_	17	conj	_	SpaceAfter=No
 26	的	的	PART	_	_	25	discourse:sp	_	SpaceAfter=No
 27	，	，	PUNCT	_	_	25	punct	_	SpaceAfter=No
 28	天气	天气	NOUN	_	_	30	nsubj	_	SpaceAfter=No
