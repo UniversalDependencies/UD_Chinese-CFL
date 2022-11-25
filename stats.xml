@@ -15,7 +15,7 @@
   <fusions unique="0" /><!--  -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
   <tags unique="15">
-    <tag name="ADJ">354</tag><!-- 好, 难忘, 快, 一样, 多, 第一, 冷, 新, 大, 容易 -->
+    <tag name="ADJ">353</tag><!-- 好, 难忘, 快, 一样, 多, 第一, 冷, 新, 大, 容易 -->
     <tag name="ADP">330</tag><!-- 在, 上, 对, 给, 从, 后, 跟, 里, 以后, 和 -->
     <tag name="ADV">756</tag><!-- 不, 很, 就, 所以, 都, 也, 一起, 最, 已经, 真的 -->
     <tag name="AUX">356</tag><!-- 了, 是, 着, 要, 会, 能, 想, 过, 可以, 没 -->
@@ -24,12 +24,12 @@
     <tag name="INTJ">3</tag><!-- 吧, 天哪, 罢了 -->
     <tag name="NOUN">1352</tag><!-- 个, 人, 时候, 天, 次, 朋友, 自行车, 旅行, 事, 时间 -->
     <tag name="NUM">143</tag><!-- 一, 两, 三, 第一, 几, 10, 20, 之一, 仨, 半 -->
-    <tag name="PART">537</tag><!-- 的, 了, 地, 得, 吧, 吗, 呢, 啊, 。, 和 -->
+    <tag name="PART">537</tag><!-- 的, 了, 地, 得, 吧, 吗, 呢, 啊, 和, 嗬 -->
     <tag name="PRON">759</tag><!-- 我, 我们, 他, 她, 他们, 这, 你, 那里, 自己, 什么 -->
     <tag name="PROPN">144</tag><!-- 中国, 西安, 麦加, 北京, 商洛, 韩国, 天池, 日本, 香港, 加拿大 -->
-    <tag name="PUNCT">917</tag><!-- ，, 。, ！, ？, “, ”, ：, ?, 、, （ -->
+    <tag name="PUNCT">919</tag><!-- ，, 。, ！, ？, “, ”, ：, ?, 、, （ -->
     <tag name="SCONJ">68</tag><!-- 虽然, 因为, 来, 因, 如果, 虽, 一, 之所以, 但是, 不但 -->
-    <tag name="VERB">1316</tag><!-- 到, 去, 有, 是, 看, 说, 让, 来, 见, 吃 -->
+    <tag name="VERB">1315</tag><!-- 到, 去, 有, 是, 看, 说, 让, 来, 见, 吃 -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
   <feats unique="0">
@@ -47,7 +47,7 @@
     <dep name="case:loc">90</dep>
     <dep name="cc">94</dep>
     <dep name="ccomp">110</dep>
-    <dep name="clf">128</dep>
+    <dep name="clf">141</dep>
     <dep name="compound">52</dep>
     <dep name="compound:dir">29</dep>
     <dep name="compound:ext">10</dep>
@@ -57,7 +57,7 @@
     <dep name="cop">74</dep>
     <dep name="csubj">5</dep>
     <dep name="dep">13</dep>
-    <dep name="det">137</dep>
+    <dep name="det">124</dep>
     <dep name="discourse">2</dep>
     <dep name="discourse:sp">103</dep>
     <dep name="dislocated">17</dep>
@@ -75,8 +75,8 @@
     <dep name="obl:agent">5</dep>
     <dep name="obl:patient">7</dep>
     <dep name="obl:tmod">143</dep>
-    <dep name="parataxis">172</dep>
-    <dep name="punct">920</dep>
+    <dep name="parataxis">173</dep>
+    <dep name="punct">919</dep>
     <dep name="reparandum">1</dep>
     <dep name="root">451</dep>
     <dep name="vocative">1</dep>

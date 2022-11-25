@@ -89,6 +89,7 @@ John Lee, Herman Leung, Keying Li. 2017. Towards Universal Dependencies for Lear
 * 2023-05-15 v2.12
   * Fixed: PUNCT nodes must be attached via punct relations.
   * Fixed: Only some UPOS categories are compatible with mark.
+  * Fixed: Only some UPOS categories are compatible with det.
 * 2017-11-15 v2.1
   * Initial UD release.
 

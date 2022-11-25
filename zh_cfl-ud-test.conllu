@@ -812,7 +812,7 @@
 25	总统	总统	NOUN	_	_	26	obl	_	SpaceAfter=No
 26	写	写	VERB	_	_	10	parataxis	_	SpaceAfter=No
 27	了	了	AUX	_	_	26	aux	_	SpaceAfter=No
-28	封	封	NOUN	_	_	29	det	_	SpaceAfter=No
+28	封	封	NOUN	_	_	29	clf	_	SpaceAfter=No
 29	信	信	NOUN	_	_	26	obj	_	SpaceAfter=No
 30	。	。	PUNCT	_	_	10	punct	_	SpaceAfter=No
 
@@ -1015,7 +1015,7 @@
 4	父母	父母	NOUN	_	_	3	obj	_	SpaceAfter=No
 5	而	而	CCONJ	_	_	9	cc	_	SpaceAfter=No
 6	把	把	ADP	_	_	8	case	_	SpaceAfter=No
-7	本	本	NOUN	_	_	8	det	_	SpaceAfter=No
+7	本	本	NOUN	_	_	8	clf	_	SpaceAfter=No
 8	信	信	NOUN	_	_	9	obl:patient	_	SpaceAfter=No
 9	送	送	VERB	_	_	3	conj	_	SpaceAfter=No
 10	给	给	ADP	_	_	12	mark	_	SpaceAfter=No
@@ -1139,7 +1139,7 @@
 # text = 我是个特别安静的人。
 1	我	我	PRON	_	_	7	nsubj	_	SpaceAfter=No
 2	是	是	AUX	_	_	7	cop	_	SpaceAfter=No
-3	个	个	NOUN	_	_	7	det	_	SpaceAfter=No
+3	个	个	NOUN	_	_	7	clf	_	SpaceAfter=No
 4	特别	特别	ADV	_	_	5	advmod	_	SpaceAfter=No
 5	安静	安静	ADJ	_	_	7	amod	_	SpaceAfter=No
 6	的	的	PART	_	_	5	mark:rel	_	SpaceAfter=No
@@ -2077,7 +2077,7 @@
 17	天	天	NOUN	_	_	18	obl:tmod	_	SpaceAfter=No
 18	发生	发生	VERB	_	_	0	root	_	SpaceAfter=No
 19	了	了	AUX	_	_	18	aux	_	SpaceAfter=No
-20	件	件	NOUN	_	_	21	det	_	SpaceAfter=No
+20	件	件	NOUN	_	_	21	clf	_	SpaceAfter=No
 21	事情	事情	NOUN	_	_	18	obj	_	SpaceAfter=No
 22	。	。	PUNCT	_	_	18	punct	_	SpaceAfter=No
 
@@ -4833,7 +4833,7 @@
 12	看	看	VERB	_	_	14	advcl	_	SpaceAfter=No
 13	起来	起来	VERB	_	_	12	compound:dir	_	SpaceAfter=No
 14	好像	好像	VERB	_	_	0	root	_	SpaceAfter=No
-15	个	个	NOUN	_	_	18	det	_	SpaceAfter=No
+15	个	个	NOUN	_	_	18	clf	_	SpaceAfter=No
 16	成熟	成熟	ADJ	_	_	18	amod	_	SpaceAfter=No
 17	的	的	PART	_	_	16	mark:rel	_	SpaceAfter=No
 18	男人	男人	NOUN	_	_	14	obj	_	SpaceAfter=No
@@ -4857,7 +4857,7 @@
 3	他	他	PRON	_	_	8	nsubj	_	SpaceAfter=No
 4	真的	真的	ADV	_	_	8	advmod	_	SpaceAfter=No
 5	是	是	AUX	_	_	8	cop	_	SpaceAfter=No
-6	个	个	NOUN	_	_	8	det	_	SpaceAfter=No
+6	个	个	NOUN	_	_	8	clf	_	SpaceAfter=No
 7	很	很	ADV	_	_	8	advmod	_	SpaceAfter=No
 8	乖	乖	ADJ	_	_	2	ccomp	_	SpaceAfter=No
 9	的	的	PART	_	_	8	mark:rel	_	SpaceAfter=No
@@ -4922,7 +4922,7 @@
 2	因为	因为	SCONJ	_	_	6	mark	_	SpaceAfter=No
 3	我	我	PRON	_	_	6	nsubj	_	SpaceAfter=No
 4	是	是	AUX	_	_	6	cop	_	SpaceAfter=No
-5	个	个	NOUN	_	_	6	det	_	SpaceAfter=No
+5	个	个	NOUN	_	_	6	clf	_	SpaceAfter=No
 6	外国人	外国人	NOUN	_	_	12	advcl	_	SpaceAfter=No
 7	，	，	PUNCT	_	_	6	punct	_	SpaceAfter=No
 8	所以	所以	ADV	_	_	12	advmod	_	SpaceAfter=No
@@ -5090,7 +5090,7 @@
 19	是	是	VERB	_	_	15	parataxis	_	SpaceAfter=No
 20	他	他	PRON	_	_	23	nsubj	_	SpaceAfter=No
 21	是	是	AUX	_	_	23	cop	_	SpaceAfter=No
-22	个	个	NOUN	_	_	23	det	_	SpaceAfter=No
+22	个	个	NOUN	_	_	23	clf	_	SpaceAfter=No
 23	花花公子	花花公子	NOUN	_	_	19	ccomp	_	SpaceAfter=No
 24	。	。	PUNCT	_	_	6	punct	_	SpaceAfter=No
 
@@ -5142,7 +5142,7 @@
 13	他	他	PRON	_	_	17	nsubj	_	SpaceAfter=No
 14	本来	本来	ADV	_	_	17	advmod	_	SpaceAfter=No
 15	是	是	AUX	_	_	17	cop	_	SpaceAfter=No
-16	个	个	NOUN	_	_	17	det	_	SpaceAfter=No
+16	个	个	NOUN	_	_	17	clf	_	SpaceAfter=No
 17	花花公了	花花公了	NOUN	_	_	11	ccomp	_	SpaceAfter=No
 18	。	。	PUNCT	_	_	11	punct	_	SpaceAfter=No
 
@@ -5712,7 +5712,7 @@
 4	给	给	ADP	_	_	5	case	_	SpaceAfter=No
 5	她	她	PRON	_	_	6	obl	_	SpaceAfter=No
 6	打	打	VERB	_	_	0	root	_	SpaceAfter=No
-7	个	个	NOUN	_	_	8	det	_	SpaceAfter=No
+7	个	个	NOUN	_	_	8	clf	_	SpaceAfter=No
 8	电话	电话	NOUN	_	_	6	compound:vo	_	SpaceAfter=No
 9	，	，	PUNCT	_	_	12	punct	_	SpaceAfter=No
 10	突然	突然	ADV	_	_	12	advmod	_	SpaceAfter=No
@@ -5895,7 +5895,7 @@
 # text = 这是件我最难忘的事。
 1	这	这	PRON	_	_	8	nsubj	_	SpaceAfter=No
 2	是	是	AUX	_	_	8	cop	_	SpaceAfter=No
-3	件	件	NOUN	_	_	8	det	_	SpaceAfter=No
+3	件	件	NOUN	_	_	8	clf	_	SpaceAfter=No
 4	我	我	PRON	_	_	8	nmod	_	SpaceAfter=No
 5	最	最	ADV	_	_	6	advmod	_	SpaceAfter=No
 6	难忘	难忘	ADJ	_	_	8	amod	_	SpaceAfter=No
@@ -6398,7 +6398,7 @@
 4	想	想	AUX	_	_	5	aux	_	SpaceAfter=No
 5	让	让	VERB	_	_	0	root	_	SpaceAfter=No
 6	她	她	PRON	_	_	5	obj	_	SpaceAfter=No
-7	每	每	NOUN	_	_	8	det	_	SpaceAfter=No
+7	每	每	NOUN	_	_	8	clf	_	SpaceAfter=No
 8	天	天	NOUN	_	_	9	obl:tmod	_	SpaceAfter=No
 9	伤心	伤心	ADJ	_	_	5	xcomp	_	SpaceAfter=No
 10	难过	难过	ADJ	_	_	9	conj	_	SpaceAfter=No
@@ -7495,7 +7495,7 @@
 5	他	他	PRON	_	_	10	nsubj	_	SpaceAfter=No
 6	张	张	VERB	_	_	10	advcl	_	SpaceAfter=No
 7	开	开	VERB	_	_	6	compound:vv	_	SpaceAfter=No
-8	双	双	NOUN	_	_	9	det	_	SpaceAfter=No
+8	双	双	NOUN	_	_	9	clf	_	SpaceAfter=No
 9	臂	臂	NOUN	_	_	6	obj	_	SpaceAfter=No
 10	欢呼	欢呼	VERB	_	_	0	root	_	SpaceAfter=No
 11	，	，	PUNCT	_	_	13	punct	_	SpaceAfter=No
