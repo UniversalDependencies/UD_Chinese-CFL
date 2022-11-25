@@ -1,11 +1,11 @@
 # sent_id = CFL_A_1-1a_ori
 # text = 2012年12月我在韩国留学的时候，有一天接到一个通知。
-# translit = 2012nián12yuèwǒzài韩guóliúxuédeshíhou,yǒuyītiānjiēdàoyīgètōngzhī.
+# translit = 2012nián12yuèwǒzàihánguóliúxuédeshíhou,yǒuyītiānjiēdàoyīgètōngzhī.
 1	2012年	2012年	NOUN	_	_	6	obl:tmod	_	SpaceAfter=No|Translit=2012nián|LTranslit=2012nián
 2	12月	12月	NOUN	_	_	1	flat	_	SpaceAfter=No|Translit=12yuè|LTranslit=12yuè
 3	我	我	PRON	_	_	6	nsubj	_	SpaceAfter=No|Translit=wǒ|LTranslit=wǒ
 4	在	在	ADP	_	_	5	case	_	SpaceAfter=No|Translit=zài|LTranslit=zài
-5	韩国	韩国	PROPN	_	_	6	obl	_	SpaceAfter=No|Translit=韩guó|LTranslit=韩guó
+5	韩国	韩国	PROPN	_	_	6	obl	_	SpaceAfter=No|Translit=hánguó|LTranslit=hánguó
 6	留学	留学	VERB	_	_	8	acl	_	SpaceAfter=No|Translit=liúxué|LTranslit=liúxué
 7	的	的	PART	_	_	6	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 8	时候	时候	NOUN	_	_	13	obl:tmod	_	SpaceAfter=No|Translit=shíhou|LTranslit=shíhou
@@ -35,10 +35,10 @@
 
 # sent_id = CFL_A_1-2_ori
 # text = 地方是韩国和朝鲜的过境处。
-# translit = defāngshì韩guóhécháoxiāndeguòjìngchù.
+# translit = defāngshìhánguóhécháoxiāndeguòjìngchù.
 1	地方	地方	NOUN	_	_	7	nsubj	_	SpaceAfter=No|Translit=defāng|LTranslit=defāng
 2	是	是	AUX	_	_	7	cop	_	SpaceAfter=No|Translit=shì|LTranslit=shì
-3	韩国	韩国	PROPN	_	_	7	nmod	_	SpaceAfter=No|Translit=韩guó|LTranslit=韩guó
+3	韩国	韩国	PROPN	_	_	7	nmod	_	SpaceAfter=No|Translit=hánguó|LTranslit=hánguó
 4	和	和	CCONJ	_	_	5	cc	_	SpaceAfter=No|Translit=hé|LTranslit=hé
 5	朝鲜	朝鲜	PROPN	_	_	3	conj	_	SpaceAfter=No|Translit=cháoxiān|LTranslit=cháoxiān
 6	的	的	PART	_	_	3	case	_	SpaceAfter=No|Translit=de|LTranslit=de
@@ -158,14 +158,14 @@
 
 # sent_id = CFL_A_1-9_ori
 # text = 这洞窟是朝鲜为了攻打韩国偷偷做的。
-# translit = zhèdòngkūshìcháoxiānwèilegōngdǎ韩guótōutōuzuòde.
+# translit = zhèdòngkūshìcháoxiānwèilegōngdǎhánguótōutōuzuòde.
 1	这	这	DET	_	_	2	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
 2	洞窟	洞窟	NOUN	_	_	3	nsubj	_	SpaceAfter=No|Translit=dòngkū|LTranslit=dòngkū
 3	是	是	VERB	_	_	0	root	_	SpaceAfter=No|Translit=shì|LTranslit=shì
 4	朝鲜	朝鲜	PROPN	_	_	9	nsubj	_	SpaceAfter=No|Translit=cháoxiān|LTranslit=cháoxiān
 5	为了	为了	ADP	_	_	6	mark	_	SpaceAfter=No|Translit=wèile|LTranslit=wèile
 6	攻打	攻打	VERB	_	_	9	advcl	_	SpaceAfter=No|Translit=gōngdǎ|LTranslit=gōngdǎ
-7	韩国	韩国	PROPN	_	_	6	obj	_	SpaceAfter=No|Translit=韩guó|LTranslit=韩guó
+7	韩国	韩国	PROPN	_	_	6	obj	_	SpaceAfter=No|Translit=hánguó|LTranslit=hánguó
 8	偷偷	偷偷	ADV	_	_	9	advmod	_	SpaceAfter=No|Translit=tōutōu|LTranslit=tōutōu
 9	做	做	VERB	_	_	3	ccomp	_	SpaceAfter=No|Translit=zuò|LTranslit=zuò
 10	的	的	PART	_	_	9	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
@@ -537,10 +537,10 @@
 
 # sent_id = CFL_B_1-4_ori
 # text = 麦加是伊斯兰教最神圣城市，先知穆斯林人去麦加。
-# translit = màijiāshìyīsī兰jiàozuìshénshèngchéngshì,xiānzhīmùsīlínrénqùmàijiā.
+# translit = màijiāshìyīsīlánjiàozuìshénshèngchéngshì,xiānzhīmùsīlínrénqùmàijiā.
 1	麦加	麦加	PROPN	_	_	6	nsubj	_	SpaceAfter=No|Translit=màijiā|LTranslit=màijiā
 2	是	是	AUX	_	_	6	cop	_	SpaceAfter=No|Translit=shì|LTranslit=shì
-3	伊斯兰教	伊斯兰教	NOUN	_	_	6	nmod	_	SpaceAfter=No|Translit=yīsī兰jiào|LTranslit=yīsī兰jiào
+3	伊斯兰教	伊斯兰教	NOUN	_	_	6	nmod	_	SpaceAfter=No|Translit=yīsīlánjiào|LTranslit=yīsīlánjiào
 4	最	最	ADV	_	_	5	advmod	_	SpaceAfter=No|Translit=zuì|LTranslit=zuì
 5	神圣	神圣	ADJ	_	_	6	amod	_	SpaceAfter=No|Translit=shénshèng|LTranslit=shénshèng
 6	城市	城市	NOUN	_	_	0	root	_	SpaceAfter=No|Translit=chéngshì|LTranslit=chéngshì
@@ -710,7 +710,7 @@
 
 # sent_id = CFL_B_1-15_ori
 # text = 这10天之内我时而读古兰经时而做礼拜。
-# translit = zhè10tiānzhīnèiwǒshí'érdúgǔ兰jīngshí'érzuòlǐbài.
+# translit = zhè10tiānzhīnèiwǒshí'érdúgǔlánjīngshí'érzuòlǐbài.
 1	这	这	DET	_	_	3	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
 2	10	10	NUM	_	_	3	nummod	_	SpaceAfter=No|Translit=10|LTranslit=10
 3	天	天	NOUN	_	_	7	obl:tmod	_	SpaceAfter=No|Translit=tiān|LTranslit=tiān
@@ -718,7 +718,7 @@
 5	我	我	PRON	_	_	7	nsubj	_	SpaceAfter=No|Translit=wǒ|LTranslit=wǒ
 6	时而	时而	ADV	_	_	7	advmod	_	SpaceAfter=No|Translit=shí'ér|LTranslit=shí'ér
 7	读	读	VERB	_	_	0	root	_	SpaceAfter=No|Translit=dú|LTranslit=dú
-8	古兰经	古兰经	PROPN	_	_	7	obj	_	SpaceAfter=No|Translit=gǔ兰jīng|LTranslit=gǔ兰jīng
+8	古兰经	古兰经	PROPN	_	_	7	obj	_	SpaceAfter=No|Translit=gǔlánjīng|LTranslit=gǔlánjīng
 9	时而	时而	ADV	_	_	10	advmod	_	SpaceAfter=No|Translit=shí'ér|LTranslit=shí'ér
 10	做	做	VERB	_	_	7	conj	_	SpaceAfter=No|Translit=zuò|LTranslit=zuò
 11	礼拜	礼拜	NOUN	_	_	10	compound:vo	_	SpaceAfter=No|Translit=lǐbài|LTranslit=lǐbài
@@ -901,13 +901,13 @@
 
 # sent_id = CFL_C_1-4_ori
 # text = 我觉定——需要改变白俄罗斯，需要提高群众的文化水平，需要改革现状。
-# translit = wǒjuédìng——xūyàogǎibiànbái'é罗sī,xūyàotígāoqúnzhòngdewénhuàshuǐpíng,xūyàogǎigéxiànzhuàng.
+# translit = wǒjuédìng——xūyàogǎibiànbái'éluōsī,xūyàotígāoqúnzhòngdewénhuàshuǐpíng,xūyàogǎigéxiànzhuàng.
 1	我	我	PRON	_	_	2	nsubj	_	SpaceAfter=No|Translit=wǒ|LTranslit=wǒ
 2	觉定	觉定	VERB	_	_	0	root	_	SpaceAfter=No|Translit=juédìng|LTranslit=juédìng
 3	——	——	PUNCT	_	_	5	punct	_	SpaceAfter=No|Translit=——|LTranslit=——
 4	需要	需要	AUX	_	_	5	aux	_	SpaceAfter=No|Translit=xūyào|LTranslit=xūyào
 5	改变	改变	VERB	_	_	2	parataxis	_	SpaceAfter=No|Translit=gǎibiàn|LTranslit=gǎibiàn
-6	白俄罗斯	白俄罗斯	PROPN	_	_	5	obj	_	SpaceAfter=No|Translit=bái'é罗sī|LTranslit=bái'é罗sī
+6	白俄罗斯	白俄罗斯	PROPN	_	_	5	obj	_	SpaceAfter=No|Translit=bái'éluōsī|LTranslit=bái'éluōsī
 7	，	，	PUNCT	_	_	9	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 8	需要	需要	AUX	_	_	9	aux	_	SpaceAfter=No|Translit=xūyào|LTranslit=xūyào
 9	提高	提高	VERB	_	_	5	conj	_	SpaceAfter=No|Translit=tígāo|LTranslit=tígāo
@@ -953,7 +953,7 @@
 
 # sent_id = CFL_C_1-6_ori
 # text = 因我的意见不是偶然的，我的态度是正确的，所以总统无可奈何地重视我指出的，开始跟我互相帮助和互相合作，而我们一起改善国家内的情况和条件，越发地使白俄罗斯发展，也增家祖国的世界舞台的位置......
-# translit = yīnwǒdeyìjiànbùshì'ǒuránde,wǒdetàidùshìzhèngquède,suǒyǐzǒngtǒngwúkěnàihédezhòngshìwǒzhǐchūde,kāishǐgēnwǒhùxiāngbāngzhùhéhùxiānghézuò,'érwǒmenyīqǐgǎishànguójiānèideqíngkuànghétiáojiàn,yuèfādeshǐbái'é罗sīfāzhǎn,yězēngjiāzǔguódeshìjièwǔtáidewèizhì......
+# translit = yīnwǒdeyìjiànbùshì'ǒuránde,wǒdetàidùshìzhèngquède,suǒyǐzǒngtǒngwúkěnàihédezhòngshìwǒzhǐchūde,kāishǐgēnwǒhùxiāngbāngzhùhéhùxiānghézuò,'érwǒmenyīqǐgǎishànguójiānèideqíngkuànghétiáojiàn,yuèfādeshǐbái'éluōsīfāzhǎn,yězēngjiāzǔguódeshìjièwǔtáidewèizhì......
 1	因	因	SCONJ	_	_	7	mark	_	SpaceAfter=No|Translit=yīn|LTranslit=yīn
 2	我	我	PRON	_	_	4	nmod	_	SpaceAfter=No|Translit=wǒ|LTranslit=wǒ
 3	的	的	PART	_	_	2	case	_	SpaceAfter=No|Translit=de|LTranslit=de
@@ -1003,7 +1003,7 @@
 47	越发	越发	ADV	_	_	49	advmod	_	SpaceAfter=No|Translit=yuèfā|LTranslit=yuèfā
 48	地	地	PART	_	_	47	mark:adv	_	SpaceAfter=No|Translit=de|LTranslit=de
 49	使	使	VERB	_	_	39	conj	_	SpaceAfter=No|Translit=shǐ|LTranslit=shǐ
-50	白俄罗斯	白俄罗斯	PROPN	_	_	49	obj	_	SpaceAfter=No|Translit=bái'é罗sī|LTranslit=bái'é罗sī
+50	白俄罗斯	白俄罗斯	PROPN	_	_	49	obj	_	SpaceAfter=No|Translit=bái'éluōsī|LTranslit=bái'éluōsī
 51	发展	发展	VERB	_	_	49	xcomp	_	SpaceAfter=No|Translit=fāzhǎn|LTranslit=fāzhǎn
 52	，	，	PUNCT	_	_	54	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 53	也	也	ADV	_	_	54	advmod	_	SpaceAfter=No|Translit=yě|LTranslit=yě
@@ -1735,7 +1735,7 @@
 
 # sent_id = CFL_D_2-1_ori
 # text = 在2012年我跟三个朋友一起去韩国南部旅游了。
-# translit = zài2012niánwǒgēnsāngèpéngyouyīqǐqù韩guónánbùlǚyóule.
+# translit = zài2012niánwǒgēnsāngèpéngyouyīqǐqùhánguónánbùlǚyóule.
 1	在	在	ADP	_	_	2	case	_	SpaceAfter=No|Translit=zài|LTranslit=zài
 2	2012年	2012年	NOUN	_	_	9	obl:tmod	_	SpaceAfter=No|Translit=2012nián|LTranslit=2012nián
 3	我	我	PRON	_	_	9	nsubj	_	SpaceAfter=No|Translit=wǒ|LTranslit=wǒ
@@ -1745,7 +1745,7 @@
 7	朋友	朋友	NOUN	_	_	3	conj	_	SpaceAfter=No|Translit=péngyou|LTranslit=péngyou
 8	一起	一起	ADV	_	_	9	advmod	_	SpaceAfter=No|Translit=yīqǐ|LTranslit=yīqǐ
 9	去	去	VERB	_	_	0	root	_	SpaceAfter=No|Translit=qù|LTranslit=qù
-10	韩国	韩国	PROPN	_	_	11	compound	_	SpaceAfter=No|Translit=韩guó|LTranslit=韩guó
+10	韩国	韩国	PROPN	_	_	11	compound	_	SpaceAfter=No|Translit=hánguó|LTranslit=hánguó
 11	南部	南部	NOUN	_	_	9	obj	_	SpaceAfter=No|Translit=nánbù|LTranslit=nánbù
 12	旅游	旅游	VERB	_	_	9	conj	_	SpaceAfter=No|Translit=lǚyóu|LTranslit=lǚyóu
 13	了	了	PART	_	_	9	discourse:sp	_	SpaceAfter=No|Translit=le|LTranslit=le
@@ -2229,9 +2229,9 @@
 
 # sent_id = CFL_E_1-3_ori
 # text = 对韩人来说很喜欢吃五花肉和烧酒，还有吃肉后应该点凉面。
-# translit = duì韩rénláishuōhěnxǐhuanchīwǔhuāròuhéshāojiǔ,háiyǒuchīròuhòuyīnggāidiǎnliángmiàn.
+# translit = duìhánrénláishuōhěnxǐhuanchīwǔhuāròuhéshāojiǔ,háiyǒuchīròuhòuyīnggāidiǎnliángmiàn.
 1	对	对	ADP	_	_	3	case	_	SpaceAfter=No|Translit=duì|LTranslit=duì
-2	韩人	韩人	NOUN	_	_	4	obl	_	SpaceAfter=No|Translit=韩rén|LTranslit=韩rén
+2	韩人	韩人	NOUN	_	_	4	obl	_	SpaceAfter=No|Translit=hánrén|LTranslit=hánrén
 3	来	来	SCONJ	_	_	4	mark	_	SpaceAfter=No|Translit=lái|LTranslit=lái
 4	说	说	VERB	_	_	7	advcl	_	SpaceAfter=No|Translit=shuō|LTranslit=shuō
 5	很	很	ADV	_	_	6	advmod	_	SpaceAfter=No|Translit=hěn|LTranslit=hěn
@@ -2865,7 +2865,7 @@
 
 # sent_id = CFL_F_1-19_ori
 # text = 听说哪个餐厅的环境非常优雅，而那里有现场爵士音乐演奏。”
-# translit = tīngshuōnǎgècāntīngdehuánjìngfēichángyōu雅,'érnàlǐyǒuxiànchǎng爵shìyīnlèyǎnzòu.”
+# translit = tīngshuōnǎgècāntīngdehuánjìngfēichángyōu雅,'érnàlǐyǒuxiànchǎngjuéshìyīnlèyǎnzòu.”
 1	听说	听说	ADV	_	_	8	advmod	_	SpaceAfter=No|Translit=tīngshuō|LTranslit=tīngshuō
 2	哪	哪	DET	_	_	4	det	_	SpaceAfter=No|Translit=nǎ|LTranslit=nǎ
 3	个	个	NOUN	_	_	2	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
@@ -2879,7 +2879,7 @@
 11	那里	那里	PRON	_	_	12	obl	_	SpaceAfter=No|Translit=nàlǐ|LTranslit=nàlǐ
 12	有	有	VERB	_	_	8	conj	_	SpaceAfter=No|Translit=yǒu|LTranslit=yǒu
 13	现场	现场	ADJ	_	_	15	amod	_	SpaceAfter=No|Translit=xiànchǎng|LTranslit=xiànchǎng
-14	爵士	爵士	NOUN	_	_	15	compound	_	SpaceAfter=No|Translit=爵shì|LTranslit=爵shì
+14	爵士	爵士	NOUN	_	_	15	compound	_	SpaceAfter=No|Translit=juéshì|LTranslit=juéshì
 15	音乐	音乐	NOUN	_	_	12	obj	_	SpaceAfter=No|Translit=yīnlè|LTranslit=yīnlè
 16	演奏	演奏	VERB	_	_	15	acl	_	SpaceAfter=No|Translit=yǎnzòu|LTranslit=yǎnzòu
 17	。	。	PUNCT	_	_	8	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
@@ -4067,7 +4067,7 @@
 
 # sent_id = CFL_G_1-11_ori
 # text = 我门积极地回答，还看到佛教的寺庙，有一些中国人来那儿做礼拜，也跟佛家照相了。
-# translit = wǒménjījídehuídá,háikàndàofújiàode寺miào,yǒuyīxiēzhōngguórénláinàrzuòlǐbài,yěgēnfújiāzhàoxiāngle.
+# translit = wǒménjījídehuídá,háikàndàofújiàodesìmiào,yǒuyīxiēzhōngguórénláinàrzuòlǐbài,yěgēnfújiāzhàoxiāngle.
 1	我门	我们	PRON	_	_	4	nsubj	_	SpaceAfter=No|Translit=wǒmén|LTranslit=wǒmen
 2	积极	积极	ADV	_	_	4	advmod	_	SpaceAfter=No|Translit=jījí|LTranslit=jījí
 3	地	地	PART	_	_	2	mark:adv	_	SpaceAfter=No|Translit=de|LTranslit=de
@@ -4078,7 +4078,7 @@
 8	到	到	VERB	_	_	7	compound:vv	_	SpaceAfter=No|Translit=dào|LTranslit=dào
 9	佛教	佛教	NOUN	_	_	11	nmod	_	SpaceAfter=No|Translit=fújiào|LTranslit=fújiào
 10	的	的	PART	_	_	9	case	_	SpaceAfter=No|Translit=de|LTranslit=de
-11	寺庙	寺庙	NOUN	_	_	7	obj	_	SpaceAfter=No|Translit=寺miào|LTranslit=寺miào
+11	寺庙	寺庙	NOUN	_	_	7	obj	_	SpaceAfter=No|Translit=sìmiào|LTranslit=sìmiào
 12	，	，	PUNCT	_	_	13	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 13	有	有	VERB	_	_	11	parataxis	_	SpaceAfter=No|Translit=yǒu|LTranslit=yǒu
 14	一些	一些	DET	_	_	15	det	_	SpaceAfter=No|Translit=yīxiē|LTranslit=yīxiē
@@ -4185,7 +4185,7 @@
 
 # sent_id = CFL_H_1-1_ori
 # text = 我从小时候到现在，觉得菲律宾是很美丽。
-# translit = wǒcóngxiǎoshíhoudàoxiànzài,juéde菲lǜbīnshìhěnměilì.
+# translit = wǒcóngxiǎoshíhoudàoxiànzài,juédefēilǜbīnshìhěnměilì.
 1	我	我	PRON	_	_	7	nsubj	_	SpaceAfter=No|Translit=wǒ|LTranslit=wǒ
 2	从	从	ADP	_	_	3	case	_	SpaceAfter=No|Translit=cóng|LTranslit=cóng
 3	小时候	小时候	NOUN	_	_	4	obl	_	SpaceAfter=No|Translit=xiǎoshíhou|LTranslit=xiǎoshíhou
@@ -4193,7 +4193,7 @@
 5	现在	现在	NOUN	_	_	4	obj	_	SpaceAfter=No|Translit=xiànzài|LTranslit=xiànzài
 6	，	，	PUNCT	_	_	4	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 7	觉得	觉得	VERB	_	_	0	root	_	SpaceAfter=No|Translit=juéde|LTranslit=juéde
-8	菲律宾	菲律宾	PROPN	_	_	9	dislocated	_	SpaceAfter=No|Translit=菲lǜbīn|LTranslit=菲lǜbīn
+8	菲律宾	菲律宾	PROPN	_	_	9	dislocated	_	SpaceAfter=No|Translit=fēilǜbīn|LTranslit=fēilǜbīn
 9	是	是	VERB	_	_	7	ccomp	_	SpaceAfter=No|Translit=shì|LTranslit=shì
 10	很	很	ADV	_	_	11	advmod	_	SpaceAfter=No|Translit=hěn|LTranslit=hěn
 11	美丽	美丽	ADJ	_	_	9	xcomp	_	SpaceAfter=No|Translit=měilì|LTranslit=měilì
@@ -4201,7 +4201,7 @@
 
 # sent_id = CFL_H_1-2_ori
 # text = 所以我希望了长大以后我要去菲律宾旅行。
-# translit = suǒyǐwǒxīwànglezhǎngdàyǐhòuwǒyàoqù菲lǜbīnlǚxíng.
+# translit = suǒyǐwǒxīwànglezhǎngdàyǐhòuwǒyàoqùfēilǜbīnlǚxíng.
 1	所以	所以	SCONJ	_	_	3	mark	_	SpaceAfter=No|Translit=suǒyǐ|LTranslit=suǒyǐ
 2	我	我	PRON	_	_	3	nsubj	_	SpaceAfter=No|Translit=wǒ|LTranslit=wǒ
 3	希望	希望	VERB	_	_	0	root	_	SpaceAfter=No|Translit=xīwàng|LTranslit=xīwàng
@@ -4211,7 +4211,7 @@
 7	我	我	PRON	_	_	9	nsubj	_	SpaceAfter=No|Translit=wǒ|LTranslit=wǒ
 8	要	要	AUX	_	_	9	aux	_	SpaceAfter=No|Translit=yào|LTranslit=yào
 9	去	去	VERB	_	_	3	ccomp	_	SpaceAfter=No|Translit=qù|LTranslit=qù
-10	菲律宾	菲律宾	PROPN	_	_	9	obj	_	SpaceAfter=No|Translit=菲lǜbīn|LTranslit=菲lǜbīn
+10	菲律宾	菲律宾	PROPN	_	_	9	obj	_	SpaceAfter=No|Translit=fēilǜbīn|LTranslit=fēilǜbīn
 11	旅行	旅行	VERB	_	_	9	conj	_	SpaceAfter=No|Translit=lǚxíng|LTranslit=lǚxíng
 12	。	。	PUNCT	_	_	3	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
@@ -4300,11 +4300,11 @@
 
 # sent_id = CFL_H_1-9_ori
 # text = （侍奉）菲律宾的丛林里有很多野蛮人，他们的生活相比之下城市的人太贫穷。
-# translit = (shìfèng)菲lǜbīndecónglínlǐyǒuhěnduōyě蛮rén,tāmendeshēnghuóxiāngbǐzhīxiàchéngshìderéntàipínqióng.
+# translit = (shìfèng)fēilǜbīndecónglínlǐyǒuhěnduōyě蛮rén,tāmendeshēnghuóxiāngbǐzhīxiàchéngshìderéntàipínqióng.
 1	（	（	PUNCT	_	_	2	punct	_	SpaceAfter=No|Translit=(|LTranslit=(
 2	侍奉	侍奉	VERB	_	_	8	dep	_	SpaceAfter=No|Translit=shìfèng|LTranslit=shìfèng
 3	）	）	PUNCT	_	_	2	punct	_	SpaceAfter=No|Translit=)|LTranslit=)
-4	菲律宾	菲律宾	PROPN	_	_	6	nmod	_	SpaceAfter=No|Translit=菲lǜbīn|LTranslit=菲lǜbīn
+4	菲律宾	菲律宾	PROPN	_	_	6	nmod	_	SpaceAfter=No|Translit=fēilǜbīn|LTranslit=fēilǜbīn
 5	的	的	PART	_	_	4	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 6	丛林	丛林	NOUN	_	_	8	obl	_	SpaceAfter=No|Translit=cónglín|LTranslit=cónglín
 7	里	里	ADP	_	_	6	case:loc	_	SpaceAfter=No|Translit=lǐ|LTranslit=lǐ
@@ -4340,13 +4340,13 @@
 
 # sent_id = CFL_H_1-11_ori
 # text = 当时，我宁愿回韩国，也不想体验这里的生活。
-# translit = dāngshí,wǒníngyuànhuí韩guó,yěbùxiǎngtǐyànzhèlǐdeshēnghuó.
+# translit = dāngshí,wǒníngyuànhuíhánguó,yěbùxiǎngtǐyànzhèlǐdeshēnghuó.
 1	当时	当时	NOUN	_	_	5	obl:tmod	_	SpaceAfter=No|Translit=dāngshí|LTranslit=dāngshí
 2	，	，	PUNCT	_	_	1	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 3	我	我	PRON	_	_	5	nsubj	_	SpaceAfter=No|Translit=wǒ|LTranslit=wǒ
 4	宁愿	宁愿	AUX	_	_	5	aux	_	SpaceAfter=No|Translit=níngyuàn|LTranslit=níngyuàn
 5	回	回	VERB	_	_	0	root	_	SpaceAfter=No|Translit=huí|LTranslit=huí
-6	韩国	韩国	PROPN	_	_	5	obj	_	SpaceAfter=No|Translit=韩guó|LTranslit=韩guó
+6	韩国	韩国	PROPN	_	_	5	obj	_	SpaceAfter=No|Translit=hánguó|LTranslit=hánguó
 7	，	，	PUNCT	_	_	11	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 8	也	也	ADV	_	_	11	advmod	_	SpaceAfter=No|Translit=yě|LTranslit=yě
 9	不	不	ADV	_	_	10	advmod	_	SpaceAfter=No|Translit=bù|LTranslit=bù
@@ -4563,7 +4563,7 @@
 
 # sent_id = CFL_H_2-1_ori
 # text = 我最难忘的回忆是上个星期去了商洛旅行。
-# translit = wǒzuìnánwàngdehuíyìshìshànggèxīngqīqùleshāng洛lǚxíng.
+# translit = wǒzuìnánwàngdehuíyìshìshànggèxīngqīqùleshāngluòlǚxíng.
 1	我	我	PRON	_	_	5	nmod	_	SpaceAfter=No|Translit=wǒ|LTranslit=wǒ
 2	最	最	ADV	_	_	3	advmod	_	SpaceAfter=No|Translit=zuì|LTranslit=zuì
 3	难忘	难忘	ADJ	_	_	5	amod	_	SpaceAfter=No|Translit=nánwàng|LTranslit=nánwàng
@@ -4575,13 +4575,13 @@
 9	星期	星期	NOUN	_	_	10	obl:tmod	_	SpaceAfter=No|Translit=xīngqī|LTranslit=xīngqī
 10	去	去	VERB	_	_	6	xcomp	_	SpaceAfter=No|Translit=qù|LTranslit=qù
 11	了	了	AUX	_	_	10	aux	_	SpaceAfter=No|Translit=le|LTranslit=le
-12	商洛	商洛	PROPN	_	_	10	obj	_	SpaceAfter=No|Translit=shāng洛|LTranslit=shāng洛
+12	商洛	商洛	PROPN	_	_	10	obj	_	SpaceAfter=No|Translit=shāngluò|LTranslit=shāngluò
 13	旅行	旅行	VERB	_	_	10	xcomp	_	SpaceAfter=No|Translit=lǚxíng|LTranslit=lǚxíng
 14	。	。	PUNCT	_	_	6	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = CFL_H_2-2_ori
 # text = 因为在陕西电视台里有一个带着外国人一起旅行的节目，他们邀请了我，所以我们一起去了商洛。
-# translit = yīnwèizài陕xidiànshìtáilǐyǒuyīgèdàizhewàiguórényīqǐlǚxíngdejiémù,tāmenyāoqǐnglewǒ,suǒyǐwǒmenyīqǐqùleshāng洛.
+# translit = yīnwèizài陕xidiànshìtáilǐyǒuyīgèdàizhewàiguórényīqǐlǚxíngdejiémù,tāmenyāoqǐnglewǒ,suǒyǐwǒmenyīqǐqùleshāngluò.
 1	因为	因为	SCONJ	_	_	6	mark	_	SpaceAfter=No|Translit=yīnwèi|LTranslit=yīnwèi
 2	在	在	ADP	_	_	4	case	_	SpaceAfter=No|Translit=zài|LTranslit=zài
 3	陕西	陕西	PROPN	_	_	4	nmod	_	SpaceAfter=No|Translit=陕xi|LTranslit=陕xi
@@ -4608,15 +4608,15 @@
 24	一起	一起	ADV	_	_	25	advmod	_	SpaceAfter=No|Translit=yīqǐ|LTranslit=yīqǐ
 25	去	去	VERB	_	_	0	root	_	SpaceAfter=No|Translit=qù|LTranslit=qù
 26	了	了	AUX	_	_	25	aux	_	SpaceAfter=No|Translit=le|LTranslit=le
-27	商洛	商洛	PROPN	_	_	25	obj	_	SpaceAfter=No|Translit=shāng洛|LTranslit=shāng洛
+27	商洛	商洛	PROPN	_	_	25	obj	_	SpaceAfter=No|Translit=shāngluò|LTranslit=shāngluò
 28	。	。	PUNCT	_	_	25	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = CFL_H_2-3_ori
 # text = 在去商洛之前，我问了一个朋友商洛怎么样？
-# translit = zàiqùshāng洛zhīqián,wǒwènleyīgèpéngyoushāng洛zěnmeyàng?
+# translit = zàiqùshāngluòzhīqián,wǒwènleyīgèpéngyoushāngluòzěnmeyàng?
 1	在	在	ADP	_	_	2	case	_	SpaceAfter=No|Translit=zài|LTranslit=zài
 2	去	去	VERB	_	_	7	advcl	_	SpaceAfter=No|Translit=qù|LTranslit=qù
-3	商洛	商洛	PROPN	_	_	2	obj	_	SpaceAfter=No|Translit=shāng洛|LTranslit=shāng洛
+3	商洛	商洛	PROPN	_	_	2	obj	_	SpaceAfter=No|Translit=shāngluò|LTranslit=shāngluò
 4	之前	之前	ADP	_	_	2	case:loc	_	SpaceAfter=No|Translit=zhīqián|LTranslit=zhīqián
 5	，	，	PUNCT	_	_	2	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 6	我	我	PRON	_	_	7	nsubj	_	SpaceAfter=No|Translit=wǒ|LTranslit=wǒ
@@ -4625,19 +4625,19 @@
 9	一	一	NUM	_	_	11	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
 10	个	个	NOUN	_	_	9	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 11	朋友	朋友	NOUN	_	_	7	obj	_	SpaceAfter=No|Translit=péngyou|LTranslit=péngyou
-12	商洛	商洛	PROPN	_	_	13	nsubj	_	SpaceAfter=No|Translit=shāng洛|LTranslit=shāng洛
+12	商洛	商洛	PROPN	_	_	13	nsubj	_	SpaceAfter=No|Translit=shāngluò|LTranslit=shāngluò
 13	怎么样	怎么样	VERB	_	_	7	ccomp	_	SpaceAfter=No|Translit=zěnmeyàng|LTranslit=zěnmeyàng
 14	？	？	PUNCT	_	_	7	punct	_	SpaceAfter=No|Translit=?|LTranslit=?
 
 # sent_id = CFL_H_2-4_ori
 # text = 她对我说，商洛什么都没有，到哪里去干啥？
-# translit = tāduìwǒshuō,shāng洛shénmedōuméiyǒu,dàonǎlǐqùgànshà?
+# translit = tāduìwǒshuō,shāngluòshénmedōuméiyǒu,dàonǎlǐqùgànshà?
 1	她	她	PRON	_	_	4	nsubj	_	SpaceAfter=No|Translit=tā|LTranslit=tā
 2	对	对	ADP	_	_	3	case	_	SpaceAfter=No|Translit=duì|LTranslit=duì
 3	我	我	PRON	_	_	4	obl	_	SpaceAfter=No|Translit=wǒ|LTranslit=wǒ
 4	说	说	VERB	_	_	0	root	_	SpaceAfter=No|Translit=shuō|LTranslit=shuō
 5	，	，	PUNCT	_	_	9	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-6	商洛	商洛	PROPN	_	_	9	nsubj	_	SpaceAfter=No|Translit=shāng洛|LTranslit=shāng洛
+6	商洛	商洛	PROPN	_	_	9	nsubj	_	SpaceAfter=No|Translit=shāngluò|LTranslit=shāngluò
 7	什么	什么	DET	_	_	9	obj	_	SpaceAfter=No|Translit=shénme|LTranslit=shénme
 8	都	都	ADV	_	_	9	advmod	_	SpaceAfter=No|Translit=dōu|LTranslit=dōu
 9	没有	没有	VERB	_	_	4	parataxis	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=méiyǒu
@@ -4706,7 +4706,7 @@
 
 # sent_id = CFL_H_2-8_ori
 # text = 出发那天伴随着刮风下雨我们离开了西安，当时我没期待那么多，只想商洛市怎么样的城市，跟西安有什么不同？
-# translit = chūfānàtiānbànsuízheguāfēngxiàyǔwǒmenlíkāilexi'ān,dāngshíwǒméiqīdàinàmeduō,zhǐxiǎngshāng洛shìzěnmeyàngdechéngshì,gēnxi'ānyǒushénmebùtóng?
+# translit = chūfānàtiānbànsuízheguāfēngxiàyǔwǒmenlíkāilexi'ān,dāngshíwǒméiqīdàinàmeduō,zhǐxiǎngshāngluòshìzěnmeyàngdechéngshì,gēnxi'ānyǒushénmebùtóng?
 1	出发	出发	VERB	_	_	2	acl	_	SpaceAfter=No|Translit=chūfā|LTranslit=chūfā
 2	那天	那天	NOUN	_	_	7	obl:tmod	_	SpaceAfter=No|Translit=nàtiān|LTranslit=nàtiān
 3	伴随	伴随	VERB	_	_	7	advcl	_	SpaceAfter=No|Translit=bànsuí|LTranslit=bànsuí
@@ -4726,7 +4726,7 @@
 17	，	，	PUNCT	_	_	19	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 18	只	只	ADV	_	_	19	advmod	_	SpaceAfter=No|Translit=zhǐ|LTranslit=zhǐ
 19	想	想	VERB	_	_	14	conj	_	SpaceAfter=No|Translit=xiǎng|LTranslit=xiǎng
-20	商洛市	商洛市	PROPN	_	_	19	obj	_	SpaceAfter=No|Translit=shāng洛shì|LTranslit=shāng洛shì
+20	商洛市	商洛市	PROPN	_	_	19	obj	_	SpaceAfter=No|Translit=shāngluòshì|LTranslit=shāngluòshì
 21	怎么样	怎么样	PRON	_	_	23	nmod	_	SpaceAfter=No|Translit=zěnmeyàng|LTranslit=zěnmeyàng
 22	的	的	PART	_	_	21	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 23	城市	城市	NOUN	_	_	19	xcomp	_	SpaceAfter=No|Translit=chéngshì|LTranslit=chéngshì
@@ -4741,12 +4741,12 @@
 
 # sent_id = CFL_H_2-9_ori
 # text = 之后我们去了商洛很小的城市，看到这城市很有特色，我们游览了天然奇观喀斯特地貌柞水溶洞，溶洞里面都是冬暖夏凉，大自然真的好神奇；
-# translit = zhīhòuwǒmenqùleshāng洛hěnxiǎodechéngshì,kàndàozhèchéngshìhěnyǒutèsè,wǒmenyóulǎnletiānránqíguān喀sītèdemào柞shuǐróngdòng,róngdònglǐmiàndōushìdōngnuǎnxiàliáng,dàzìránzhēndehǎoshénqí；
+# translit = zhīhòuwǒmenqùleshāngluòhěnxiǎodechéngshì,kàndàozhèchéngshìhěnyǒutèsè,wǒmenyóulǎnletiānránqíguān喀sītèdemào柞shuǐróngdòng,róngdònglǐmiàndōushìdōngnuǎnxiàliáng,dàzìránzhēndehǎoshénqí;
 1	之后	之后	NOUN	_	_	3	obl:tmod	_	SpaceAfter=No|Translit=zhīhòu|LTranslit=zhīhòu
 2	我们	我们	PRON	_	_	3	nsubj	_	SpaceAfter=No|Translit=wǒmen|LTranslit=wǒmen
 3	去	去	VERB	_	_	0	root	_	SpaceAfter=No|Translit=qù|LTranslit=qù
 4	了	了	AUX	_	_	3	aux	_	SpaceAfter=No|Translit=le|LTranslit=le
-5	商洛	商洛	PROPN	_	_	3	obj	_	SpaceAfter=No|Translit=shāng洛|LTranslit=shāng洛
+5	商洛	商洛	PROPN	_	_	3	obj	_	SpaceAfter=No|Translit=shāngluò|LTranslit=shāngluò
 6	很	很	ADV	_	_	7	advmod	_	SpaceAfter=No|Translit=hěn|LTranslit=hěn
 7	小	小	ADJ	_	_	9	amod	_	SpaceAfter=No|Translit=xiǎo|LTranslit=xiǎo
 8	的	的	PART	_	_	7	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
@@ -4777,11 +4777,11 @@
 33	真的	真的	ADV	_	_	35	advmod	_	SpaceAfter=No|Translit=zhēnde|LTranslit=zhēnde
 34	好	好	ADV	_	_	35	advmod	_	SpaceAfter=No|Translit=hǎo|LTranslit=hǎo
 35	神奇	神奇	ADJ	_	_	3	parataxis	_	SpaceAfter=No|Translit=shénqí|LTranslit=shénqí
-36	；	；	PUNCT	_	_	3	punct	_	SpaceAfter=No|Translit=；|LTranslit=；
+36	；	；	PUNCT	_	_	3	punct	_	SpaceAfter=No|Translit=;|LTranslit=;
 
 # sent_id = CFL_H_2-10_ori
 # text = 还走访了凤凰古镇，感受明清时代建在北方的南方小镇，那里真的特别美，好像自己回到了古代的中国一样，真的好想再去一次；
-# translit = háizǒufǎnglefènghuánggǔzhèn,gǎnshòumíngqīngshídàijiànzàiběifāngdenánfāngxiǎozhèn,nàlǐzhēndetèbiéměi,hǎoxiàngzìjǐhuídàolegǔdàidezhōngguóyīyàng,zhēndehǎoxiǎngzàiqùyīcì；
+# translit = háizǒufǎnglefènghuánggǔzhèn,gǎnshòumíngqīngshídàijiànzàiběifāngdenánfāngxiǎozhèn,nàlǐzhēndetèbiéměi,hǎoxiàngzìjǐhuídàolegǔdàidezhōngguóyīyàng,zhēndehǎoxiǎngzàiqùyīcì;
 1	还	还	ADV	_	_	2	advmod	_	SpaceAfter=No|Translit=hái|LTranslit=hái
 2	走访	走访	VERB	_	_	0	root	_	SpaceAfter=No|Translit=zǒufǎng|LTranslit=zǒufǎng
 3	了	了	AUX	_	_	2	aux	_	SpaceAfter=No|Translit=le|LTranslit=le
@@ -4819,11 +4819,11 @@
 35	去	去	VERB	_	_	2	parataxis	_	SpaceAfter=No|Translit=qù|LTranslit=qù
 36	一	一	NUM	_	_	37	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
 37	次	次	NOUN	_	_	35	obl	_	SpaceAfter=No|Translit=cì|LTranslit=cì
-38	；	；	PUNCT	_	_	2	punct	_	SpaceAfter=No|Translit=；|LTranslit=；
+38	；	；	PUNCT	_	_	2	punct	_	SpaceAfter=No|Translit=;|LTranslit=;
 
 # sent_id = CFL_H_2-11_ori
 # text = 还爬了牛背梁山，呼吸着深山里面的空气觉得整个人都清新了似的；
-# translit = háipáleniúbèiliángshān,hūxīzheshēnshānlǐmiàndekōngqìjuédezhěnggèréndōuqīngxīnleshìde；
+# translit = háipáleniúbèiliángshān,hūxīzheshēnshānlǐmiàndekōngqìjuédezhěnggèréndōuqīngxīnleshìde;
 1	还	还	ADV	_	_	2	advmod	_	SpaceAfter=No|Translit=hái|LTranslit=hái
 2	爬	爬	VERB	_	_	0	root	_	SpaceAfter=No|Translit=pá|LTranslit=pá
 3	了	了	AUX	_	_	2	aux	_	SpaceAfter=No|Translit=le|LTranslit=le
@@ -4842,11 +4842,11 @@
 16	清新	清新	ADJ	_	_	12	ccomp	_	SpaceAfter=No|Translit=qīngxīn|LTranslit=qīngxīn
 17	了	了	AUX	_	_	16	aux	_	SpaceAfter=No|Translit=le|LTranslit=le
 18	似的	似的	AUX	_	_	16	aux	_	SpaceAfter=No|Translit=shìde|LTranslit=shìde
-19	；	；	PUNCT	_	_	2	punct	_	SpaceAfter=No|Translit=；|LTranslit=；
+19	；	；	PUNCT	_	_	2	punct	_	SpaceAfter=No|Translit=;|LTranslit=;
 
 # sent_id = CFL_H_2-12_ori
 # text = 晚上和朋友在山脚下的客栈里面开派对玩游戏，教他们玩韩国的游戏，真的特别有趣！
-# translit = wǎnshànghépéngyouzàishānjiǎoxiàdekè栈lǐmiànkāipàiduìwányóuxì,jiàotāmenwán韩guódeyóuxì,zhēndetèbiéyǒuqù!
+# translit = wǎnshànghépéngyouzàishānjiǎoxiàdekè栈lǐmiànkāipàiduìwányóuxì,jiàotāmenwánhánguódeyóuxì,zhēndetèbiéyǒuqù!
 1	晚上	晚上	NOUN	_	_	10	obl:tmod	_	SpaceAfter=No|Translit=wǎnshàng|LTranslit=wǎnshàng
 2	和	和	ADP	_	_	3	case	_	SpaceAfter=No|Translit=hé|LTranslit=hé
 3	朋友	朋友	NOUN	_	_	10	obl	_	SpaceAfter=No|Translit=péngyou|LTranslit=péngyou
@@ -4864,7 +4864,7 @@
 15	教	教	VERB	_	_	10	conj	_	SpaceAfter=No|Translit=jiào|LTranslit=jiào
 16	他们	他们	PRON	_	_	15	obj	_	SpaceAfter=No|Translit=tāmen|LTranslit=tāmen
 17	玩	玩	VERB	_	_	15	xcomp	_	SpaceAfter=No|Translit=wán|LTranslit=wán
-18	韩国	韩国	PROPN	_	_	20	nmod	_	SpaceAfter=No|Translit=韩guó|LTranslit=韩guó
+18	韩国	韩国	PROPN	_	_	20	nmod	_	SpaceAfter=No|Translit=hánguó|LTranslit=hánguó
 19	的	的	PART	_	_	18	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 20	游戏	游戏	NOUN	_	_	17	compound:vo	_	SpaceAfter=No|Translit=yóuxì|LTranslit=yóuxì
 21	，	，	PUNCT	_	_	24	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
@@ -4968,14 +4968,14 @@
 
 # sent_id = CFL_H_2-16_ori
 # text = 不得不提的是，商洛的小吃，真的特别好吃，那里的人更是亲切，在那里我，我们觉得非常舒服！
-# translit = bùdebùtídeshì,shāng洛dexiǎochī,zhēndetèbiéhǎochī,nàlǐderéngèngshìqīnqiè,zàinàlǐwǒ,wǒmenjuédefēichángshūfú!
+# translit = bùdebùtídeshì,shāngluòdexiǎochī,zhēndetèbiéhǎochī,nàlǐderéngèngshìqīnqiè,zàinàlǐwǒ,wǒmenjuédefēichángshūfú!
 1	不得	不得	AUX	_	_	3	aux	_	SpaceAfter=No|Translit=bùde|LTranslit=bùde
 2	不	不	ADV	_	_	3	advmod	_	SpaceAfter=No|Translit=bù|LTranslit=bù
 3	提	提	VERB	_	_	5	advcl	_	SpaceAfter=No|Translit=tí|LTranslit=tí
 4	的	的	PART	_	_	3	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 5	是	是	VERB	_	_	0	root	_	SpaceAfter=No|Translit=shì|LTranslit=shì
 6	，	，	PUNCT	_	_	13	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-7	商洛	商洛	PROPN	_	_	9	nmod	_	SpaceAfter=No|Translit=shāng洛|LTranslit=shāng洛
+7	商洛	商洛	PROPN	_	_	9	nmod	_	SpaceAfter=No|Translit=shāngluò|LTranslit=shāngluò
 8	的	的	PART	_	_	7	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 9	小吃	小吃	NOUN	_	_	13	nsubj	_	SpaceAfter=No|Translit=xiǎochī|LTranslit=xiǎochī
 10	，	，	PUNCT	_	_	9	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
@@ -5075,7 +5075,7 @@
 
 # sent_id = CFL_I_1-3_ori
 # text = 去年我跟朋友们一起玩的时候，一个我的韩国朋友给我介绍了一个中国男孩儿。
-# translit = qùniánwǒgēnpéngyoumenyīqǐwándeshíhou,yīgèwǒde韩guópéngyougěiwǒjièshàoleyīgèzhōngguónánháir.
+# translit = qùniánwǒgēnpéngyoumenyīqǐwándeshíhou,yīgèwǒdehánguópéngyougěiwǒjièshàoleyīgèzhōngguónánháir.
 1	去年	去年	NOUN	_	_	6	obl:tmod	_	SpaceAfter=No|Translit=qùnián|LTranslit=qùnián
 2	我	我	PRON	_	_	6	nsubj	_	SpaceAfter=No|Translit=wǒ|LTranslit=wǒ
 3	跟	跟	CCONJ	_	_	4	cc	_	SpaceAfter=No|Translit=gēn|LTranslit=gēn
@@ -5089,7 +5089,7 @@
 11	个	个	NOUN	_	_	10	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 12	我	我	PRON	_	_	15	nmod	_	SpaceAfter=No|Translit=wǒ|LTranslit=wǒ
 13	的	的	PART	_	_	12	case	_	SpaceAfter=No|Translit=de|LTranslit=de
-14	韩国	韩国	PROPN	_	_	15	compound	_	SpaceAfter=No|Translit=韩guó|LTranslit=韩guó
+14	韩国	韩国	PROPN	_	_	15	compound	_	SpaceAfter=No|Translit=hánguó|LTranslit=hánguó
 15	朋友	朋友	NOUN	_	_	18	nsubj	_	SpaceAfter=No|Translit=péngyou|LTranslit=péngyou
 16	给	给	ADP	_	_	17	case	_	SpaceAfter=No|Translit=gěi|LTranslit=gěi
 17	我	我	PRON	_	_	18	obl	_	SpaceAfter=No|Translit=wǒ|LTranslit=wǒ
@@ -6013,24 +6013,24 @@
 
 # sent_id = CFL_L_1-5_ori
 # text = 我先到北京，然后坐火车到兰州。
-# translit = wǒxiāndàoběi京,ránhòuzuòhuǒchēdào兰zhōu.
+# translit = wǒxiāndàoběijīng,ránhòuzuòhuǒchēdàolánzhōu.
 1	我	我	PRON	_	_	3	nsubj	_	SpaceAfter=No|Translit=wǒ|LTranslit=wǒ
 2	先	先	ADV	_	_	3	advmod	_	SpaceAfter=No|Translit=xiān|LTranslit=xiān
 3	到	到	VERB	_	_	0	root	_	SpaceAfter=No|Translit=dào|LTranslit=dào
-4	北京	北京	PROPN	_	_	3	obj	_	SpaceAfter=No|Translit=běi京|LTranslit=běi京
+4	北京	北京	PROPN	_	_	3	obj	_	SpaceAfter=No|Translit=běijīng|LTranslit=běijīng
 5	，	，	PUNCT	_	_	7	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 6	然后	然后	ADV	_	_	7	advmod	_	SpaceAfter=No|Translit=ránhòu|LTranslit=ránhòu
 7	坐	坐	VERB	_	_	3	conj	_	SpaceAfter=No|Translit=zuò|LTranslit=zuò
 8	火车	火车	NOUN	_	_	7	obj	_	SpaceAfter=No|Translit=huǒchē|LTranslit=huǒchē
 9	到	到	ADP	_	_	10	case	_	SpaceAfter=No|Translit=dào|LTranslit=dào
-10	兰州	兰州	PROPN	_	_	7	obl	_	SpaceAfter=No|Translit=兰zhōu|LTranslit=兰zhōu
+10	兰州	兰州	PROPN	_	_	7	obl	_	SpaceAfter=No|Translit=lánzhōu|LTranslit=lánzhōu
 11	。	。	PUNCT	_	_	3	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = CFL_L_1-6_ori
 # text = 在兰州我给她打个电话，突然她说告别。
-# translit = zài兰zhōuwǒgěitādǎgèdiànhuà,tūrántāshuōgàobié.
+# translit = zàilánzhōuwǒgěitādǎgèdiànhuà,tūrántāshuōgàobié.
 1	在	在	ADP	_	_	2	case	_	SpaceAfter=No|Translit=zài|LTranslit=zài
-2	兰州	兰州	PROPN	_	_	6	obl	_	SpaceAfter=No|Translit=兰zhōu|LTranslit=兰zhōu
+2	兰州	兰州	PROPN	_	_	6	obl	_	SpaceAfter=No|Translit=lánzhōu|LTranslit=lánzhōu
 3	我	我	PRON	_	_	6	nsubj	_	SpaceAfter=No|Translit=wǒ|LTranslit=wǒ
 4	给	给	ADP	_	_	5	case	_	SpaceAfter=No|Translit=gěi|LTranslit=gěi
 5	她	她	PRON	_	_	6	obl	_	SpaceAfter=No|Translit=tā|LTranslit=tā
@@ -7117,7 +7117,7 @@
 
 # sent_id = CFL_O_1-5_ori
 # text = 在去富士山之前我还找到了来自澳大利亚的朋友，他在日本教英语。
-# translit = zàiqùfùshìshānzhīqiánwǒháizhǎodàoleláizì澳dàlìyàdepéngyou,tāzàirìběnjiàoyīngyǔ.
+# translit = zàiqùfùshìshānzhīqiánwǒháizhǎodàoleláizì'àodàlìyàdepéngyou,tāzàirìběnjiàoyīngyǔ.
 1	在	在	ADP	_	_	2	mark	_	SpaceAfter=No|Translit=zài|LTranslit=zài
 2	去	去	VERB	_	_	7	obl:tmod	_	SpaceAfter=No|Translit=qù|LTranslit=qù
 3	富士山	富士山	PROPN	_	_	2	obj	_	SpaceAfter=No|Translit=fùshìshān|LTranslit=fùshìshān
@@ -7128,7 +7128,7 @@
 8	到	到	VERB	_	_	7	compound:vv	_	SpaceAfter=No|Translit=dào|LTranslit=dào
 9	了	了	AUX	_	_	7	aux	_	SpaceAfter=No|Translit=le|LTranslit=le
 10	来自	来自	VERB	_	_	13	acl	_	SpaceAfter=No|Translit=láizì|LTranslit=láizì
-11	澳大利亚	澳大利亚	PROPN	_	_	10	obj	_	SpaceAfter=No|Translit=澳dàlìyà|LTranslit=澳dàlìyà
+11	澳大利亚	澳大利亚	PROPN	_	_	10	obj	_	SpaceAfter=No|Translit='àodàlìyà|LTranslit='àodàlìyà
 12	的	的	PART	_	_	10	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 13	朋友	朋友	NOUN	_	_	7	obj	_	SpaceAfter=No|Translit=péngyou|LTranslit=péngyou
 14	，	，	PUNCT	_	_	18	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
@@ -7179,7 +7179,7 @@
 
 # sent_id = CFL_O_1-7_ori
 # text = 见过他之后我就去东京了。
-# translit = jiànguòtāzhīhòuwǒjiùqùdōng京le.
+# translit = jiànguòtāzhīhòuwǒjiùqùdōngjīngle.
 1	见	见	VERB	_	_	7	advcl	_	SpaceAfter=No|Translit=jiàn|LTranslit=jiàn
 2	过	过	AUX	_	_	1	aux	_	SpaceAfter=No|Translit=guò|LTranslit=guò
 3	他	他	PRON	_	_	1	obj	_	SpaceAfter=No|Translit=tā|LTranslit=tā
@@ -7187,7 +7187,7 @@
 5	我	我	PRON	_	_	7	nsubj	_	SpaceAfter=No|Translit=wǒ|LTranslit=wǒ
 6	就	就	ADV	_	_	7	advmod	_	SpaceAfter=No|Translit=jiù|LTranslit=jiù
 7	去	去	VERB	_	_	0	root	_	SpaceAfter=No|Translit=qù|LTranslit=qù
-8	东京	东京	PROPN	_	_	7	obj	_	SpaceAfter=No|Translit=dōng京|LTranslit=dōng京
+8	东京	东京	PROPN	_	_	7	obj	_	SpaceAfter=No|Translit=dōngjīng|LTranslit=dōngjīng
 9	了	了	PART	_	_	7	discourse:sp	_	SpaceAfter=No|Translit=le|LTranslit=le
 10	。	。	PUNCT	_	_	7	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
@@ -7239,7 +7239,7 @@
 
 # sent_id = CFL_O_1-9_ori
 # text = 他和他的女朋友带我在东京玩，我们主要在秋叶原逛。
-# translit = tāhétādenǚpéngyoudàiwǒzàidōng京wán,wǒmenzhǔyàozàiqiūyèyuánguàng.
+# translit = tāhétādenǚpéngyoudàiwǒzàidōngjīngwán,wǒmenzhǔyàozàiqiūyèyuánguàng.
 1	他	他	PRON	_	_	10	nsubj	_	SpaceAfter=No|Translit=tā|LTranslit=tā
 2	和	和	CCONJ	_	_	5	cc	_	SpaceAfter=No|Translit=hé|LTranslit=hé
 3	他	他	PRON	_	_	5	nmod	_	SpaceAfter=No|Translit=tā|LTranslit=tā
@@ -7248,7 +7248,7 @@
 6	带	带	ADP	_	_	7	case	_	SpaceAfter=No|Translit=dài|LTranslit=dài
 7	我	我	PRON	_	_	10	obl	_	SpaceAfter=No|Translit=wǒ|LTranslit=wǒ
 8	在	在	ADP	_	_	9	case	_	SpaceAfter=No|Translit=zài|LTranslit=zài
-9	东京	东京	PROPN	_	_	10	obl	_	SpaceAfter=No|Translit=dōng京|LTranslit=dōng京
+9	东京	东京	PROPN	_	_	10	obl	_	SpaceAfter=No|Translit=dōngjīng|LTranslit=dōngjīng
 10	玩	玩	VERB	_	_	0	root	_	SpaceAfter=No|Translit=wán|LTranslit=wán
 11	，	，	PUNCT	_	_	16	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 12	我们	我们	PRON	_	_	16	nsubj	_	SpaceAfter=No|Translit=wǒmen|LTranslit=wǒmen
@@ -7450,7 +7450,7 @@
 
 # sent_id = CFL_O_1-16_ori
 # text = 在我离开日本之前，我又去探望那个澳大利亚的朋友和他喜欢的女孩。
-# translit = zàiwǒlíkāirìběnzhīqián,wǒyòuqùtànwàngnàgè澳dàlìyàdepéngyouhétāxǐhuandenǚhái.
+# translit = zàiwǒlíkāirìběnzhīqián,wǒyòuqùtànwàngnàgè'àodàlìyàdepéngyouhétāxǐhuandenǚhái.
 1	在	在	ADP	_	_	3	case	_	SpaceAfter=No|Translit=zài|LTranslit=zài
 2	我	我	PRON	_	_	3	nsubj	_	SpaceAfter=No|Translit=wǒ|LTranslit=wǒ
 3	离开	离开	VERB	_	_	9	obl:tmod	_	SpaceAfter=No|Translit=líkāi|LTranslit=líkāi
@@ -7463,7 +7463,7 @@
 10	探望	探望	VERB	_	_	9	conj	_	SpaceAfter=No|Translit=tànwàng|LTranslit=tànwàng
 11	那	那	DET	_	_	12	det	_	SpaceAfter=No|Translit=nà|LTranslit=nà
 12	个	个	NOUN	_	_	15	nmod	_	SpaceAfter=No|Translit=gè|LTranslit=gè
-13	澳大利亚	澳大利亚	PROPN	_	_	15	nmod	_	SpaceAfter=No|Translit=澳dàlìyà|LTranslit=澳dàlìyà
+13	澳大利亚	澳大利亚	PROPN	_	_	15	nmod	_	SpaceAfter=No|Translit='àodàlìyà|LTranslit='àodàlìyà
 14	的	的	PART	_	_	13	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 15	朋友	朋友	NOUN	_	_	10	obj	_	SpaceAfter=No|Translit=péngyou|LTranslit=péngyou
 16	和	和	CCONJ	_	_	20	cc	_	SpaceAfter=No|Translit=hé|LTranslit=hé
@@ -7862,14 +7862,14 @@
 
 # sent_id = CFL_X_1-1_ori
 # text = 照片里出现了几个奥林匹克运动员。
-# translit = zhàopiànlǐchūxiànlejǐgè奥línpǐkèyùndòngyuán.
+# translit = zhàopiànlǐchūxiànlejǐgè'àolínpǐkèyùndòngyuán.
 1	照片	照片	NOUN	_	_	3	obl	_	SpaceAfter=No|Translit=zhàopiàn|LTranslit=zhàopiàn
 2	里	里	ADP	_	_	1	case:loc	_	SpaceAfter=No|Translit=lǐ|LTranslit=lǐ
 3	出现	出现	VERB	_	_	0	root	_	SpaceAfter=No|Translit=chūxiàn|LTranslit=chūxiàn
 4	了	了	AUX	_	_	3	aux	_	SpaceAfter=No|Translit=le|LTranslit=le
 5	几	几	DET	_	_	8	det	_	SpaceAfter=No|Translit=jǐ|LTranslit=jǐ
 6	个	个	NOUN	_	_	5	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
-7	奥林匹克	奥林匹克	PROPN	_	_	8	compound	_	SpaceAfter=No|Translit=奥línpǐkè|LTranslit=奥línpǐkè
+7	奥林匹克	奥林匹克	PROPN	_	_	8	compound	_	SpaceAfter=No|Translit='àolínpǐkè|LTranslit='àolínpǐkè
 8	运动员	运动员	NOUN	_	_	3	obj	_	SpaceAfter=No|Translit=yùndòngyuán|LTranslit=yùndòngyuán
 9	。	。	PUNCT	_	_	3	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
@@ -7888,10 +7888,10 @@
 
 # sent_id = CFL_X_1-3_ori
 # text = 得了冠军的他张开双臂欢呼，我觉得他一定不敢相信自己眼前的这一切。
-# translit = dele冠jūndetāzhāngkāishuāngbìhuanhū,wǒjuédetāyīdìngbùgǎnxiāngxìnzìjǐyǎnqiándezhèyīqiè.
+# translit = deleguānjūndetāzhāngkāishuāngbìhuanhū,wǒjuédetāyīdìngbùgǎnxiāngxìnzìjǐyǎnqiándezhèyīqiè.
 1	得	得	VERB	_	_	5	acl	_	SpaceAfter=No|Translit=de|LTranslit=de
 2	了	了	AUX	_	_	1	aux	_	SpaceAfter=No|Translit=le|LTranslit=le
-3	冠军	冠军	NOUN	_	_	1	obj	_	SpaceAfter=No|Translit=冠jūn|LTranslit=冠jūn
+3	冠军	冠军	NOUN	_	_	1	obj	_	SpaceAfter=No|Translit=guānjūn|LTranslit=guānjūn
 4	的	的	PART	_	_	1	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 5	他	他	PRON	_	_	10	nsubj	_	SpaceAfter=No|Translit=tā|LTranslit=tā
 6	张	张	VERB	_	_	10	advcl	_	SpaceAfter=No|Translit=zhāng|LTranslit=zhāng
@@ -8086,10 +8086,10 @@
 
 # sent_id = CFL_X_1-11_ori
 # text = 每次奥林匹克运动会都让我久久不能忘怀。
-# translit = měicì奥línpǐkèyùndònghuìdōuràngwǒjiǔjiǔbùnéngwànghuái.
+# translit = měicì'àolínpǐkèyùndònghuìdōuràngwǒjiǔjiǔbùnéngwànghuái.
 1	每	每	DET	_	_	4	det	_	SpaceAfter=No|Translit=měi|LTranslit=měi
 2	次	次	NOUN	_	_	1	clf	_	SpaceAfter=No|Translit=cì|LTranslit=cì
-3	奥林匹克	奥林匹克	PROPN	_	_	4	compound	_	SpaceAfter=No|Translit=奥línpǐkè|LTranslit=奥línpǐkè
+3	奥林匹克	奥林匹克	PROPN	_	_	4	compound	_	SpaceAfter=No|Translit='àolínpǐkè|LTranslit='àolínpǐkè
 4	运动会	运动会	NOUN	_	_	6	nsubj	_	SpaceAfter=No|Translit=yùndònghuì|LTranslit=yùndònghuì
 5	都	都	ADV	_	_	6	advmod	_	SpaceAfter=No|Translit=dōu|LTranslit=dōu
 6	让	让	VERB	_	_	0	root	_	SpaceAfter=No|Translit=ràng|LTranslit=ràng
@@ -8102,7 +8102,7 @@
 
 # sent_id = CFL_X_1-12_ori
 # text = 跟前面说的一样，因为所有运动员都竭尽全力去拼搏，所以我们才没有留有遗憾的观看到精彩绝伦的比赛。
-# translit = gēnqiánmiànshuōdeyīyàng,yīnwèisuǒyǒuyùndòngyuándōujiéjǐnquánlìqùpīnbó,suǒyǐwǒmencáiméiyǒuliúyǒuyíhàndeguānkàndàojīngcǎijué伦debǐsài.
+# translit = gēnqiánmiànshuōdeyīyàng,yīnwèisuǒyǒuyùndòngyuándōujiéjǐnquánlìqùpīnbó,suǒyǐwǒmencáiméiyǒuliúyǒuyíhàndeguānkàndàojīngcǎijuélúndebǐsài.
 1	跟	跟	ADP	_	_	3	case	_	SpaceAfter=No|Translit=gēn|LTranslit=gēn
 2	前面	前面	NOUN	_	_	3	obl	_	SpaceAfter=No|Translit=qiánmiàn|LTranslit=qiánmiàn
 3	说	说	VERB	_	_	5	obl	_	SpaceAfter=No|Translit=shuō|LTranslit=shuō
@@ -8126,7 +8126,7 @@
 21	的	的	PART	_	_	19	mark:adv	_	SpaceAfter=No|Translit=de|LTranslit=de
 22	观看	观看	VERB	_	_	0	root	_	SpaceAfter=No|Translit=guānkàn|LTranslit=guānkàn
 23	到	到	VERB	_	_	22	compound:vv	_	SpaceAfter=No|Translit=dào|LTranslit=dào
-24	精彩绝伦	精彩绝伦	ADJ	_	_	26	amod	_	SpaceAfter=No|Translit=jīngcǎijué伦|LTranslit=jīngcǎijué伦
+24	精彩绝伦	精彩绝伦	ADJ	_	_	26	amod	_	SpaceAfter=No|Translit=jīngcǎijuélún|LTranslit=jīngcǎijuélún
 25	的	的	PART	_	_	24	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 26	比赛	比赛	NOUN	_	_	22	obj	_	SpaceAfter=No|Translit=bǐsài|LTranslit=bǐsài
 27	。	。	PUNCT	_	_	22	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
@@ -8176,7 +8176,7 @@
 
 # sent_id = CFL_X_1-14_ori
 # text = 作为平凡人的我们，虽然不能像奥林匹克运动员一样在运动场上奔驰，但我们可以学习他们的精神，那种自强不息，勇往直前，永不退缩的奥林匹克精神，这种精神会让我们越来越坚强，越来越优秀！
-# translit = zuòwèipíngfánréndewǒmen,suīránbùnéngxiàng奥línpǐkèyùndòngyuányīyàngzàiyùndòngchǎngshàngbēnchí,dànwǒmenkěyǐxuéxítāmendejīngshén,nàzhǒngzìqiángbùxi,yǒngwǎngzhíqián,yǒngbùtuìsuōde奥línpǐkèjīngshén,zhèzhǒngjīngshénhuìràngwǒmenyuèláiyuèjiānqiáng,yuèláiyuèyōuxiù!
+# translit = zuòwèipíngfánréndewǒmen,suīránbùnéngxiàng'àolínpǐkèyùndòngyuányīyàngzàiyùndòngchǎngshàngbēnchí,dànwǒmenkěyǐxuéxítāmendejīngshén,nàzhǒngzìqiángbùxi,yǒngwǎngzhíqián,yǒngbùtuìsuōde'àolínpǐkèjīngshén,zhèzhǒngjīngshénhuìràngwǒmenyuèláiyuèjiānqiáng,yuèláiyuèyōuxiù!
 1	作为	作为	ADP	_	_	5	acl	_	SpaceAfter=No|Translit=zuòwèi|LTranslit=zuòwèi
 2	平凡	平凡	ADJ	_	_	3	amod	_	SpaceAfter=No|Translit=píngfán|LTranslit=píngfán
 3	人	人	NOUN	_	_	1	obj	_	SpaceAfter=No|Translit=rén|LTranslit=rén
@@ -8187,7 +8187,7 @@
 8	不	不	ADV	_	_	9	advmod	_	SpaceAfter=No|Translit=bù|LTranslit=bù
 9	能	能	AUX	_	_	17	aux	_	SpaceAfter=No|Translit=néng|LTranslit=néng
 10	像	像	ADP	_	_	12	case	_	SpaceAfter=No|Translit=xiàng|LTranslit=xiàng
-11	奥林匹克	奥林匹克	PROPN	_	_	12	compound	_	SpaceAfter=No|Translit=奥línpǐkè|LTranslit=奥línpǐkè
+11	奥林匹克	奥林匹克	PROPN	_	_	12	compound	_	SpaceAfter=No|Translit='àolínpǐkè|LTranslit='àolínpǐkè
 12	运动员	运动员	NOUN	_	_	13	obl	_	SpaceAfter=No|Translit=yùndòngyuán|LTranslit=yùndòngyuán
 13	一样	一样	ADJ	_	_	17	advcl	_	SpaceAfter=No|Translit=yīyàng|LTranslit=yīyàng
 14	在	在	ADP	_	_	15	case	_	SpaceAfter=No|Translit=zài|LTranslit=zài
@@ -8212,7 +8212,7 @@
 33	永不	永不	ADV	_	_	34	advmod	_	SpaceAfter=No|Translit=yǒngbù|LTranslit=yǒngbù
 34	退缩	退缩	VERB	_	_	29	conj	_	SpaceAfter=No|Translit=tuìsuō|LTranslit=tuìsuō
 35	的	的	PART	_	_	29	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
-36	奥林匹克	奥林匹克	PROPN	_	_	37	compound	_	SpaceAfter=No|Translit=奥línpǐkè|LTranslit=奥línpǐkè
+36	奥林匹克	奥林匹克	PROPN	_	_	37	compound	_	SpaceAfter=No|Translit='àolínpǐkè|LTranslit='àolínpǐkè
 37	精神	精神	NOUN	_	_	25	appos	_	SpaceAfter=No|Translit=jīngshén|LTranslit=jīngshén
 38	，	，	PUNCT	_	_	37	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 39	这	这	DET	_	_	41	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
@@ -8606,12 +8606,12 @@
 
 # sent_id = CFL_Z_1-1_ori
 # text = 去年我刚到北京的时候惊讶地发现街上有许多人骑自行车。
-# translit = qùniánwǒgāngdàoběi京deshíhoujīngyàdefāxiànjiēshàngyǒuxǔduōrénqízìxíngchē.
+# translit = qùniánwǒgāngdàoběijīngdeshíhoujīngyàdefāxiànjiēshàngyǒuxǔduōrénqízìxíngchē.
 1	去年	去年	NOUN	_	_	10	obl:tmod	_	SpaceAfter=No|Translit=qùnián|LTranslit=qùnián
 2	我	我	PRON	_	_	10	nsubj	_	SpaceAfter=No|Translit=wǒ|LTranslit=wǒ
 3	刚	刚	ADV	_	_	4	advmod	_	SpaceAfter=No|Translit=gāng|LTranslit=gāng
 4	到	到	VERB	_	_	7	acl	_	SpaceAfter=No|Translit=dào|LTranslit=dào
-5	北京	北京	PROPN	_	_	4	obj	_	SpaceAfter=No|Translit=běi京|LTranslit=běi京
+5	北京	北京	PROPN	_	_	4	obj	_	SpaceAfter=No|Translit=běijīng|LTranslit=běijīng
 6	的	的	PART	_	_	4	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 7	时候	时候	NOUN	_	_	10	obl:tmod	_	SpaceAfter=No|Translit=shíhou|LTranslit=shíhou
 8	惊讶	惊讶	ADJ	_	_	10	advmod	_	SpaceAfter=No|Translit=jīngyà|LTranslit=jīngyà
@@ -8781,7 +8781,7 @@
 
 # sent_id = CFL_Z_1-10_ori
 # text = 这不限于学生，看起来很多北京人习惯日常中骑自行车往来。
-# translit = zhèbùxiànyúxuéshēng,kànqǐláihěnduōběi京rénxíguànrìchángzhōngqízìxíngchēwǎnglái.
+# translit = zhèbùxiànyúxuéshēng,kànqǐláihěnduōběijīngrénxíguànrìchángzhōngqízìxíngchēwǎnglái.
 1	这	这	PRON	_	_	3	nsubj	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
 2	不	不	ADV	_	_	3	advmod	_	SpaceAfter=No|Translit=bù|LTranslit=bù
 3	限于	限于	VERB	_	_	10	advcl	_	SpaceAfter=No|Translit=xiànyú|LTranslit=xiànyú
@@ -8790,7 +8790,7 @@
 6	看	看	VERB	_	_	10	advcl	_	SpaceAfter=No|Translit=kàn|LTranslit=kàn
 7	起来	起来	VERB	_	_	6	compound:vv	_	SpaceAfter=No|Translit=qǐlái|LTranslit=qǐlái
 8	很多	很多	DET	_	_	9	det	_	SpaceAfter=No|Translit=hěnduō|LTranslit=hěnduō
-9	北京人	北京人	NOUN	_	_	10	nsubj	_	SpaceAfter=No|Translit=běi京rén|LTranslit=běi京rén
+9	北京人	北京人	NOUN	_	_	10	nsubj	_	SpaceAfter=No|Translit=běijīngrén|LTranslit=běijīngrén
 10	习惯	习惯	VERB	_	_	0	root	_	SpaceAfter=No|Translit=xíguàn|LTranslit=xíguàn
 11	日常	日常	NOUN	_	_	13	obl	_	SpaceAfter=No|Translit=rìcháng|LTranslit=rìcháng
 12	中	中	ADP	_	_	11	case:loc	_	SpaceAfter=No|Translit=zhōng|LTranslit=zhōng
@@ -8801,10 +8801,10 @@
 
 # sent_id = CFL_Z_1-11_ori
 # text = 我觉得北京人爱骑自行车的理由又在于北京的交通混乱。
-# translit = wǒjuédeběi京rén'àiqízìxíngchēdelǐyóuyòuzàiyúběi京dejiāotōnghùnluàn.
+# translit = wǒjuédeběijīngrén'àiqízìxíngchēdelǐyóuyòuzàiyúběijīngdejiāotōnghùnluàn.
 1	我	我	PRON	_	_	2	nsubj	_	SpaceAfter=No|Translit=wǒ|LTranslit=wǒ
 2	觉得	觉得	VERB	_	_	0	root	_	SpaceAfter=No|Translit=juéde|LTranslit=juéde
-3	北京人	北京人	NOUN	_	_	5	nsubj	_	SpaceAfter=No|Translit=běi京rén|LTranslit=běi京rén
+3	北京人	北京人	NOUN	_	_	5	nsubj	_	SpaceAfter=No|Translit=běijīngrén|LTranslit=běijīngrén
 4	爱	爱	AUX	_	_	5	aux	_	SpaceAfter=No|Translit='ài|LTranslit='ài
 5	骑	骑	VERB	_	_	8	acl	_	SpaceAfter=No|Translit=qí|LTranslit=qí
 6	自行车	自行车	NOUN	_	_	5	obj	_	SpaceAfter=No|Translit=zìxíngchē|LTranslit=zìxíngchē
@@ -8812,7 +8812,7 @@
 8	理由	理由	NOUN	_	_	10	nsubj	_	SpaceAfter=No|Translit=lǐyóu|LTranslit=lǐyóu
 9	又	又	ADV	_	_	10	advmod	_	SpaceAfter=No|Translit=yòu|LTranslit=yòu
 10	在于	在于	VERB	_	_	2	ccomp	_	SpaceAfter=No|Translit=zàiyú|LTranslit=zàiyú
-11	北京	北京	PROPN	_	_	13	nmod	_	SpaceAfter=No|Translit=běi京|LTranslit=běi京
+11	北京	北京	PROPN	_	_	13	nmod	_	SpaceAfter=No|Translit=běijīng|LTranslit=běijīng
 12	的	的	PART	_	_	11	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 13	交通	交通	NOUN	_	_	10	obj	_	SpaceAfter=No|Translit=jiāotōng|LTranslit=jiāotōng
 14	混乱	混乱	NOUN	_	_	13	compound	_	SpaceAfter=No|Translit=hùnluàn|LTranslit=hùnluàn
@@ -8887,10 +8887,10 @@
 
 # sent_id = CFL_Z_1-15_ori
 # text = 所以很多北京人这样为避免道路上的时间浪费和麻烦选择骑自行车。
-# translit = suǒyǐhěnduōběi京rénzhèyàngwèibìmiǎndàolùshàngdeshíjiānlàngfèihémáfánxuǎnzéqízìxíngchē.
+# translit = suǒyǐhěnduōběijīngrénzhèyàngwèibìmiǎndàolùshàngdeshíjiānlàngfèihémáfánxuǎnzéqízìxíngchē.
 1	所以	所以	ADV	_	_	14	advmod	_	SpaceAfter=No|Translit=suǒyǐ|LTranslit=suǒyǐ
 2	很多	很多	DET	_	_	3	det	_	SpaceAfter=No|Translit=hěnduō|LTranslit=hěnduō
-3	北京人	北京人	NOUN	_	_	14	nsubj	_	SpaceAfter=No|Translit=běi京rén|LTranslit=běi京rén
+3	北京人	北京人	NOUN	_	_	14	nsubj	_	SpaceAfter=No|Translit=běijīngrén|LTranslit=běijīngrén
 4	这样	这样	ADV	_	_	14	advmod	_	SpaceAfter=No|Translit=zhèyàng|LTranslit=zhèyàng
 5	为	为	ADP	_	_	6	mark	_	SpaceAfter=No|Translit=wèi|LTranslit=wèi
 6	避免	避免	VERB	_	_	14	advcl	_	SpaceAfter=No|Translit=bìmiǎn|LTranslit=bìmiǎn
@@ -8908,14 +8908,14 @@
 
 # sent_id = CFL_Z_1-16_ori
 # text = 今年9月初我再次去北京的时候让我惊讶的情景就是市内到处有很多公共自行车了。
-# translit = jīnnián9yuèchūwǒzàicìqùběi京deshíhouràngwǒjīngyàdeqíngjǐngjiùshìshìnèidàochùyǒuhěnduōgōnggòngzìxíngchēle.
+# translit = jīnnián9yuèchūwǒzàicìqùběijīngdeshíhouràngwǒjīngyàdeqíngjǐngjiùshìshìnèidàochùyǒuhěnduōgōnggòngzìxíngchēle.
 1	今年	今年	NOUN	_	_	2	nmod	_	SpaceAfter=No|Translit=jīnnián|LTranslit=jīnnián
 2	9月	9月	NOUN	_	_	6	obl:tmod	_	SpaceAfter=No|Translit=9yuè|LTranslit=9yuè
 3	初	初	NOUN	_	_	2	nmod	_	SpaceAfter=No|Translit=chū|LTranslit=chū
 4	我	我	PRON	_	_	6	nsubj	_	SpaceAfter=No|Translit=wǒ|LTranslit=wǒ
 5	再次	再次	ADV	_	_	6	advmod	_	SpaceAfter=No|Translit=zàicì|LTranslit=zàicì
 6	去	去	VERB	_	_	9	acl	_	SpaceAfter=No|Translit=qù|LTranslit=qù
-7	北京	北京	PROPN	_	_	6	obj	_	SpaceAfter=No|Translit=běi京|LTranslit=běi京
+7	北京	北京	PROPN	_	_	6	obj	_	SpaceAfter=No|Translit=běijīng|LTranslit=běijīng
 8	的	的	PART	_	_	6	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 9	时候	时候	NOUN	_	_	10	obl:tmod	_	SpaceAfter=No|Translit=shíhou|LTranslit=shíhou
 10	让	让	VERB	_	_	0	root	_	SpaceAfter=No|Translit=ràng|LTranslit=ràng
@@ -8936,7 +8936,7 @@
 
 # sent_id = CFL_Z_1-17_ori
 # text = 我好奇的在网上搜索一下为什么这么多公共自行车突然产生在北京到处。
-# translit = wǒhǎoqídezàiwǎngshàngsōusuǒyīxiàwèishénmezhèmeduōgōnggòngzìxíngchētūránchǎnshēngzàiběi京dàochù.
+# translit = wǒhǎoqídezàiwǎngshàngsōusuǒyīxiàwèishénmezhèmeduōgōnggòngzìxíngchētūránchǎnshēngzàiběijīngdàochù.
 1	我	我	PRON	_	_	7	nsubj	_	SpaceAfter=No|Translit=wǒ|LTranslit=wǒ
 2	好奇	好奇	NOUN	_	_	7	obl	_	SpaceAfter=No|Translit=hǎoqí|LTranslit=hǎoqí
 3	的	的	PART	_	_	2	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
@@ -8953,7 +8953,7 @@
 14	突然	突然	ADV	_	_	15	advmod	_	SpaceAfter=No|Translit=tūrán|LTranslit=tūrán
 15	产生	产生	VERB	_	_	7	ccomp	_	SpaceAfter=No|Translit=chǎnshēng|LTranslit=chǎnshēng
 16	在	在	ADP	_	_	17	case	_	SpaceAfter=No|Translit=zài|LTranslit=zài
-17	北京	北京	PROPN	_	_	15	obl	_	SpaceAfter=No|Translit=běi京|LTranslit=běi京
+17	北京	北京	PROPN	_	_	15	obl	_	SpaceAfter=No|Translit=běijīng|LTranslit=běijīng
 18	到处	到处	ADV	_	_	15	advmod	_	SpaceAfter=No|Translit=dàochù|LTranslit=dàochù
 19	。	。	PUNCT	_	_	7	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
@@ -9005,9 +9005,9 @@
 
 # sent_id = CFL_Z_1-20_ori
 # text = 很多北京人骑自行车的情景已经成为代表北京的特点。
-# translit = hěnduōběi京rénqízìxíngchēdeqíngjǐngyǐjīngchéngwèidàibiǎoběi京detèdiǎn.
+# translit = hěnduōběijīngrénqízìxíngchēdeqíngjǐngyǐjīngchéngwèidàibiǎoběijīngdetèdiǎn.
 1	很多	很多	DET	_	_	2	det	_	SpaceAfter=No|Translit=hěnduō|LTranslit=hěnduō
-2	北京人	北京人	NOUN	_	_	3	nsubj	_	SpaceAfter=No|Translit=běi京rén|LTranslit=běi京rén
+2	北京人	北京人	NOUN	_	_	3	nsubj	_	SpaceAfter=No|Translit=běijīngrén|LTranslit=běijīngrén
 3	骑	骑	VERB	_	_	6	acl	_	SpaceAfter=No|Translit=qí|LTranslit=qí
 4	自行车	自行车	NOUN	_	_	3	obj	_	SpaceAfter=No|Translit=zìxíngchē|LTranslit=zìxíngchē
 5	的	的	PART	_	_	3	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
@@ -9015,20 +9015,20 @@
 7	已经	已经	ADV	_	_	8	advmod	_	SpaceAfter=No|Translit=yǐjīng|LTranslit=yǐjīng
 8	成为	成为	VERB	_	_	0	root	_	SpaceAfter=No|Translit=chéngwèi|LTranslit=chéngwèi
 9	代表	代表	VERB	_	_	12	acl	_	SpaceAfter=No|Translit=dàibiǎo|LTranslit=dàibiǎo
-10	北京	北京	PROPN	_	_	9	obj	_	SpaceAfter=No|Translit=běi京|LTranslit=běi京
+10	北京	北京	PROPN	_	_	9	obj	_	SpaceAfter=No|Translit=běijīng|LTranslit=běijīng
 11	的	的	PART	_	_	9	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 12	特点	特点	NOUN	_	_	8	obj	_	SpaceAfter=No|Translit=tèdiǎn|LTranslit=tèdiǎn
 13	。	。	PUNCT	_	_	8	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = CFL_Z_1-21_ori
 # text = 看来自行车已经成为大多北京人生活中不可缺少的一部分。
-# translit = kànláizìxíngchēyǐjīngchéngwèidàduōběi京rénshēnghuózhōngbùkěquēshǎodeyībùfēn.
+# translit = kànláizìxíngchēyǐjīngchéngwèidàduōběijīngrénshēnghuózhōngbùkěquēshǎodeyībùfēn.
 1	看来	看来	VERB	_	_	0	root	_	SpaceAfter=No|Translit=kànlái|LTranslit=kànlái
 2	自行车	自行车	NOUN	_	_	4	nsubj	_	SpaceAfter=No|Translit=zìxíngchē|LTranslit=zìxíngchē
 3	已经	已经	ADV	_	_	4	advmod	_	SpaceAfter=No|Translit=yǐjīng|LTranslit=yǐjīng
 4	成为	成为	VERB	_	_	1	ccomp	_	SpaceAfter=No|Translit=chéngwèi|LTranslit=chéngwèi
 5	大多	大多	ADJ	_	_	6	amod	_	SpaceAfter=No|Translit=dàduō|LTranslit=dàduō
-6	北京人	北京人	NOUN	_	_	7	nmod	_	SpaceAfter=No|Translit=běi京rén|LTranslit=běi京rén
+6	北京人	北京人	NOUN	_	_	7	nmod	_	SpaceAfter=No|Translit=běijīngrén|LTranslit=běijīngrén
 7	生活	生活	NOUN	_	_	11	obl	_	SpaceAfter=No|Translit=shēnghuó|LTranslit=shēnghuó
 8	中	中	ADP	_	_	7	case:loc	_	SpaceAfter=No|Translit=zhōng|LTranslit=zhōng
 9	不可缺少	不可缺少	ADJ	_	_	11	amod	_	SpaceAfter=No|Translit=bùkěquēshǎo|LTranslit=bùkěquēshǎo
@@ -9038,9 +9038,9 @@
 
 # sent_id = CFL_Z_1-22_ori
 # text = 在北京住过一段时间的人都知道为什么北京人这么爱骑自行车。
-# translit = zàiběi京zhùguòyīduànshíjiānderéndōuzhīdàowèishénmeběi京rénzhème'àiqízìxíngchē.
+# translit = zàiběijīngzhùguòyīduànshíjiānderéndōuzhīdàowèishénmeběijīngrénzhème'àiqízìxíngchē.
 1	在	在	ADP	_	_	2	case	_	SpaceAfter=No|Translit=zài|LTranslit=zài
-2	北京	北京	PROPN	_	_	3	obl	_	SpaceAfter=No|Translit=běi京|LTranslit=běi京
+2	北京	北京	PROPN	_	_	3	obl	_	SpaceAfter=No|Translit=běijīng|LTranslit=běijīng
 3	住	住	VERB	_	_	9	acl	_	SpaceAfter=No|Translit=zhù|LTranslit=zhù
 4	过	过	VERB	_	_	3	compound:vv	_	SpaceAfter=No|Translit=guò|LTranslit=guò
 5	一	一	NUM	_	_	7	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
@@ -9051,7 +9051,7 @@
 10	都	都	ADV	_	_	11	advmod	_	SpaceAfter=No|Translit=dōu|LTranslit=dōu
 11	知道	知道	VERB	_	_	0	root	_	SpaceAfter=No|Translit=zhīdào|LTranslit=zhīdào
 12	为什么	为什么	ADV	_	_	16	advmod	_	SpaceAfter=No|Translit=wèishénme|LTranslit=wèishénme
-13	北京人	北京人	NOUN	_	_	16	nsubj	_	SpaceAfter=No|Translit=běi京rén|LTranslit=běi京rén
+13	北京人	北京人	NOUN	_	_	16	nsubj	_	SpaceAfter=No|Translit=běijīngrén|LTranslit=běijīngrén
 14	这么	这么	ADV	_	_	15	advmod	_	SpaceAfter=No|Translit=zhème|LTranslit=zhème
 15	爱	爱	AUX	_	_	16	aux	_	SpaceAfter=No|Translit='ài|LTranslit='ài
 16	骑	骑	VERB	_	_	11	ccomp	_	SpaceAfter=No|Translit=qí|LTranslit=qí
