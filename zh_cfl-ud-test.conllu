@@ -267,7 +267,7 @@
 19	是	是	VERB	_	_	16	ccomp	_	SpaceAfter=No
 20	我	我	PRON	_	_	23	nsubj	_	SpaceAfter=No
 21	第一	第一	ADJ	_	_	22	amod	_	SpaceAfter=No
-22	次	次	NOUN	_	_	23	advmod	_	SpaceAfter=No
+22	次	次	NOUN	_	_	23	obl	_	SpaceAfter=No
 23	去	去	VERB	_	_	19	ccomp	_	SpaceAfter=No
 24	国外	国外	NOUN	_	_	23	obj	_	SpaceAfter=No
 25	，	，	PUNCT	_	_	30	punct	_	SpaceAfter=No
@@ -1471,7 +1471,7 @@
 3	条	条	NOUN	_	_	2	clf	_	SpaceAfter=No
 4	大大小小	大大小小	ADJ	_	_	5	amod	_	SpaceAfter=No
 5	河流	河流	NOUN	_	_	11	nsubj	_	SpaceAfter=No
-6	者	者	NOUN	_	_	11	advmod	_	SpaceAfter=No
+6	者	者	NOUN	_	_	11	obl	_	SpaceAfter=No
 7	是	是	AUX	_	_	11	cop	_	SpaceAfter=No
 8	蓝宝石色	蓝宝石色	ADJ	_	_	11	amod	_	SpaceAfter=No
 9	的	的	PART	_	_	8	mark:rel	_	SpaceAfter=No
@@ -2407,7 +2407,7 @@
 1	吃	吃	VERB	_	_	6	advcl	_	SpaceAfter=No
 2	了	了	AUX	_	_	1	aux	_	SpaceAfter=No
 3	几	几	DET	_	_	4	det	_	SpaceAfter=No
-4	天	天	NOUN	_	_	1	advmod:df	_	SpaceAfter=No
+4	天	天	NOUN	_	_	1	obl	_	SpaceAfter=No
 5	就	就	ADV	_	_	6	advmod	_	SpaceAfter=No
 6	好	好	ADJ	_	_	0	root	_	SpaceAfter=No
 7	起来	起来	VERB	_	_	6	compound:dir	_	SpaceAfter=No
@@ -3055,7 +3055,7 @@
 2	在	在	ADP	_	_	3	case	_	SpaceAfter=No
 3	中国	中国	PROPN	_	_	6	obl	_	SpaceAfter=No
 4	第一	第一	ADJ	_	_	5	amod	_	SpaceAfter=No
-5	次	次	NOUN	_	_	6	advmod	_	SpaceAfter=No
+5	次	次	NOUN	_	_	6	obl	_	SpaceAfter=No
 6	坐	坐	VERB	_	_	0	root	_	SpaceAfter=No
 7	火车	火车	NOUN	_	_	6	obj	_	SpaceAfter=No
 8	，	，	PUNCT	_	_	14	punct	_	SpaceAfter=No
@@ -3083,7 +3083,7 @@
 6	起来	起来	VERB	_	_	5	compound:vv	_	SpaceAfter=No
 7	，	，	PUNCT	_	_	11	punct	_	SpaceAfter=No
 8	我	我	PRON	_	_	11	nsubj	_	SpaceAfter=No
-9	至今	至今	NOUN	_	_	11	advmod	_	SpaceAfter=No
+9	至今	至今	NOUN	_	_	11	obl	_	SpaceAfter=No
 10	还	还	ADV	_	_	11	advmod	_	SpaceAfter=No
 11	心有余悸	心有余悸	VERB	_	_	5	parataxis	_	SpaceAfter=No
 12	。	。	PUNCT	_	_	5	punct	_	SpaceAfter=No
@@ -3157,7 +3157,7 @@
 5	了	了	AUX	_	_	4	aux	_	SpaceAfter=No
 6	半	半	NUM	_	_	8	nummod	_	SpaceAfter=No
 7	个	个	NOUN	_	_	6	clf	_	SpaceAfter=No
-8	小时	小时	NOUN	_	_	4	advmod:df	_	SpaceAfter=No
+8	小时	小时	NOUN	_	_	4	obl	_	SpaceAfter=No
 9	，	，	PUNCT	_	_	11	punct	_	SpaceAfter=No
 10	才	才	ADV	_	_	11	advmod	_	SpaceAfter=No
 11	找	找	VERB	_	_	4	parataxis	_	SpaceAfter=No
@@ -3353,7 +3353,7 @@
 13	过	过	VERB	_	_	6	conj	_	SpaceAfter=No
 14	了	了	AUX	_	_	13	aux	_	SpaceAfter=No
 15	几	几	NUM	_	_	16	nummod	_	SpaceAfter=No
-16	天	天	NOUN	_	_	13	advmod:df	_	SpaceAfter=No
+16	天	天	NOUN	_	_	13	obl	_	SpaceAfter=No
 17	。	。	PUNCT	_	_	6	punct	_	SpaceAfter=No
 
 # sent_id = CFL_F_2-33_ori
@@ -3394,7 +3394,7 @@
 2	不	不	ADV	_	_	3	advmod	_	SpaceAfter=No
 3	是	是	VERB	_	_	0	root	_	SpaceAfter=No
 4	出乎	出乎	VERB	_	_	3	xcomp	_	SpaceAfter=No
-5	我	我	PRON	_	_	7	advmod	_	SpaceAfter=No
+5	我	我	PRON	_	_	7	obl	_	SpaceAfter=No
 6	的	的	PART	_	_	5	case	_	SpaceAfter=No
 7	意料	意料	VERB	_	_	4	compound:vv	_	SpaceAfter=No
 8	的	的	PART	_	_	4	discourse:sp	_	SpaceAfter=No
@@ -3508,7 +3508,7 @@
 
 # sent_id = CFL_F_2-41_ori
 # text = 习惯性地听你周围人的意见，只不过是成为别人的奴隶罢了。
-1	习惯性	习惯性	NOUN	_	_	3	advmod	_	SpaceAfter=No
+1	习惯性	习惯性	NOUN	_	_	3	obl	_	SpaceAfter=No
 2	地	地	PART	_	_	1	mark:adv	_	SpaceAfter=No
 3	听	听	VERB	_	_	0	root	_	SpaceAfter=No
 4	你	你	PRON	_	_	5	nmod	_	SpaceAfter=No
@@ -3803,7 +3803,7 @@
 5	了	了	AUX	_	_	4	aux	_	SpaceAfter=No
 6	多	多	ADV	_	_	7	advmod	_	SpaceAfter=No
 7	长	长	ADJ	_	_	8	amod	_	SpaceAfter=No
-8	时间	时间	NOUN	_	_	4	advmod:df	_	SpaceAfter=No
+8	时间	时间	NOUN	_	_	4	obl	_	SpaceAfter=No
 9	?	?	PUNCT	_	_	4	punct	_	SpaceAfter=No
 
 # sent_id = CFL_G_1-8_ori
@@ -4160,7 +4160,7 @@
 2	了	了	AUX	_	_	1	aux	_	SpaceAfter=No
 3	一	一	NUM	_	_	5	nummod	_	SpaceAfter=No
 4	个	个	NOUN	_	_	3	clf	_	SpaceAfter=No
-5	小时	小时	NOUN	_	_	1	advmod:df	_	SpaceAfter=No
+5	小时	小时	NOUN	_	_	1	obl	_	SpaceAfter=No
 6	以后	以后	ADP	_	_	1	case:loc	_	SpaceAfter=No
 7	，	，	PUNCT	_	_	1	punct	_	SpaceAfter=No
 8	恰巧	恰巧	ADV	_	_	9	advmod	_	SpaceAfter=No
@@ -4257,7 +4257,7 @@
 6	呆	呆	VERB	_	_	10	acl	_	SpaceAfter=No
 7	了	了	AUX	_	_	6	aux	_	SpaceAfter=No
 8	三	三	NUM	_	_	9	nummod	_	SpaceAfter=No
-9	天	天	NOUN	_	_	6	advmod:df	_	SpaceAfter=No
+9	天	天	NOUN	_	_	6	obl	_	SpaceAfter=No
 10	以后	以后	NOUN	_	_	11	obl:tmod	_	SpaceAfter=No
 11	回来	回来	VERB	_	_	0	root	_	SpaceAfter=No
 12	了	了	AUX	_	_	11	aux	_	SpaceAfter=No
@@ -4399,7 +4399,7 @@
 3	考虑	考虑	VERB	_	_	0	root	_	SpaceAfter=No
 4	了	了	AUX	_	_	3	aux	_	SpaceAfter=No
 5	几	几	NUM	_	_	6	nummod	_	SpaceAfter=No
-6	天	天	NOUN	_	_	3	advmod:df	_	SpaceAfter=No
+6	天	天	NOUN	_	_	3	obl	_	SpaceAfter=No
 7	，	，	PUNCT	_	_	9	punct	_	SpaceAfter=No
 8	到底	到底	ADV	_	_	9	advmod	_	SpaceAfter=No
 9	去	去	VERB	_	_	3	parataxis	_	SpaceAfter=No
@@ -4544,7 +4544,7 @@
 34	再	再	ADV	_	_	35	advmod	_	SpaceAfter=No
 35	去	去	VERB	_	_	2	parataxis	_	SpaceAfter=No
 36	一	一	NUM	_	_	37	nummod	_	SpaceAfter=No
-37	次	次	NOUN	_	_	35	advmod:df	_	SpaceAfter=No
+37	次	次	NOUN	_	_	35	obl	_	SpaceAfter=No
 38	；	；	PUNCT	_	_	2	punct	_	SpaceAfter=No
 
 # sent_id = CFL_H_2-11_ori
@@ -6429,7 +6429,7 @@
 4	在一起	在一起	VERB	_	_	11	advcl	_	SpaceAfter=No
 5	两	两	NUM	_	_	7	nummod	_	SpaceAfter=No
 6	个	个	NOUN	_	_	5	clf	_	SpaceAfter=No
-7	月	月	NOUN	_	_	4	advmod:df	_	SpaceAfter=No
+7	月	月	NOUN	_	_	4	obl	_	SpaceAfter=No
 8	后	后	ADP	_	_	4	mark	_	SpaceAfter=No
 9	，	，	PUNCT	_	_	4	punct	_	SpaceAfter=No
 10	我	我	PRON	_	_	11	nsubj	_	SpaceAfter=No
@@ -6661,7 +6661,7 @@
 49	再	再	ADV	_	_	50	advmod	_	SpaceAfter=No
 50	来	来	VERB	_	_	31	parataxis	_	SpaceAfter=No
 51	一	一	NUM	_	_	52	nummod	_	SpaceAfter=No
-52	次	次	NOUN	_	_	50	advmod:df	_	SpaceAfter=No
+52	次	次	NOUN	_	_	50	obl	_	SpaceAfter=No
 53	。	。	PUNCT	_	_	24	punct	_	SpaceAfter=No
 
 # sent_id = CFL_O_1-1_ori
@@ -8239,7 +8239,7 @@
 3	不	不	ADV	_	_	4	advmod	_	SpaceAfter=No
 4	理解	理解	VERB	_	_	0	root	_	SpaceAfter=No
 5	他们	他们	PRON	_	_	8	nsubj	_	SpaceAfter=No
-6	这样	这样	PRON	_	_	8	advmod	_	SpaceAfter=No
+6	这样	这样	PRON	_	_	8	obl	_	SpaceAfter=No
 7	多	多	ADJ	_	_	8	advmod	_	SpaceAfter=No
 8	骑	骑	VERB	_	_	4	ccomp	_	SpaceAfter=No
 9	自行车	自行车	NOUN	_	_	8	obj	_	SpaceAfter=No
@@ -8247,12 +8247,12 @@
 11	但	但	CCONJ	_	_	17	cc	_	SpaceAfter=No
 12	不	不	ADV	_	_	13	advmod	_	SpaceAfter=No
 13	过	过	VERB	_	_	17	advcl	_	SpaceAfter=No
-14	多久	多久	NOUN	_	_	13	advmod:df	_	SpaceAfter=No
+14	多久	多久	NOUN	_	_	13	obl	_	SpaceAfter=No
 15	我	我	PRON	_	_	17	nsubj	_	SpaceAfter=No
 16	才	才	ADV	_	_	17	advmod	_	SpaceAfter=No
 17	知道	知道	VERB	_	_	4	conj	_	SpaceAfter=No
 18	他们	他们	PRON	_	_	22	nsubj	_	SpaceAfter=No
-19	为什么	为什么	PRON	_	_	22	advmod	_	SpaceAfter=No
+19	为什么	为什么	PRON	_	_	22	obl	_	SpaceAfter=No
 20	这么	这么	ADV	_	_	21	advmod	_	SpaceAfter=No
 21	爱	爱	AUX	_	_	22	aux	_	SpaceAfter=No
 22	骑	骑	VERB	_	_	17	ccomp	_	SpaceAfter=No
@@ -8301,7 +8301,7 @@
 9	大概	大概	ADV	_	_	10	advmod	_	SpaceAfter=No
 10	要	要	VERB	_	_	0	root	_	SpaceAfter=No
 11	20	20	NUM	_	_	12	nummod	_	SpaceAfter=No
-12	分钟	分钟	NOUN	_	_	10	advmod:df	_	SpaceAfter=No
+12	分钟	分钟	NOUN	_	_	10	obl	_	SpaceAfter=No
 13	。	。	PUNCT	_	_	10	punct	_	SpaceAfter=No
 
 # sent_id = CFL_Z_1-8_ori
@@ -8492,7 +8492,7 @@
 # sent_id = CFL_Z_1-17_ori
 # text = 我好奇的在网上搜索一下为什么这么多公共自行车突然产生在北京到处。
 1	我	我	PRON	_	_	7	nsubj	_	SpaceAfter=No
-2	好奇	好奇	NOUN	_	_	7	advmod	_	SpaceAfter=No
+2	好奇	好奇	NOUN	_	_	7	obl	_	SpaceAfter=No
 3	的	的	PART	_	_	2	mark:rel	_	SpaceAfter=No
 4	在	在	ADP	_	_	5	case	_	SpaceAfter=No
 5	网	网	NOUN	_	_	7	obl	_	SpaceAfter=No
@@ -8594,7 +8594,7 @@
 4	过	过	VERB	_	_	3	compound:vv	_	SpaceAfter=No
 5	一	一	NUM	_	_	7	nummod	_	SpaceAfter=No
 6	段	段	NOUN	_	_	5	clf	_	SpaceAfter=No
-7	时间	时间	NOUN	_	_	4	advmod:df	_	SpaceAfter=No
+7	时间	时间	NOUN	_	_	4	obl	_	SpaceAfter=No
 8	的	的	PART	_	_	3	mark:rel	_	SpaceAfter=No
 9	人	人	NOUN	_	_	11	nsubj	_	SpaceAfter=No
 10	都	都	ADV	_	_	11	advmod	_	SpaceAfter=No
