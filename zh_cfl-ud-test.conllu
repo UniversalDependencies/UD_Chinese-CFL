@@ -5983,7 +5983,7 @@
 20	她	她	PRON	_	_	21	nsubj	_	SpaceAfter=No
 21	坐	坐	VERB	_	_	6	parataxis	_	SpaceAfter=No
 22	在	在	VERB	_	_	21	compound:vv	_	SpaceAfter=No
-23	了	了	PART	_	_	21	aux	_	SpaceAfter=No
+23	了	了	AUX	_	_	21	aux	_	SpaceAfter=No
 24	我	我	PRON	_	_	25	nmod	_	SpaceAfter=No
 25	旁边	旁边	NOUN	_	_	21	obj	_	SpaceAfter=No
 26	。	。	PUNCT	_	_	6	punct	_	SpaceAfter=No
@@ -8425,7 +8425,7 @@
 15	这	这	DET	_	_	17	det	_	SpaceAfter=No
 16	一	一	NUM	_	_	17	nummod	_	SpaceAfter=No
 17	站	站	NOUN	_	_	14	obj	_	SpaceAfter=No
-18	就	就	ADV	_	_	19	aux	_	SpaceAfter=No
+18	就	就	ADV	_	_	19	advmod	_	SpaceAfter=No
 19	要	要	VERB	_	_	9	parataxis	_	SpaceAfter=No
 20	30	30	NUM	_	_	21	nummod	_	SpaceAfter=No
 21	分钟	分钟	NOUN	_	_	23	nmod	_	SpaceAfter=No
