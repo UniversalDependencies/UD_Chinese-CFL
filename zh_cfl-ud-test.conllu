@@ -2607,7 +2607,7 @@
 # text = 我老公不好意思地说：“太冷了吧？我们怎么办？”
 1	我	我	PRON	_	_	2	nmod	_	SpaceAfter=No
 2	老公	老公	NOUN	_	_	5	nsubj	_	SpaceAfter=No
-3	不好意思	不好意思	VERB	_	_	5	advmod	_	SpaceAfter=No
+3	不好意思	不好意思	VERB	_	_	5	advcl	_	SpaceAfter=No
 4	地	地	PART	_	_	3	mark:adv	_	SpaceAfter=No
 5	说	说	VERB	_	_	0	root	_	SpaceAfter=No
 6	：	：	PUNCT	_	_	9	punct	_	SpaceAfter=No
@@ -3763,7 +3763,7 @@
 
 # sent_id = CFL_G_1-5_ori
 # text = 爬山的时候我们见到很多中国家庭。
-1	爬山	爬山	VERB	_	_	3	advmod	_	SpaceAfter=No
+1	爬山	爬山	VERB	_	_	3	advcl	_	SpaceAfter=No
 2	的	的	PART	_	_	1	mark:rel	_	SpaceAfter=No
 3	时候	时候	NOUN	_	_	5	obl:tmod	_	SpaceAfter=No
 4	我们	我们	PRON	_	_	5	nsubj	_	SpaceAfter=No
@@ -5506,7 +5506,7 @@
 70	很	很	ADV	_	_	71	advmod	_	SpaceAfter=No
 71	开心	开心	ADJ	_	_	68	xcomp	_	SpaceAfter=No
 72	，	，	PUNCT	_	_	78	punct	_	SpaceAfter=No
-73	喝	喝	VERB	_	_	78	advmod	_	SpaceAfter=No
+73	喝	喝	VERB	_	_	78	advcl	_	SpaceAfter=No
 74	着	着	AUX	_	_	73	aux	_	SpaceAfter=No
 75	喝	喝	VERB	_	_	73	conj	_	SpaceAfter=No
 76	着	着	AUX	_	_	75	aux	_	SpaceAfter=No

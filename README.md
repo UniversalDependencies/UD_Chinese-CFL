@@ -91,6 +91,7 @@ John Lee, Herman Leung, Keying Li. 2017. Towards Universal Dependencies for Lear
   * Fixed: Only some UPOS categories are compatible with mark.
   * Fixed: Only some UPOS categories are compatible with det.
   * Fixed: Nominal cannot be advmod.
+  * Fixed: Verb cannot be advmod.
 * 2017-11-15 v2.1
   * Initial UD release.
 
