@@ -2908,8 +2908,8 @@
 1	依	依	VERB	_	_	8	advcl	_	SpaceAfter=No
 2	我	我	PRON	_	_	1	obj	_	SpaceAfter=No
 3	看	看	VERB	_	_	1	xcomp	_	SpaceAfter=No
-4	这	这	PRON	_	_	5	nsubj	_	SpaceAfter=No
-5	就是	就是	VERB	_	_	8	cop	_	SpaceAfter=No
+4	这	这	PRON	_	_	8	nsubj	_	SpaceAfter=No
+5	就是	是	AUX	_	_	8	cop	_	SpaceAfter=No
 6	一	一	NUM	_	_	8	nummod	_	SpaceAfter=No
 7	种	种	NOUN	_	_	6	clf	_	SpaceAfter=No
 8	浪费	浪费	VERB	_	_	0	root	_	SpaceAfter=No
