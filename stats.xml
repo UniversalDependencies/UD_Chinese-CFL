@@ -10,7 +10,7 @@
     <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
     <test><sentences>451</sentences><tokens>7256</tokens><words>7256</words><fused>0</fused></test>
   </size>
-  <lemmas unique="1500" /><!-- ，, 的, 。, 我, 了, 是, 我们, 一, 到, 去, 个, 在, 不, 很, 他 -->
+  <lemmas unique="1497" /><!-- 我, ，, 的, 。, 了, 是, 他, 一, 到, 去, 个, 在, 不, 很, 她 -->
   <forms unique="1505" /><!-- ，, 的, 。, 我, 了, 是, 我们, 一, 到, 去, 个, 在, 不, 很, 他 -->
   <fusions unique="0" /><!--  -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
@@ -25,7 +25,7 @@
     <tag name="NOUN">1352</tag><!-- 个, 人, 时候, 天, 次, 朋友, 自行车, 旅行, 事, 时间 -->
     <tag name="NUM">143</tag><!-- 一, 两, 三, 第一, 几, 10, 20, 之一, 仨, 半 -->
     <tag name="PART">536</tag><!-- 的, 了, 地, 得, 吧, 吗, 呢, 啊, 和, 嗬 -->
-    <tag name="PRON">759</tag><!-- 我, 我们, 他, 她, 他们, 这, 你, 那里, 自己, 什么 -->
+    <tag name="PRON">759</tag><!-- 我, 他, 她, 这, 你, 那里, 自己, 什么, 那, 谁 -->
     <tag name="PROPN">144</tag><!-- 中国, 西安, 麦加, 北京, 商洛, 韩国, 天池, 日本, 香港, 加拿大 -->
     <tag name="PUNCT">919</tag><!-- ，, 。, ！, ？, “, ”, ：, ?, 、, （ -->
     <tag name="SCONJ">68</tag><!-- 虽然, 因为, 来, 因, 如果, 虽, 一, 之所以, 但是, 不但 -->
