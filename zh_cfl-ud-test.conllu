@@ -1024,7 +1024,7 @@
 3	，	，	PUNCT	_	_	1	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 4	那时	那时	NOUN	_	_	6	obl:tmod	_	SpaceAfter=No|Translit=nàshí|LTranslit=nàshí
 5	我	我	PRON	_	_	6	nsubj	_	SpaceAfter=No|Translit=wǒ|LTranslit=wǒ
-6	自以为是	自以为是	VERB	_	_	0	root	_	SpaceAfter=No|Translit=zìyǐwèishì|LTranslit=zìyǐwèishì
+6	自以为是	是	VERB	_	_	0	root	_	SpaceAfter=No|Translit=zìyǐwèishì|LTranslit=shì
 7	。	。	PUNCT	_	_	6	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = CFL_C_1-8_ori
@@ -4424,7 +4424,7 @@
 # sent_id = CFL_H_1-16_ori
 # text = 真是无可奈何了。
 # translit = zhēnshìwúkěnàihéle.
-1	真是	真是	VERB	_	_	0	root	_	SpaceAfter=No|Translit=zhēnshì|LTranslit=zhēnshì
+1	真是	是	VERB	_	_	0	root	_	SpaceAfter=No|Translit=zhēnshì|LTranslit=shì
 2	无可奈何	无可奈何	ADJ	_	_	1	xcomp	_	SpaceAfter=No|Translit=wúkěnàihé|LTranslit=wúkěnàihé
 3	了	了	PART	_	_	1	discourse:sp	_	SpaceAfter=No|Translit=le|LTranslit=le
 4	。	。	PUNCT	_	_	1	punct	_	SpaceAfter=No|Translit=.|LTranslit=.

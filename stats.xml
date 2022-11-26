@@ -10,7 +10,7 @@
     <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
     <test><sentences>451</sentences><tokens>7256</tokens><words>7256</words><fused>0</fused></test>
   </size>
-  <lemmas unique="1497" /><!-- 我, ，, 的, 。, 了, 是, 他, 一, 到, 去, 个, 在, 不, 很, 她 -->
+  <lemmas unique="1495" /><!-- 我, ，, 的, 。, 了, 是, 他, 一, 到, 去, 个, 在, 不, 很, 她 -->
   <forms unique="1505" /><!-- ，, 的, 。, 我, 了, 是, 我们, 一, 到, 去, 个, 在, 不, 很, 他 -->
   <fusions unique="0" /><!--  -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
@@ -29,7 +29,7 @@
     <tag name="PROPN">144</tag><!-- 中国, 西安, 麦加, 北京, 商洛, 韩国, 天池, 日本, 香港, 加拿大 -->
     <tag name="PUNCT">919</tag><!-- ，, 。, ！, ？, “, ”, ：, ?, 、, （ -->
     <tag name="SCONJ">68</tag><!-- 虽然, 因为, 来, 因, 如果, 虽, 一, 之所以, 但是, 不但 -->
-    <tag name="VERB">1314</tag><!-- 到, 去, 有, 是, 看, 说, 让, 来, 见, 吃 -->
+    <tag name="VERB">1314</tag><!-- 到, 去, 是, 有, 看, 说, 让, 来, 见, 吃 -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
   <feats unique="0">
