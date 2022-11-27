@@ -5489,9 +5489,9 @@
 # sent_id = CFL_J_1-3_ori
 # text = 我懒得去搬井盖，心想：反正我掉不下去，井盖爱谁搬谁般。
 # translit = wǒlǎndeqùbānjǐnggài,xīnxiǎng:fǎnzhèngwǒdiàobùxiàqù,jǐnggài'àishuíbānshuíbān.
-1	我	我	PRON	_	_	3	nsubj	_	SpaceAfter=No|Translit=wǒ|LTranslit=wǒ
-2	懒得	懒得	AUX	_	_	3	aux	_	SpaceAfter=No|Translit=lǎnde|LTranslit=lǎnde
-3	去	去	VERB	_	_	0	root	_	SpaceAfter=No|Translit=qù|LTranslit=qù
+1	我	我	PRON	_	_	2	nsubj	_	SpaceAfter=No|Translit=wǒ|LTranslit=wǒ
+2	懒得	懒得	VERB	_	_	0	root	_	SpaceAfter=No|Translit=lǎnde|LTranslit=lǎnde
+3	去	去	VERB	_	_	2	xcomp	_	SpaceAfter=No|Translit=qù|LTranslit=qù
 4	搬	搬	VERB	_	_	3	conj	_	SpaceAfter=No|Translit=bān|LTranslit=bān
 5	井盖	井盖	NOUN	_	_	4	obj	_	SpaceAfter=No|Translit=jǐnggài|LTranslit=jǐnggài
 6	，	，	PUNCT	_	_	8	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
@@ -5510,7 +5510,7 @@
 19	搬	搬	VERB	_	_	17	xcomp	_	SpaceAfter=No|Translit=bān|LTranslit=bān
 20	谁	谁	PRON	_	_	21	nsubj	_	SpaceAfter=No|Translit=shuí|LTranslit=shuí
 21	般	般	VERB	_	_	12	parataxis	_	SpaceAfter=No|Translit=bān|LTranslit=bān
-22	。	。	PUNCT	_	_	3	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
+22	。	。	PUNCT	_	_	2	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = CFL_J_1-4_ori
 # text = 这时，一个小朋友走来，他一只肩膀断了，看上去很可怜。
