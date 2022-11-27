@@ -18,7 +18,7 @@
     <tag name="ADJ">353</tag><!-- 好, 难忘, 快, 一样, 多, 第一, 冷, 新, 大, 容易 -->
     <tag name="ADP">330</tag><!-- 在, 上, 对, 给, 从, 后, 跟, 里, 以后, 和 -->
     <tag name="ADV">756</tag><!-- 不, 很, 就, 所以, 都, 也, 一起, 最, 已经, 真的 -->
-    <tag name="AUX">352</tag><!-- 了, 是, 着, 要, 会, 能, 想, 过, 可以, 没 -->
+    <tag name="AUX">351</tag><!-- 了, 是, 着, 要, 会, 能, 想, 过, 可以, 没 -->
     <tag name="CCONJ">94</tag><!-- 和, 但是, 而, 但, 跟, 还有, 并且, 并, 而且, 也 -->
     <tag name="DET">127</tag><!-- 这, 那, 很多, 每, 什么, 一些, 几, 哪, 有的, 这些 -->
     <tag name="INTJ">3</tag><!-- 吧, 天哪, 罢了 -->
@@ -29,7 +29,7 @@
     <tag name="PROPN">144</tag><!-- 中国, 西安, 麦加, 北京, 商洛, 韩国, 天池, 日本, 香港, 加拿大 -->
     <tag name="PUNCT">919</tag><!-- ，, 。, ！, ？, “, ”, ：, ?, 、, （ -->
     <tag name="SCONJ">68</tag><!-- 虽然, 因为, 来, 因, 如果, 虽, 一, 之所以, 但是, 不但 -->
-    <tag name="VERB">1320</tag><!-- 到, 去, 是, 有, 看, 说, 让, 来, 见, 吃 -->
+    <tag name="VERB">1321</tag><!-- 到, 去, 是, 有, 看, 说, 让, 来, 见, 吃 -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
   <feats unique="0">
@@ -42,7 +42,7 @@
     <dep name="advmod:df">1</dep>
     <dep name="amod">148</dep>
     <dep name="appos">19</dep>
-    <dep name="aux">276</dep>
+    <dep name="aux">275</dep>
     <dep name="case">376</dep>
     <dep name="case:loc">90</dep>
     <dep name="cc">93</dep>
@@ -80,6 +80,6 @@
     <dep name="reparandum">1</dep>
     <dep name="root">451</dep>
     <dep name="vocative">1</dep>
-    <dep name="xcomp">134</dep>
+    <dep name="xcomp">135</dep>
   </deps>
 </treebank>

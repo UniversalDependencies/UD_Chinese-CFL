@@ -4163,13 +4163,13 @@
 # sent_id = CFL_G_1-14_ori
 # text = 最后虽然经历似乎很可怕，但是这次的经历就成很难忘的回忆。
 # translit = zuìhòusuīránjīnglìshìhuhěnkěpà,dànshìzhècìdejīnglìjiùchénghěnnánwàngdehuíyì.
-1	最后	最后	ADV	_	_	6	advmod	_	SpaceAfter=No|Translit=zuìhòu|LTranslit=zuìhòu
-2	虽然	虽然	SCONJ	_	_	6	mark	_	SpaceAfter=No|Translit=suīrán|LTranslit=suīrán
-3	经历	经历	NOUN	_	_	6	nsubj	_	SpaceAfter=No|Translit=jīnglì|LTranslit=jīnglì
-4	似乎	似乎	AUX	_	_	6	aux	_	SpaceAfter=No|Translit=shìhu|LTranslit=shìhu
-5	很	很	ADV	_	_	6	advmod	_	SpaceAfter=No|Translit=hěn|LTranslit=hěn
-6	可怕	可怕	ADJ	_	_	14	advcl	_	SpaceAfter=No|Translit=kěpà|LTranslit=kěpà
-7	，	，	PUNCT	_	_	6	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
+1	最后	最后	ADV	_	_	4	advmod	_	SpaceAfter=No|Translit=zuìhòu|LTranslit=zuìhòu
+2	虽然	虽然	SCONJ	_	_	4	mark	_	SpaceAfter=No|Translit=suīrán|LTranslit=suīrán
+3	经历	经历	NOUN	_	_	4	nsubj	_	SpaceAfter=No|Translit=jīnglì|LTranslit=jīnglì
+4	似乎	似乎	VERB	_	_	14	advcl	_	SpaceAfter=No|Translit=shìhu|LTranslit=shìhu
+5	很	很	ADV	_	_	4	advmod	_	SpaceAfter=No|Translit=hěn|LTranslit=hěn
+6	可怕	可怕	ADJ	_	_	4	xcomp	_	SpaceAfter=No|Translit=kěpà|LTranslit=kěpà
+7	，	，	PUNCT	_	_	4	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 8	但是	但是	SCONJ	_	_	14	mark	_	SpaceAfter=No|Translit=dànshì|LTranslit=dànshì
 9	这	这	DET	_	_	12	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
 10	次	次	NOUN	_	_	9	clf	_	SpaceAfter=No|Translit=cì|LTranslit=cì
