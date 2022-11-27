@@ -95,6 +95,7 @@ John Lee, Herman Leung, Keying Li. 2017. Towards Universal Dependencies for Lear
   * Added pinyin transcription.
   * Scaled down the set of copulas and other auxiliaries.
   * Fixed: function words must be leaves.
+  * Fixed: at most one subject per clause.
 * 2017-11-15 v2.1
   * Initial UD release.
 

@@ -1163,18 +1163,18 @@
 1	我	我	PRON	_	_	2	nsubj	_	SpaceAfter=No|Translit=wǒ|LTranslit=wǒ
 2	验证	验证	VERB	_	_	4	acl	_	SpaceAfter=No|Translit=yànzhèng|LTranslit=yànzhèng
 3	的	的	PART	_	_	2	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
-4	事	事	NOUN	_	_	5	nsubj	_	SpaceAfter=No|Translit=shì|LTranslit=shì
-5	是	是	VERB	_	_	0	root	_	SpaceAfter=No|Translit=shì|LTranslit=shì
+4	事	事	NOUN	_	_	13	nsubj:outer	_	SpaceAfter=No|Translit=shì|LTranslit=shì
+5	是	是	AUX	_	_	13	cop	_	SpaceAfter=No|Translit=shì|LTranslit=shì
 6	政策	政策	NOUN	_	_	7	compound	_	SpaceAfter=No|Translit=zhèngcè|LTranslit=zhèngcè
 7	方面	方面	NOUN	_	_	9	nmod	_	SpaceAfter=No|Translit=fāngmiàn|LTranslit=fāngmiàn
 8	的	的	PART	_	_	7	case	_	SpaceAfter=No|Translit=de|LTranslit=de
-9	成就	成就	NOUN	_	_	13	nsubj	_	SpaceAfter=No|Translit=chéngjiù|LTranslit=chéngjiù
+9	成就	成就	NOUN	_	_	13	nsubj:outer	_	SpaceAfter=No|Translit=chéngjiù|LTranslit=chéngjiù
 10	是否	是否	ADV	_	_	13	advmod	_	SpaceAfter=No|Translit=shìfǒu|LTranslit=shìfǒu
 11	我	我	PRON	_	_	13	nsubj	_	SpaceAfter=No|Translit=wǒ|LTranslit=wǒ
 12	要	要	AUX	_	_	13	aux	_	SpaceAfter=No|Translit=yào|LTranslit=yào
-13	追求	追求	VERB	_	_	5	ccomp	_	SpaceAfter=No|Translit=zhuīqiú|LTranslit=zhuīqiú
+13	追求	追求	VERB	_	_	0	root	_	SpaceAfter=No|Translit=zhuīqiú|LTranslit=zhuīqiú
 14	的	的	PART	_	_	13	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
-15	。	。	PUNCT	_	_	5	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
+15	。	。	PUNCT	_	_	13	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = CFL_C_1-19_ori
 # text = 原来不是。
@@ -4316,10 +4316,10 @@
 13	的	的	PART	_	_	12	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 14	生活	生活	NOUN	_	_	21	nsubj	_	SpaceAfter=No|Translit=shēnghuó|LTranslit=shēnghuó
 15	相比	相比	VERB	_	_	21	advcl	_	SpaceAfter=No|Translit=xiāngbǐ|LTranslit=xiāngbǐ
-16	之下	之下	ADP	_	_	15	case:loc	_	SpaceAfter=No|Translit=zhīxià|LTranslit=zhīxià
+16	之下	之下	ADP	_	_	19	case:loc	_	SpaceAfter=No|Translit=zhīxià|LTranslit=zhīxià
 17	城市	城市	NOUN	_	_	19	nmod	_	SpaceAfter=No|Translit=chéngshì|LTranslit=chéngshì
 18	的	的	PART	_	_	17	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
-19	人	人	NOUN	_	_	21	nsubj	_	SpaceAfter=No|Translit=rén|LTranslit=rén
+19	人	人	NOUN	_	_	15	obl	_	SpaceAfter=No|Translit=rén|LTranslit=rén
 20	太	太	ADV	_	_	21	advmod	_	SpaceAfter=No|Translit=tài|LTranslit=tài
 21	贫穷	贫穷	ADJ	_	_	8	parataxis	_	SpaceAfter=No|Translit=pínqióng|LTranslit=pínqióng
 22	。	。	PUNCT	_	_	8	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
@@ -4956,7 +4956,7 @@
 # sent_id = CFL_H_2-15_ori
 # text = 城市虽小，但力量很大。
 # translit = chéngshìsuīxiǎo,dànlìliànghěndà.
-1	城市	城市	NOUN	_	_	8	nsubj	_	SpaceAfter=No|Translit=chéngshì|LTranslit=chéngshì
+1	城市	城市	NOUN	_	_	3	nsubj	_	SpaceAfter=No|Translit=chéngshì|LTranslit=chéngshì
 2	虽	虽	SCONJ	_	_	3	mark	_	SpaceAfter=No|Translit=suī|LTranslit=suī
 3	小	小	ADJ	_	_	8	advcl	_	SpaceAfter=No|Translit=xiǎo|LTranslit=xiǎo
 4	，	，	PUNCT	_	_	3	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
