@@ -348,9 +348,9 @@
 9	跟	跟	ADP	_	_	12	case	_	SpaceAfter=No|Translit=gēn|LTranslit=gēn
 10	一	一	NUM	_	_	12	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
 11	个	个	NOUN	_	_	10	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
-12	女生	女生	NOUN	_	_	13	obl	_	SpaceAfter=No|Translit=nǚshēng|LTranslit=nǚshēng
-13	亲密	亲密	VERB	_	_	5	parataxis	_	SpaceAfter=No|Translit=qīnmì|LTranslit=qīnmì
-14	起来	起来	AUX	_	_	13	aux	_	SpaceAfter=No|Translit=qǐlái|LTranslit=qǐlái
+12	女生	女生	NOUN	_	_	14	obl	_	SpaceAfter=No|Translit=nǚshēng|LTranslit=nǚshēng
+13	亲密	亲密	VERB	_	_	14	xcomp	_	SpaceAfter=No|Translit=qīnmì|LTranslit=qīnmì
+14	起来	起来	VERB	_	_	5	parataxis	_	SpaceAfter=No|Translit=qǐlái|LTranslit=qǐlái
 15	。	。	PUNCT	_	_	5	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = CFL_A_2-5_ori
