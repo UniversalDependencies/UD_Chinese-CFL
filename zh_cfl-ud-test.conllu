@@ -54,7 +54,7 @@
 4	我	我	PRON	_	_	6	nmod	_	SpaceAfter=No|Translit=wǒ|LTranslit=wǒ
 5	的	的	PART	_	_	4	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 6	朋友	朋友	NOUN	_	_	2	conj	_	SpaceAfter=No|Translit=péngyou|LTranslit=péngyou
-7	不	不	ADV	_	_	8	advmod	_	SpaceAfter=No|Translit=bù|LTranslit=bù
+7	不	不	ADV	_	_	9	advmod	_	SpaceAfter=No|Translit=bù|LTranslit=bù
 8	想	想	AUX	_	_	9	aux	_	SpaceAfter=No|Translit=xiǎng|LTranslit=xiǎng
 9	去	去	VERB	_	_	13	advcl	_	SpaceAfter=No|Translit=qù|LTranslit=qù
 10	，	，	PUNCT	_	_	9	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
@@ -318,7 +318,7 @@
 1	那	那	DET	_	_	2	det	_	SpaceAfter=No|Translit=nà|LTranslit=nà
 2	时候	时候	NOUN	_	_	6	obl	_	SpaceAfter=No|Translit=shíhou|LTranslit=shíhou
 3	我	我	PRON	_	_	6	nsubj	_	SpaceAfter=No|Translit=wǒ|LTranslit=wǒ
-4	不	不	ADV	_	_	5	advmod	_	SpaceAfter=No|Translit=bù|LTranslit=bù
+4	不	不	ADV	_	_	6	advmod	_	SpaceAfter=No|Translit=bù|LTranslit=bù
 5	会	会	AUX	_	_	6	aux	_	SpaceAfter=No|Translit=huì|LTranslit=huì
 6	说	说	VERB	_	_	0	root	_	SpaceAfter=No|Translit=shuō|LTranslit=shuō
 7	汉语	汉语	NOUN	_	_	6	obj	_	SpaceAfter=No|Translit=hànyǔ|LTranslit=hànyǔ
@@ -414,8 +414,8 @@
 # sent_id = CFL_A_2-9_ori
 # text = 本来我是一个很羞怯的人但通过跟语言不通的人交流，我的性格变成积极的性格。
 # translit = běnláiwǒshìyīgèhěn羞qièderéndàntōngguògēnyǔyánbùtōngderénjiāoliú,wǒdexìnggébiànchéngjījídexìnggé.
-1	本来	本来	ADV	_	_	3	advmod	_	SpaceAfter=No|Translit=běnlái|LTranslit=běnlái
-2	我	我	PRON	_	_	3	nsubj	_	SpaceAfter=No|Translit=wǒ|LTranslit=wǒ
+1	本来	本来	ADV	_	_	9	advmod	_	SpaceAfter=No|Translit=běnlái|LTranslit=běnlái
+2	我	我	PRON	_	_	9	nsubj	_	SpaceAfter=No|Translit=wǒ|LTranslit=wǒ
 3	是	是	AUX	_	_	9	cop	_	SpaceAfter=No|Translit=shì|LTranslit=shì
 4	一	一	NUM	_	_	9	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
 5	个	个	NOUN	_	_	4	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
@@ -1301,7 +1301,7 @@
 # translit = qíshíwǒbùxiǎngqùnàr.
 1	其实	其实	ADV	_	_	5	advmod	_	SpaceAfter=No|Translit=qíshí|LTranslit=qíshí
 2	我	我	PRON	_	_	5	nsubj	_	SpaceAfter=No|Translit=wǒ|LTranslit=wǒ
-3	不	不	ADV	_	_	4	advmod	_	SpaceAfter=No|Translit=bù|LTranslit=bù
+3	不	不	ADV	_	_	5	advmod	_	SpaceAfter=No|Translit=bù|LTranslit=bù
 4	想	想	AUX	_	_	5	aux	_	SpaceAfter=No|Translit=xiǎng|LTranslit=xiǎng
 5	去	去	VERB	_	_	0	root	_	SpaceAfter=No|Translit=qù|LTranslit=qù
 6	那儿	那儿	PRON	_	_	5	obj	_	SpaceAfter=No|Translit=nàr|LTranslit=nàr
@@ -1478,7 +1478,7 @@
 1	果然	果然	ADV	_	_	6	advmod	_	SpaceAfter=No|Translit=guǒrán|LTranslit=guǒrán
 2	，	，	PUNCT	_	_	1	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 3	我	我	PRON	_	_	6	nsubj	_	SpaceAfter=No|Translit=wǒ|LTranslit=wǒ
-4	不	不	ADV	_	_	5	advmod	_	SpaceAfter=No|Translit=bù|LTranslit=bù
+4	不	不	ADV	_	_	6	advmod	_	SpaceAfter=No|Translit=bù|LTranslit=bù
 5	能	能	AUX	_	_	6	aux	_	SpaceAfter=No|Translit=néng|LTranslit=néng
 6	找	找	VERB	_	_	0	root	_	SpaceAfter=No|Translit=zhǎo|LTranslit=zhǎo
 7	到	到	VERB	_	_	6	compound:vv	_	SpaceAfter=No|Translit=dào|LTranslit=dào
@@ -1794,7 +1794,7 @@
 5	一	一	NUM	_	_	6	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
 6	个	个	NOUN	_	_	4	obj	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 7	，	，	PUNCT	_	_	12	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-8	就	就	ADV	_	_	9	advmod	_	SpaceAfter=No|Translit=jiù|LTranslit=jiù
+8	就	就	ADV	_	_	12	advmod	_	SpaceAfter=No|Translit=jiù|LTranslit=jiù
 9	是	是	AUX	_	_	12	cop	_	SpaceAfter=No|Translit=shì|LTranslit=shì
 10	一	一	NUM	_	_	12	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
 11	笔	笔	NOUN	_	_	10	clf	_	SpaceAfter=No|Translit=bǐ|LTranslit=bǐ
@@ -1933,7 +1933,7 @@
 1	虽然	虽然	SCONJ	_	_	2	mark	_	SpaceAfter=No|Translit=suīrán|LTranslit=suīrán
 2	那样	那样	PRON	_	_	6	advcl	_	SpaceAfter=No|Translit=nàyàng|LTranslit=nàyàng
 3	，	，	PUNCT	_	_	2	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-4	不	不	ADV	_	_	5	advmod	_	SpaceAfter=No|Translit=bù|LTranslit=bù
+4	不	不	ADV	_	_	6	advmod	_	SpaceAfter=No|Translit=bù|LTranslit=bù
 5	能	能	AUX	_	_	6	aux	_	SpaceAfter=No|Translit=néng|LTranslit=néng
 6	吃	吃	VERB	_	_	0	root	_	SpaceAfter=No|Translit=chī|LTranslit=chī
 7	风景	风景	NOUN	_	_	6	obj	_	SpaceAfter=No|Translit=fēngjǐng|LTranslit=fēngjǐng
@@ -2008,7 +2008,7 @@
 11	的	的	PART	_	_	10	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 12	缘故	缘故	NOUN	_	_	16	advcl	_	SpaceAfter=No|Translit=yuángù|LTranslit=yuángù
 13	，	，	PUNCT	_	_	12	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-14	不	不	ADV	_	_	15	advmod	_	SpaceAfter=No|Translit=bù|LTranslit=bù
+14	不	不	ADV	_	_	16	advmod	_	SpaceAfter=No|Translit=bù|LTranslit=bù
 15	能	能	AUX	_	_	16	aux	_	SpaceAfter=No|Translit=néng|LTranslit=néng
 16	喝	喝	VERB	_	_	5	parataxis	_	SpaceAfter=No|Translit=hē|LTranslit=hē
 17	烧酒	烧酒	NOUN	_	_	16	obj	_	SpaceAfter=No|Translit=shāojiǔ|LTranslit=shāojiǔ
@@ -2149,7 +2149,7 @@
 5	有	有	VERB	_	_	0	root	_	SpaceAfter=No|Translit=yǒu|LTranslit=yǒu
 6	朋友们	朋友们	NOUN	_	_	5	obj	_	SpaceAfter=No|Translit=péngyoumen|LTranslit=péngyoumen
 7	我	我	PRON	_	_	10	nsubj	_	SpaceAfter=No|Translit=wǒ|LTranslit=wǒ
-8	不	不	ADV	_	_	9	advmod	_	SpaceAfter=No|Translit=bù|LTranslit=bù
+8	不	不	ADV	_	_	10	advmod	_	SpaceAfter=No|Translit=bù|LTranslit=bù
 9	敢	敢	AUX	_	_	10	aux	_	SpaceAfter=No|Translit=gǎn|LTranslit=gǎn
 10	想	想	VERB	_	_	5	parataxis	_	SpaceAfter=No|Translit=xiǎng|LTranslit=xiǎng
 11	去	去	VERB	_	_	10	xcomp	_	SpaceAfter=No|Translit=qù|LTranslit=qù
@@ -2230,7 +2230,7 @@
 # sent_id = CFL_E_1-3_ori
 # text = 对韩人来说很喜欢吃五花肉和烧酒，还有吃肉后应该点凉面。
 # translit = duìhánrénláishuōhěnxǐhuanchīwǔhuāròuhéshāojiǔ,háiyǒuchīròuhòuyīnggāidiǎnliángmiàn.
-1	对	对	ADP	_	_	3	case	_	SpaceAfter=No|Translit=duì|LTranslit=duì
+1	对	对	ADP	_	_	4	case	_	SpaceAfter=No|Translit=duì|LTranslit=duì
 2	韩人	韩人	NOUN	_	_	4	obl	_	SpaceAfter=No|Translit=hánrén|LTranslit=hánrén
 3	来	来	SCONJ	_	_	4	mark	_	SpaceAfter=No|Translit=lái|LTranslit=lái
 4	说	说	VERB	_	_	6	advcl	_	SpaceAfter=No|Translit=shuō|LTranslit=shuō
@@ -2336,7 +2336,7 @@
 15	起来	起来	VERB	_	_	14	compound:dir	_	SpaceAfter=No|Translit=qǐlái|LTranslit=qǐlái
 16	，	，	PUNCT	_	_	20	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 17	就	就	ADV	_	_	20	advmod	_	SpaceAfter=No|Translit=jiù|LTranslit=jiù
-18	不	不	ADV	_	_	19	advmod	_	SpaceAfter=No|Translit=bù|LTranslit=bù
+18	不	不	ADV	_	_	20	advmod	_	SpaceAfter=No|Translit=bù|LTranslit=bù
 19	能	能	AUX	_	_	20	aux	_	SpaceAfter=No|Translit=néng|LTranslit=néng
 20	动	动	VERB	_	_	14	conj	_	SpaceAfter=No|Translit=dòng|LTranslit=dòng
 21	，	，	PUNCT	_	_	34	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
@@ -3646,8 +3646,8 @@
 9	旅行	旅行	NOUN	_	_	10	compound	_	SpaceAfter=No|Translit=lǚxíng|LTranslit=lǚxíng
 10	方式	方式	NOUN	_	_	3	obj	_	SpaceAfter=No|Translit=fāngshì|LTranslit=fāngshì
 11	，	，	PUNCT	_	_	3	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-12	并	并	ADV	_	_	14	advmod	_	SpaceAfter=No|Translit=bìng|LTranslit=bìng
-13	不	不	ADV	_	_	14	advmod	_	SpaceAfter=No|Translit=bù|LTranslit=bù
+12	并	并	ADV	_	_	15	advmod	_	SpaceAfter=No|Translit=bìng|LTranslit=bìng
+13	不	不	ADV	_	_	15	advmod	_	SpaceAfter=No|Translit=bù|LTranslit=bù
 14	可能	可能	AUX	_	_	15	aux	_	SpaceAfter=No|Translit=kěnéng|LTranslit=kěnéng
 15	见	见	VERB	_	_	0	root	_	SpaceAfter=No|Translit=jiàn|LTranslit=jiàn
 16	了	了	AUX	_	_	15	aux	_	SpaceAfter=No|Translit=le|LTranslit=le
@@ -3656,7 +3656,7 @@
 19	到	到	VERB	_	_	21	advcl	_	SpaceAfter=No|Translit=dào|LTranslit=dào
 20	今	今	NOUN	_	_	19	obj	_	SpaceAfter=No|Translit=jīn|LTranslit=jīn
 21	恐怕	恐怕	VERB	_	_	15	parataxis	_	SpaceAfter=No|Translit=kǒngpà|LTranslit=kǒngpà
-22	不	不	ADV	_	_	23	advmod	_	SpaceAfter=No|Translit=bù|LTranslit=bù
+22	不	不	ADV	_	_	26	advmod	_	SpaceAfter=No|Translit=bù|LTranslit=bù
 23	敢	敢	AUX	_	_	26	aux	_	SpaceAfter=No|Translit=gǎn|LTranslit=gǎn
 24	跟	跟	ADP	_	_	25	case	_	SpaceAfter=No|Translit=gēn|LTranslit=gēn
 25	陌生人	陌生人	NOUN	_	_	26	obl	_	SpaceAfter=No|Translit=mòshēngrén|LTranslit=mòshēngrén
@@ -3960,7 +3960,7 @@
 20	上	上	ADP	_	_	19	case:loc	_	SpaceAfter=No|Translit=shàng|LTranslit=shàng
 21	的	的	PART	_	_	19	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 22	叶子	叶子	NOUN	_	_	25	nsubj	_	SpaceAfter=No|Translit=yèzi|LTranslit=yèzi
-23	都	都	ADV	_	_	24	advmod	_	SpaceAfter=No|Translit=dōu|LTranslit=dōu
+23	都	都	ADV	_	_	25	advmod	_	SpaceAfter=No|Translit=dōu|LTranslit=dōu
 24	是	是	AUX	_	_	25	cop	_	SpaceAfter=No|Translit=shì|LTranslit=shì
 25	绿色	绿色	NOUN	_	_	17	conj	_	SpaceAfter=No|Translit=lǜsè|LTranslit=lǜsè
 26	的	的	PART	_	_	25	discourse:sp	_	SpaceAfter=No|Translit=de|LTranslit=de
@@ -4060,7 +4060,7 @@
 # translit = nǐmenzàinǎlǐxuéxíhànyǔ?
 1	你们	你们	PRON	_	_	4	nsubj	_	SpaceAfter=No|Translit=nǐmen|LTranslit=nǐmen
 2	在	在	ADP	_	_	4	case	_	SpaceAfter=No|Translit=zài|LTranslit=zài
-3	哪里	哪里	PRON	_	_	2	obj	_	SpaceAfter=No|Translit=nǎlǐ|LTranslit=nǎlǐ
+3	哪里	哪里	PRON	_	_	4	obj	_	SpaceAfter=No|Translit=nǎlǐ|LTranslit=nǎlǐ
 4	学习	学习	VERB	_	_	0	root	_	SpaceAfter=No|Translit=xuéxí|LTranslit=xuéxí
 5	汉语	汉语	NOUN	_	_	4	obj	_	SpaceAfter=No|Translit=hànyǔ|LTranslit=hànyǔ
 6	?	?	PUNCT	_	_	4	punct	_	SpaceAfter=No|Translit=?|LTranslit=?
@@ -4269,7 +4269,7 @@
 # translit = dànshìwǒmenbùnéngkànlelàngmàndehǎibiān.
 1	但是	但是	CCONJ	_	_	5	mark	_	SpaceAfter=No|Translit=dànshì|LTranslit=dànshì
 2	我们	我	PRON	_	_	5	nsubj	_	SpaceAfter=No|Translit=wǒmen|LTranslit=wǒ
-3	不	不	ADV	_	_	4	advmod	_	SpaceAfter=No|Translit=bù|LTranslit=bù
+3	不	不	ADV	_	_	5	advmod	_	SpaceAfter=No|Translit=bù|LTranslit=bù
 4	能	能	AUX	_	_	5	aux	_	SpaceAfter=No|Translit=néng|LTranslit=néng
 5	看	看	VERB	_	_	0	root	_	SpaceAfter=No|Translit=kàn|LTranslit=kàn
 6	了	了	AUX	_	_	5	aux	_	SpaceAfter=No|Translit=le|LTranslit=le
@@ -4349,7 +4349,7 @@
 6	韩国	韩国	PROPN	_	_	4	obj	_	SpaceAfter=No|Translit=hánguó|LTranslit=hánguó
 7	，	，	PUNCT	_	_	11	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 8	也	也	ADV	_	_	11	advmod	_	SpaceAfter=No|Translit=yě|LTranslit=yě
-9	不	不	ADV	_	_	10	advmod	_	SpaceAfter=No|Translit=bù|LTranslit=bù
+9	不	不	ADV	_	_	11	advmod	_	SpaceAfter=No|Translit=bù|LTranslit=bù
 10	想	想	AUX	_	_	11	aux	_	SpaceAfter=No|Translit=xiǎng|LTranslit=xiǎng
 11	体验	体验	VERB	_	_	5	conj	_	SpaceAfter=No|Translit=tǐyàn|LTranslit=tǐyàn
 12	这里	这里	DET	_	_	14	det	_	SpaceAfter=No|Translit=zhèlǐ|LTranslit=zhèlǐ
@@ -4362,7 +4362,7 @@
 # translit = dànshìwǒyīdìngdejìnqùcónglín,wǒyàojiàntāmenle.
 1	但是	但是	CCONJ	_	_	5	cc	_	SpaceAfter=No|Translit=dànshì|LTranslit=dànshì
 2	我	我	PRON	_	_	5	nsubj	_	SpaceAfter=No|Translit=wǒ|LTranslit=wǒ
-3	一定	一定	ADV	_	_	4	advmod	_	SpaceAfter=No|Translit=yīdìng|LTranslit=yīdìng
+3	一定	一定	ADV	_	_	5	advmod	_	SpaceAfter=No|Translit=yīdìng|LTranslit=yīdìng
 4	得	得	AUX	_	_	5	aux	_	SpaceAfter=No|Translit=de|LTranslit=de
 5	进去	进去	VERB	_	_	0	root	_	SpaceAfter=No|Translit=jìnqù|LTranslit=jìnqù
 6	丛林	丛林	NOUN	_	_	5	obj	_	SpaceAfter=No|Translit=cónglín|LTranslit=cónglín
@@ -4456,7 +4456,7 @@
 # translit = kěshìwǒmenbùnénghuíqùle!
 1	可是	可是	SCONJ	_	_	5	mark	_	SpaceAfter=No|Translit=kěshì|LTranslit=kěshì
 2	我们	我	PRON	_	_	5	nsubj	_	SpaceAfter=No|Translit=wǒmen|LTranslit=wǒ
-3	不	不	ADV	_	_	4	advmod	_	SpaceAfter=No|Translit=bù|LTranslit=bù
+3	不	不	ADV	_	_	5	advmod	_	SpaceAfter=No|Translit=bù|LTranslit=bù
 4	能	能	AUX	_	_	5	aux	_	SpaceAfter=No|Translit=néng|LTranslit=néng
 5	回去	回去	VERB	_	_	0	root	_	SpaceAfter=No|Translit=huíqù|LTranslit=huíqù
 6	了	了	AUX	_	_	5	aux	_	SpaceAfter=No|Translit=le|LTranslit=le
@@ -4554,7 +4554,7 @@
 # text = 我很想再见他们。
 # translit = wǒhěnxiǎngzàijiàntāmen.
 1	我	我	PRON	_	_	5	nsubj	_	SpaceAfter=No|Translit=wǒ|LTranslit=wǒ
-2	很	很	ADV	_	_	3	advmod	_	SpaceAfter=No|Translit=hěn|LTranslit=hěn
+2	很	很	ADV	_	_	5	advmod	_	SpaceAfter=No|Translit=hěn|LTranslit=hěn
 3	想	想	AUX	_	_	5	aux	_	SpaceAfter=No|Translit=xiǎng|LTranslit=xiǎng
 4	再	再	ADV	_	_	5	advmod	_	SpaceAfter=No|Translit=zài|LTranslit=zài
 5	见	见	VERB	_	_	0	root	_	SpaceAfter=No|Translit=jiàn|LTranslit=jiàn
@@ -4684,13 +4684,13 @@
 1	但是	但是	CCONJ	_	_	3	cc	_	SpaceAfter=No|Translit=dànshì|LTranslit=dànshì
 2	我	我	PRON	_	_	3	nsubj	_	SpaceAfter=No|Translit=wǒ|LTranslit=wǒ
 3	觉得	觉得	VERB	_	_	0	root	_	SpaceAfter=No|Translit=juéde|LTranslit=juéde
-4	这	这	DET	_	_	11	nsubj	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+4	这	这	DET	_	_	15	nsubj	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
 5	个	个	NOUN	_	_	4	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 6	对	对	ADP	_	_	7	case	_	SpaceAfter=No|Translit=duì|LTranslit=duì
 7	我	我	PRON	_	_	9	obl	_	SpaceAfter=No|Translit=wǒ|LTranslit=wǒ
 8	来	来	SCONJ	_	_	9	mark	_	SpaceAfter=No|Translit=lái|LTranslit=lái
-9	说	说	VERB	_	_	11	advcl	_	SpaceAfter=No|Translit=shuō|LTranslit=shuō
-10	真的	真的	ADV	_	_	11	advmod	_	SpaceAfter=No|Translit=zhēnde|LTranslit=zhēnde
+9	说	说	VERB	_	_	15	advcl	_	SpaceAfter=No|Translit=shuō|LTranslit=shuō
+10	真的	真的	ADV	_	_	15	advmod	_	SpaceAfter=No|Translit=zhēnde|LTranslit=zhēnde
 11	是	是	AUX	_	_	15	cop	_	SpaceAfter=No|Translit=shì|LTranslit=shì
 12	很	很	ADV	_	_	13	advmod:df	_	SpaceAfter=No|Translit=hěn|LTranslit=hěn
 13	好	好	ADJ	_	_	15	amod	_	SpaceAfter=No|Translit=hǎo|LTranslit=hǎo
@@ -4767,9 +4767,9 @@
 23	喀斯特地貌	喀斯特地貌	NOUN	_	_	24	nmod	_	SpaceAfter=No|Translit=喀sītèdemào|LTranslit=喀sītèdemào
 24	柞水溶洞	柞水溶洞	PROPN	_	_	19	obj	_	SpaceAfter=No|Translit=柞shuǐróngdòng|LTranslit=柞shuǐróngdòng
 25	，	，	PUNCT	_	_	30	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-26	溶洞	溶洞	NOUN	_	_	29	nsubj	_	SpaceAfter=No|Translit=róngdòng|LTranslit=róngdòng
+26	溶洞	溶洞	NOUN	_	_	30	nsubj	_	SpaceAfter=No|Translit=róngdòng|LTranslit=róngdòng
 27	里面	里面	ADP	_	_	26	case:loc	_	SpaceAfter=No|Translit=lǐmiàn|LTranslit=lǐmiàn
-28	都	都	ADV	_	_	29	advmod	_	SpaceAfter=No|Translit=dōu|LTranslit=dōu
+28	都	都	ADV	_	_	30	advmod	_	SpaceAfter=No|Translit=dōu|LTranslit=dōu
 29	是	是	AUX	_	_	30	cop	_	SpaceAfter=No|Translit=shì|LTranslit=shì
 30	冬暖夏凉	冬暖夏凉	ADJ	_	_	24	parataxis	_	SpaceAfter=No|Translit=dōngnuǎnxiàliáng|LTranslit=dōngnuǎnxiàliáng
 31	，	，	PUNCT	_	_	35	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
@@ -4812,8 +4812,8 @@
 28	中国	中国	PROPN	_	_	23	obj	_	SpaceAfter=No|Translit=zhōngguó|LTranslit=zhōngguó
 29	一样	一样	ADJ	_	_	19	parataxis	_	SpaceAfter=No|Translit=yīyàng|LTranslit=yīyàng
 30	，	，	PUNCT	_	_	35	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-31	真的	真的	ADV	_	_	33	advmod	_	SpaceAfter=No|Translit=zhēnde|LTranslit=zhēnde
-32	好	好	ADV	_	_	33	advmod	_	SpaceAfter=No|Translit=hǎo|LTranslit=hǎo
+31	真的	真的	ADV	_	_	35	advmod	_	SpaceAfter=No|Translit=zhēnde|LTranslit=zhēnde
+32	好	好	ADV	_	_	35	advmod	_	SpaceAfter=No|Translit=hǎo|LTranslit=hǎo
 33	想	想	AUX	_	_	35	aux	_	SpaceAfter=No|Translit=xiǎng|LTranslit=xiǎng
 34	再	再	ADV	_	_	35	advmod	_	SpaceAfter=No|Translit=zài|LTranslit=zài
 35	去	去	VERB	_	_	2	parataxis	_	SpaceAfter=No|Translit=qù|LTranslit=qù
@@ -5057,7 +5057,7 @@
 9	，	，	PUNCT	_	_	14	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 10	本来	本来	ADV	_	_	14	advmod	_	SpaceAfter=No|Translit=běnlái|LTranslit=běnlái
 11	我	我	PRON	_	_	14	nsubj	_	SpaceAfter=No|Translit=wǒ|LTranslit=wǒ
-12	不	不	ADV	_	_	13	advmod	_	SpaceAfter=No|Translit=bù|LTranslit=bù
+12	不	不	ADV	_	_	14	advmod	_	SpaceAfter=No|Translit=bù|LTranslit=bù
 13	能	能	AUX	_	_	14	aux	_	SpaceAfter=No|Translit=néng|LTranslit=néng
 14	相信	相信	VERB	_	_	6	parataxis	_	SpaceAfter=No|Translit=xiāngxìn|LTranslit=xiāngxìn
 15	男人	男人	NOUN	_	_	14	obj	_	SpaceAfter=No|Translit=nánrén|LTranslit=nánrén
@@ -5564,7 +5564,7 @@
 # text = 我被着惊人的举动惊呆了，一个残疾人都可以做到的事，为什么我们做不到？
 # translit = wǒbèizhejīngréndejǔdòngjīngdāile,yīgècánjíréndōukěyǐzuòdàodeshì,wèishénmewǒmenzuòbùdào?
 1	我	我	PRON	_	_	7	nsubj:pass	_	SpaceAfter=No|Translit=wǒ|LTranslit=wǒ
-2	被	被	ADP	_	_	3	xcomp	_	SpaceAfter=No|Translit=bèi|LTranslit=bèi
+2	被	被	ADP	_	_	6	xcomp	_	SpaceAfter=No|Translit=bèi|LTranslit=bèi
 3	着	这	VERB	_	_	6	case	_	SpaceAfter=No|Translit=zhe|LTranslit=zhè
 4	惊人	惊人	ADJ	_	_	6	amod	_	SpaceAfter=No|Translit=jīngrén|LTranslit=jīngrén
 5	的	的	PART	_	_	4	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
@@ -5692,7 +5692,7 @@
 33	我	我	PRON	_	_	34	nsubj	_	SpaceAfter=No|Translit=wǒ|LTranslit=wǒ
 34	觉得	觉得	VERB	_	_	21	parataxis	_	SpaceAfter=No|Translit=juéde|LTranslit=juéde
 35	我	我	PRON	_	_	38	nsubj	_	SpaceAfter=No|Translit=wǒ|LTranslit=wǒ
-36	不	不	ADV	_	_	37	advmod	_	SpaceAfter=No|Translit=bù|LTranslit=bù
+36	不	不	ADV	_	_	38	advmod	_	SpaceAfter=No|Translit=bù|LTranslit=bù
 37	会	会	AUX	_	_	38	aux	_	SpaceAfter=No|Translit=huì|LTranslit=huì
 38	活	活	VERB	_	_	34	ccomp	_	SpaceAfter=No|Translit=huó|LTranslit=huó
 39	下去	下去	VERB	_	_	38	compound:vv	_	SpaceAfter=No|Translit=xiàqù|LTranslit=xiàqù
@@ -5905,7 +5905,7 @@
 1	虽然	虽然	SCONJ	_	_	6	mark	_	SpaceAfter=No|Translit=suīrán|LTranslit=suīrán
 2	他	他	PRON	_	_	6	nsubj	_	SpaceAfter=No|Translit=tā|LTranslit=tā
 3	再	再	ADV	_	_	6	advmod	_	SpaceAfter=No|Translit=zài|LTranslit=zài
-4	不	不	ADV	_	_	5	advmod	_	SpaceAfter=No|Translit=bù|LTranslit=bù
+4	不	不	ADV	_	_	6	advmod	_	SpaceAfter=No|Translit=bù|LTranslit=bù
 5	会	会	AUX	_	_	6	aux	_	SpaceAfter=No|Translit=huì|LTranslit=huì
 6	踢	踢	VERB	_	_	13	advcl	_	SpaceAfter=No|Translit=tī|LTranslit=tī
 7	足球	足球	NOUN	_	_	6	compound:vo	_	SpaceAfter=No|Translit=zúqiú|LTranslit=zúqiú
@@ -6633,7 +6633,7 @@
 1	我	我	PRON	_	_	2	nsubj	_	SpaceAfter=No|Translit=wǒ|LTranslit=wǒ
 2	问	问	VERB	_	_	0	root	_	SpaceAfter=No|Translit=wèn|LTranslit=wèn
 3	她	她	PRON	_	_	2	obj	_	SpaceAfter=No|Translit=tā|LTranslit=tā
-4	是否	是否	ADV	_	_	5	advmod	_	SpaceAfter=No|Translit=shìfǒu|LTranslit=shìfǒu
+4	是否	是否	ADV	_	_	6	advmod	_	SpaceAfter=No|Translit=shìfǒu|LTranslit=shìfǒu
 5	愿意	愿意	AUX	_	_	6	aux	_	SpaceAfter=No|Translit=yuànyì|LTranslit=yuànyì
 6	成为	为	VERB	_	_	2	xcomp	_	SpaceAfter=No|Translit=chéngwèi|LTranslit=wèi
 7	我	我	PRON	_	_	9	nmod	_	SpaceAfter=No|Translit=wǒ|LTranslit=wǒ
@@ -6752,7 +6752,7 @@
 # translit = yīnwèiwǒbùxiǎngràngtāměitiānshāngxīnnánguò.
 1	因为	因为	SCONJ	_	_	5	mark	_	SpaceAfter=No|Translit=yīnwèi|LTranslit=yīnwèi
 2	我	我	PRON	_	_	5	nsubj	_	SpaceAfter=No|Translit=wǒ|LTranslit=wǒ
-3	不	不	ADV	_	_	4	advmod	_	SpaceAfter=No|Translit=bù|LTranslit=bù
+3	不	不	ADV	_	_	5	advmod	_	SpaceAfter=No|Translit=bù|LTranslit=bù
 4	想	想	AUX	_	_	5	aux	_	SpaceAfter=No|Translit=xiǎng|LTranslit=xiǎng
 5	让	让	VERB	_	_	0	root	_	SpaceAfter=No|Translit=ràng|LTranslit=ràng
 6	她	她	PRON	_	_	5	obj	_	SpaceAfter=No|Translit=tā|LTranslit=tā
@@ -6796,7 +6796,7 @@
 11	发现	发现	VERB	_	_	0	root	_	SpaceAfter=No|Translit=fāxiàn|LTranslit=fāxiàn
 12	我	我	PRON	_	_	16	nsubj	_	SpaceAfter=No|Translit=wǒ|LTranslit=wǒ
 13	仍然	仍然	ADV	_	_	16	advmod	_	SpaceAfter=No|Translit=réngrán|LTranslit=réngrán
-14	不	不	ADV	_	_	15	advmod	_	SpaceAfter=No|Translit=bù|LTranslit=bù
+14	不	不	ADV	_	_	16	advmod	_	SpaceAfter=No|Translit=bù|LTranslit=bù
 15	能	能	AUX	_	_	16	aux	_	SpaceAfter=No|Translit=néng|LTranslit=néng
 16	忘记	忘记	VERB	_	_	11	ccomp	_	SpaceAfter=No|Translit=wàngjì|LTranslit=wàngjì
 17	第一	第一	ADJ	_	_	19	amod	_	SpaceAfter=No|Translit=dìyī|LTranslit=dìyī
@@ -6985,7 +6985,7 @@
 6	，	，	PUNCT	_	_	3	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 7	否则	否则	ADV	_	_	11	advmod	_	SpaceAfter=No|Translit=fǒuzé|LTranslit=fǒuzé
 8	我	我	PRON	_	_	11	nsubj	_	SpaceAfter=No|Translit=wǒ|LTranslit=wǒ
-9	不	不	ADV	_	_	10	advmod	_	SpaceAfter=No|Translit=bù|LTranslit=bù
+9	不	不	ADV	_	_	11	advmod	_	SpaceAfter=No|Translit=bù|LTranslit=bù
 10	会	会	AUX	_	_	11	aux	_	SpaceAfter=No|Translit=huì|LTranslit=huì
 11	了解	了解	VERB	_	_	24	parataxis	_	SpaceAfter=No|Translit=lejiě|LTranslit=lejiě
 12	爱情	爱情	NOUN	_	_	14	nmod	_	SpaceAfter=No|Translit='àiqíng|LTranslit='àiqíng
@@ -7023,7 +7023,7 @@
 44	难过	难过	ADJ	_	_	50	advcl	_	SpaceAfter=No|Translit=nánguò|LTranslit=nánguò
 45	，	，	PUNCT	_	_	44	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 46	我	我	PRON	_	_	50	nsubj	_	SpaceAfter=No|Translit=wǒ|LTranslit=wǒ
-47	不	不	ADV	_	_	48	advmod	_	SpaceAfter=No|Translit=bù|LTranslit=bù
+47	不	不	ADV	_	_	50	advmod	_	SpaceAfter=No|Translit=bù|LTranslit=bù
 48	想	想	AUX	_	_	50	aux	_	SpaceAfter=No|Translit=xiǎng|LTranslit=xiǎng
 49	再	再	ADV	_	_	50	advmod	_	SpaceAfter=No|Translit=zài|LTranslit=zài
 50	来	来	VERB	_	_	31	parataxis	_	SpaceAfter=No|Translit=lái|LTranslit=lái
@@ -7358,7 +7358,7 @@
 17	那	那	PRON	_	_	16	obj	_	SpaceAfter=No|Translit=nà|LTranslit=nà
 18	的	的	PART	_	_	16	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 19	时候	时候	NOUN	_	_	22	nsubj	_	SpaceAfter=No|Translit=shíhou|LTranslit=shíhou
-20	已经	已经	ADV	_	_	21	advmod	_	SpaceAfter=No|Translit=yǐjīng|LTranslit=yǐjīng
+20	已经	已经	ADV	_	_	22	advmod	_	SpaceAfter=No|Translit=yǐjīng|LTranslit=yǐjīng
 21	是	是	AUX	_	_	22	cop	_	SpaceAfter=No|Translit=shì|LTranslit=shì
 22	傍晚	傍晚	NOUN	_	_	8	conj	_	SpaceAfter=No|Translit=bàngwǎn|LTranslit=bàngwǎn
 23	了	了	PART	_	_	22	discourse:sp	_	SpaceAfter=No|Translit=le|LTranslit=le
@@ -7578,7 +7578,7 @@
 24	有的	有的	DET	_	_	25	det	_	SpaceAfter=No|Translit=yǒude|LTranslit=yǒude
 25	地方	地方	NOUN	_	_	30	dislocated	_	SpaceAfter=No|Translit=defāng|LTranslit=defāng
 26	空气	空气	NOUN	_	_	30	nsubj	_	SpaceAfter=No|Translit=kōngqì|LTranslit=kōngqì
-27	不	不	ADV	_	_	28	advmod	_	SpaceAfter=No|Translit=bù|LTranslit=bù
+27	不	不	ADV	_	_	30	advmod	_	SpaceAfter=No|Translit=bù|LTranslit=bù
 28	是	是	AUX	_	_	30	cop	_	SpaceAfter=No|Translit=shì|LTranslit=shì
 29	很	很	ADV	_	_	30	advmod	_	SpaceAfter=No|Translit=hěn|LTranslit=hěn
 30	好	好	ADJ	_	_	19	ccomp	_	SpaceAfter=No|Translit=hǎo|LTranslit=hǎo
@@ -7855,7 +7855,7 @@
 6	让	让	VERB	_	_	0	root	_	SpaceAfter=No|Translit=ràng|LTranslit=ràng
 7	我	我	PRON	_	_	6	obj	_	SpaceAfter=No|Translit=wǒ|LTranslit=wǒ
 8	久久	久久	ADV	_	_	11	advmod	_	SpaceAfter=No|Translit=jiǔjiǔ|LTranslit=jiǔjiǔ
-9	不	不	ADV	_	_	10	advmod	_	SpaceAfter=No|Translit=bù|LTranslit=bù
+9	不	不	ADV	_	_	11	advmod	_	SpaceAfter=No|Translit=bù|LTranslit=bù
 10	能	能	AUX	_	_	11	aux	_	SpaceAfter=No|Translit=néng|LTranslit=néng
 11	忘记	忘记	VERB	_	_	6	xcomp	_	SpaceAfter=No|Translit=wàngjì|LTranslit=wàngjì
 12	。	。	PUNCT	_	_	6	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
@@ -7904,7 +7904,7 @@
 13	觉得	觉得	VERB	_	_	10	parataxis	_	SpaceAfter=No|Translit=juéde|LTranslit=juéde
 14	他	他	PRON	_	_	18	nsubj	_	SpaceAfter=No|Translit=tā|LTranslit=tā
 15	一定	一定	ADV	_	_	18	advmod	_	SpaceAfter=No|Translit=yīdìng|LTranslit=yīdìng
-16	不	不	ADV	_	_	17	advmod	_	SpaceAfter=No|Translit=bù|LTranslit=bù
+16	不	不	ADV	_	_	18	advmod	_	SpaceAfter=No|Translit=bù|LTranslit=bù
 17	敢	敢	AUX	_	_	18	aux	_	SpaceAfter=No|Translit=gǎn|LTranslit=gǎn
 18	相信	相信	VERB	_	_	13	ccomp	_	SpaceAfter=No|Translit=xiāngxìn|LTranslit=xiāngxìn
 19	自己	自己	PRON	_	_	20	nmod	_	SpaceAfter=No|Translit=zìjǐ|LTranslit=zìjǐ
@@ -8050,7 +8050,7 @@
 # sent_id = CFL_X_1-10_ori
 # text = 很不同的国家，不同的名次，虽然所有都不同，但有一样他们为了比赛，努力刻苦训练的这四年应该都一样。
 # translit = hěnbùtóngdeguójiā,bùtóngdemíngcì,suīránsuǒyǒudōubùtóng,dànyǒuyīyàngtāmenwèilebǐsài,nǔlìkèkǔxunliàndezhèsìniányīnggāidōuyīyàng.
-1	很	很	ADV	_	_	3	advmod	_	SpaceAfter=No|Translit=hěn|LTranslit=hěn
+1	很	很	ADV	_	_	2	advmod	_	SpaceAfter=No|Translit=hěn|LTranslit=hěn
 2	不同	不同	ADJ	_	_	4	amod	_	SpaceAfter=No|Translit=bùtóng|LTranslit=bùtóng
 3	的	的	PART	_	_	2	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 4	国家	国家	NOUN	_	_	14	dislocated	_	SpaceAfter=No|Translit=guójiā|LTranslit=guójiā
@@ -8095,7 +8095,7 @@
 6	让	让	VERB	_	_	0	root	_	SpaceAfter=No|Translit=ràng|LTranslit=ràng
 7	我	我	PRON	_	_	6	obj	_	SpaceAfter=No|Translit=wǒ|LTranslit=wǒ
 8	久久	久久	ADV	_	_	11	advmod	_	SpaceAfter=No|Translit=jiǔjiǔ|LTranslit=jiǔjiǔ
-9	不	不	ADV	_	_	10	advmod	_	SpaceAfter=No|Translit=bù|LTranslit=bù
+9	不	不	ADV	_	_	11	advmod	_	SpaceAfter=No|Translit=bù|LTranslit=bù
 10	能	能	AUX	_	_	11	aux	_	SpaceAfter=No|Translit=néng|LTranslit=néng
 11	忘怀	忘怀	VERB	_	_	6	xcomp	_	SpaceAfter=No|Translit=wànghuái|LTranslit=wànghuái
 12	。	。	PUNCT	_	_	6	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
@@ -8184,7 +8184,7 @@
 5	我们	我	PRON	_	_	22	dislocated	_	SpaceAfter=No|Translit=wǒmen|LTranslit=wǒ
 6	，	，	PUNCT	_	_	5	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 7	虽然	虽然	SCONJ	_	_	17	mark	_	SpaceAfter=No|Translit=suīrán|LTranslit=suīrán
-8	不	不	ADV	_	_	9	advmod	_	SpaceAfter=No|Translit=bù|LTranslit=bù
+8	不	不	ADV	_	_	17	advmod	_	SpaceAfter=No|Translit=bù|LTranslit=bù
 9	能	能	AUX	_	_	17	aux	_	SpaceAfter=No|Translit=néng|LTranslit=néng
 10	像	像	ADP	_	_	12	case	_	SpaceAfter=No|Translit=xiàng|LTranslit=xiàng
 11	奥林匹克	奥林匹克	PROPN	_	_	12	compound	_	SpaceAfter=No|Translit='àolínpǐkè|LTranslit='àolínpǐkè

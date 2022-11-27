@@ -94,6 +94,7 @@ John Lee, Herman Leung, Keying Li. 2017. Towards Universal Dependencies for Lear
   * Fixed: Verb cannot be advmod.
   * Added pinyin transcription.
   * Scaled down the set of copulas and other auxiliaries.
+  * Fixed: function words must be leaves.
 * 2017-11-15 v2.1
   * Initial UD release.
 
