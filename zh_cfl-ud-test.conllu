@@ -8752,10 +8752,10 @@
 7	次	次	NOUN	_	_	6	clf	_	SpaceAfter=No|Translit=cì|LTranslit=cì
 8	上下学	上下学	VERB	_	_	10	acl	_	SpaceAfter=No|Translit=shàngxiàxué|LTranslit=shàngxiàxué
 9	的	的	PART	_	_	8	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
-10	路	路	NOUN	_	_	13	obl	_	SpaceAfter=No|Translit=lù|LTranslit=lù
+10	路	路	NOUN	_	_	12	obl	_	SpaceAfter=No|Translit=lù|LTranslit=lù
 11	上	上	ADP	_	_	10	case:loc	_	SpaceAfter=No|Translit=shàng|LTranslit=shàng
-12	好像	好像	AUX	_	_	13	aux	_	SpaceAfter=No|Translit=hǎoxiàng|LTranslit=hǎoxiàng
-13	是	是	AUX	_	_	14	cop	_	SpaceAfter=No|Translit=shì|LTranslit=shì
+12	好像	好像	VERB	_	_	14	cop	_	SpaceAfter=No|Translit=hǎoxiàng|LTranslit=hǎoxiàng
+13	是	是	AUX	_	_	12	xcomp	_	SpaceAfter=No|Translit=shì|LTranslit=shì
 14	劳动	劳动	VERB	_	_	0	root	_	SpaceAfter=No|Translit=láodòng|LTranslit=láodòng
 15	一样	一样	ADJ	_	_	14	advmod	_	SpaceAfter=No|Translit=yīyàng|LTranslit=yīyàng
 16	很	很	ADV	_	_	17	advmod	_	SpaceAfter=No|Translit=hěn|LTranslit=hěn
