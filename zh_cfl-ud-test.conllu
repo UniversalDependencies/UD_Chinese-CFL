@@ -8746,7 +8746,7 @@
 1	没有	没有	VERB	_	_	4	acl	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=méiyǒu
 2	自行车	自行车	NOUN	_	_	1	obj	_	SpaceAfter=No|Translit=zìxíngchē|LTranslit=zìxíngchē
 3	的	的	PART	_	_	1	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
-4	话	话	NOUN	_	_	14	advcl	_	SpaceAfter=No|Translit=huà|LTranslit=huà
+4	话	话	NOUN	_	_	12	advcl	_	SpaceAfter=No|Translit=huà|LTranslit=huà
 5	，	，	PUNCT	_	_	4	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 6	每	每	DET	_	_	8	advmod	_	SpaceAfter=No|Translit=měi|LTranslit=měi
 7	次	次	NOUN	_	_	6	clf	_	SpaceAfter=No|Translit=cì|LTranslit=cì
@@ -8754,13 +8754,13 @@
 9	的	的	PART	_	_	8	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 10	路	路	NOUN	_	_	12	obl	_	SpaceAfter=No|Translit=lù|LTranslit=lù
 11	上	上	ADP	_	_	10	case:loc	_	SpaceAfter=No|Translit=shàng|LTranslit=shàng
-12	好像	好像	VERB	_	_	14	cop	_	SpaceAfter=No|Translit=hǎoxiàng|LTranslit=hǎoxiàng
-13	是	是	AUX	_	_	12	xcomp	_	SpaceAfter=No|Translit=shì|LTranslit=shì
-14	劳动	劳动	VERB	_	_	0	root	_	SpaceAfter=No|Translit=láodòng|LTranslit=láodòng
+12	好像	好像	VERB	_	_	0	root	_	SpaceAfter=No|Translit=hǎoxiàng|LTranslit=hǎoxiàng
+13	是	是	AUX	_	_	14	cop	_	SpaceAfter=No|Translit=shì|LTranslit=shì
+14	劳动	劳动	VERB	_	_	12	xcomp	_	SpaceAfter=No|Translit=láodòng|LTranslit=láodòng
 15	一样	一样	ADJ	_	_	14	advmod	_	SpaceAfter=No|Translit=yīyàng|LTranslit=yīyàng
 16	很	很	ADV	_	_	17	advmod	_	SpaceAfter=No|Translit=hěn|LTranslit=hěn
 17	痛苦	痛苦	ADJ	_	_	14	advmod	_	SpaceAfter=No|Translit=tòngkǔ|LTranslit=tòngkǔ
-18	。	。	PUNCT	_	_	14	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
+18	。	。	PUNCT	_	_	12	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = CFL_Z_1-9_ori
 # text = 自行车就能把我们学生的生活变得很轻松。
