@@ -4837,11 +4837,11 @@
 11	空气	空气	NOUN	_	_	6	obj	_	SpaceAfter=No|Translit=kōngqì|LTranslit=kōngqì
 12	觉得	觉得	VERB	_	_	6	conj	_	SpaceAfter=No|Translit=juéde|LTranslit=juéde
 13	整个	整个	ADJ	_	_	14	amod	_	SpaceAfter=No|Translit=zhěnggè|LTranslit=zhěnggè
-14	人	人	NOUN	_	_	16	nsubj	_	SpaceAfter=No|Translit=rén|LTranslit=rén
-15	都	都	ADV	_	_	16	advmod	_	SpaceAfter=No|Translit=dōu|LTranslit=dōu
-16	清新	清新	ADJ	_	_	12	ccomp	_	SpaceAfter=No|Translit=qīngxīn|LTranslit=qīngxīn
-17	了	了	AUX	_	_	16	aux	_	SpaceAfter=No|Translit=le|LTranslit=le
-18	似的	似的	AUX	_	_	16	aux	_	SpaceAfter=No|Translit=shìde|LTranslit=shìde
+14	人	人	NOUN	_	_	18	nsubj	_	SpaceAfter=No|Translit=rén|LTranslit=rén
+15	都	都	ADV	_	_	18	advmod	_	SpaceAfter=No|Translit=dōu|LTranslit=dōu
+16	清新	清新	ADJ	_	_	18	xcomp	_	SpaceAfter=No|Translit=qīngxīn|LTranslit=qīngxīn
+17	了	了	AUX	_	_	18	aux	_	SpaceAfter=No|Translit=le|LTranslit=le
+18	似的	似的	VERB	_	_	12	ccomp	_	SpaceAfter=No|Translit=shìde|LTranslit=shìde
 19	；	；	PUNCT	_	_	2	punct	_	SpaceAfter=No|Translit=;|LTranslit=;
 
 # sent_id = CFL_H_2-12_ori
