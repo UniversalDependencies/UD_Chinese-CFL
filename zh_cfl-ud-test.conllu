@@ -7949,10 +7949,10 @@
 10	他	他	PRON	_	_	12	nmod	_	SpaceAfter=No|Translit=tā|LTranslit=tā
 11	的	的	PART	_	_	10	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 12	肌肉	肌肉	NOUN	_	_	0	root	_	SpaceAfter=No|Translit=jīròu|LTranslit=jīròu
-13	这	这	PRON	_	_	15	nsubj	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-14	回	回	AUX	_	_	15	aux	_	SpaceAfter=No|Translit=huí|LTranslit=huí
-15	让	让	VERB	_	_	12	parataxis	_	SpaceAfter=No|Translit=ràng|LTranslit=ràng
-16	我	我	PRON	_	_	15	obj	_	SpaceAfter=No|Translit=wǒ|LTranslit=wǒ
+13	这	这	PRON	_	_	14	nsubj	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+14	回	回	VERB	_	_	12	parataxis	_	SpaceAfter=No|Translit=huí|LTranslit=huí
+15	让	让	VERB	_	_	14	xcomp	_	SpaceAfter=No|Translit=ràng|LTranslit=ràng
+16	我	我	PRON	_	_	14	obj	_	SpaceAfter=No|Translit=wǒ|LTranslit=wǒ
 17	联想	联想	VERB	_	_	15	xcomp	_	SpaceAfter=No|Translit=liánxiǎng|LTranslit=liánxiǎng
 18	到	到	VERB	_	_	17	compound:vv	_	SpaceAfter=No|Translit=dào|LTranslit=dào
 19	身体	身体	NOUN	_	_	20	compound	_	SpaceAfter=No|Translit=shēntǐ|LTranslit=shēntǐ
