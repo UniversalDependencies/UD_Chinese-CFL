@@ -586,7 +586,7 @@
 1	飞机	飞机	NOUN	_	_	5	nsubj	_	SpaceAfter=No|Translit=fēijī|LTranslit=fēijī
 2	一点	一点	ADV	_	_	5	advmod	_	SpaceAfter=No|Translit=yīdiǎn|LTranslit=yīdiǎn
 3	也	也	ADV	_	_	5	advmod	_	SpaceAfter=No|Translit=yě|LTranslit=yě
-4	没	没	AUX	_	_	5	aux	_	SpaceAfter=No|Translit=méi|LTranslit=méi
+4	没	没	PART	_	Polarity=Neg	5	advmod	_	SpaceAfter=No|Translit=méi|LTranslit=méi
 5	影响	影响	VERB	_	_	0	root	_	SpaceAfter=No|Translit=yǐngxiǎng|LTranslit=yǐngxiǎng
 6	我	我	PRON	_	_	5	obj	_	SpaceAfter=No|Translit=wǒ|LTranslit=wǒ
 7	了	了	PART	_	_	5	discourse:sp	_	SpaceAfter=No|Translit=le|LTranslit=le
@@ -743,7 +743,7 @@
 # sent_id = CFL_B_1-17_ori
 # text = 没遇到困难的事。
 # translit = méiyùdàokùnnándeshì.
-1	没	没	AUX	_	_	2	aux	_	SpaceAfter=No|Translit=méi|LTranslit=méi
+1	没	没	PART	_	Polarity=Neg	2	advmod	_	SpaceAfter=No|Translit=méi|LTranslit=méi
 2	遇	遇	VERB	_	_	0	root	_	SpaceAfter=No|Translit=yù|LTranslit=yù
 3	到	到	VERB	_	_	2	compound:vv	_	SpaceAfter=No|Translit=dào|LTranslit=dào
 4	困难	困难	ADJ	_	_	6	amod	_	SpaceAfter=No|Translit=kùnnán|LTranslit=kùnnán
@@ -1069,7 +1069,7 @@
 # text = 我没告诉父母而把本信送给总统看。
 # translit = wǒméigàosufùmǔ'érbǎběnxìnsònggěizǒngtǒngkàn.
 1	我	我	PRON	_	_	3	nsubj	_	SpaceAfter=No|Translit=wǒ|LTranslit=wǒ
-2	没	没	AUX	_	_	3	aux	_	SpaceAfter=No|Translit=méi|LTranslit=méi
+2	没	没	PART	_	Polarity=Neg	3	advmod	_	SpaceAfter=No|Translit=méi|LTranslit=méi
 3	告诉	告诉	VERB	_	_	0	root	_	SpaceAfter=No|Translit=gàosu|LTranslit=gàosu
 4	父母	父母	NOUN	_	_	3	obj	_	SpaceAfter=No|Translit=fùmǔ|LTranslit=fùmǔ
 5	而	而	CCONJ	_	_	9	cc	_	SpaceAfter=No|Translit='ér|LTranslit='ér
@@ -1086,7 +1086,7 @@
 # text = 我没请人家搀扶我或帮助我。
 # translit = wǒméiqǐngrénjiāchānfúwǒhuòbāngzhùwǒ.
 1	我	我	PRON	_	_	3	nsubj	_	SpaceAfter=No|Translit=wǒ|LTranslit=wǒ
-2	没	没	AUX	_	_	3	aux	_	SpaceAfter=No|Translit=méi|LTranslit=méi
+2	没	没	PART	_	Polarity=Neg	3	advmod	_	SpaceAfter=No|Translit=méi|LTranslit=méi
 3	请	请	VERB	_	_	0	root	_	SpaceAfter=No|Translit=qǐng|LTranslit=qǐng
 4	人家	人家	PRON	_	_	3	obj	_	SpaceAfter=No|Translit=rénjiā|LTranslit=rénjiā
 5	搀扶	搀扶	VERB	_	_	3	xcomp	_	SpaceAfter=No|Translit=chānfú|LTranslit=chānfú
@@ -1777,7 +1777,7 @@
 4	定	定	VERB	_	_	0	root	_	SpaceAfter=No|Translit=dìng|LTranslit=dìng
 5	目的地	目的地	NOUN	_	_	4	obj	_	SpaceAfter=No|Translit=mùdede|LTranslit=mùdede
 6	，	，	PUNCT	_	_	8	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-7	没	没	AUX	_	_	8	aux	_	SpaceAfter=No|Translit=méi|LTranslit=méi
+7	没	没	PART	_	Polarity=Neg	8	advmod	_	SpaceAfter=No|Translit=méi|LTranslit=méi
 8	定	定	VERB	_	_	4	conj	_	SpaceAfter=No|Translit=dìng|LTranslit=dìng
 9	了	了	AUX	_	_	8	aux	_	SpaceAfter=No|Translit=le|LTranslit=le
 10	详细	详细	ADJ	_	_	11	amod	_	SpaceAfter=No|Translit=xiángxì|LTranslit=xiángxì
@@ -2586,7 +2586,7 @@
 3	我	我	PRON	_	_	4	nmod	_	SpaceAfter=No|Translit=wǒ|LTranslit=wǒ
 4	先生	先生	NOUN	_	_	1	conj	_	SpaceAfter=No|Translit=xiānshēng|LTranslit=xiānshēng
 5	还	还	ADV	_	_	7	advmod	_	SpaceAfter=No|Translit=hái|LTranslit=hái
-6	没	没	AUX	_	_	7	aux	_	SpaceAfter=No|Translit=méi|LTranslit=méi
+6	没	没	PART	_	Polarity=Neg	7	advmod	_	SpaceAfter=No|Translit=méi|LTranslit=méi
 7	结婚	结婚	VERB	_	_	9	acl	_	SpaceAfter=No|Translit=jiéhūn|LTranslit=jiéhūn
 8	的	的	PART	_	_	7	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 9	时候	时候	NOUN	_	_	13	obl:tmod	_	SpaceAfter=No|Translit=shíhou|LTranslit=shíhou
@@ -4719,7 +4719,7 @@
 10	，	，	PUNCT	_	_	14	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 11	当时	当时	NOUN	_	_	14	obl:tmod	_	SpaceAfter=No|Translit=dāngshí|LTranslit=dāngshí
 12	我	我	PRON	_	_	14	nsubj	_	SpaceAfter=No|Translit=wǒ|LTranslit=wǒ
-13	没	没	AUX	_	_	14	aux	_	SpaceAfter=No|Translit=méi|LTranslit=méi
+13	没	没	PART	_	Polarity=Neg	14	advmod	_	SpaceAfter=No|Translit=méi|LTranslit=méi
 14	期待	期待	VERB	_	_	7	parataxis	_	SpaceAfter=No|Translit=qīdài|LTranslit=qīdài
 15	那么	那么	ADV	_	_	16	advmod	_	SpaceAfter=No|Translit=nàme|LTranslit=nàme
 16	多	多	ADJ	_	_	14	xcomp	_	SpaceAfter=No|Translit=duō|LTranslit=duō
@@ -5050,7 +5050,7 @@
 2	中国	中国	PROPN	_	_	1	obj	_	SpaceAfter=No|Translit=zhōngguó|LTranslit=zhōngguó
 3	前	前	ADP	_	_	1	mark	_	SpaceAfter=No|Translit=qián|LTranslit=qián
 4	我	我	PRON	_	_	6	nsubj	_	SpaceAfter=No|Translit=wǒ|LTranslit=wǒ
-5	没	没	AUX	_	_	6	aux	_	SpaceAfter=No|Translit=méi|LTranslit=méi
+5	没	没	PART	_	Polarity=Neg	6	advmod	_	SpaceAfter=No|Translit=méi|LTranslit=méi
 6	谈	谈	VERB	_	_	0	root	_	SpaceAfter=No|Translit=tán|LTranslit=tán
 7	过	过	AUX	_	_	6	aux	_	SpaceAfter=No|Translit=guò|LTranslit=guò
 8	恋爱	恋爱	NOUN	_	_	6	compound:vo	_	SpaceAfter=No|Translit=liàn'ài|LTranslit=liàn'ài
@@ -5067,7 +5067,7 @@
 19	二十五	二十五	NUM	_	_	20	nummod	_	SpaceAfter=No|Translit='èrshíwǔ|LTranslit='èrshíwǔ
 20	岁	岁	NOUN	_	_	23	obl	_	SpaceAfter=No|Translit=suì|LTranslit=suì
 21	都	都	ADV	_	_	23	advmod	_	SpaceAfter=No|Translit=dōu|LTranslit=dōu
-22	没	没	AUX	_	_	23	aux	_	SpaceAfter=No|Translit=méi|LTranslit=méi
+22	没	没	PART	_	Polarity=Neg	23	advmod	_	SpaceAfter=No|Translit=méi|LTranslit=méi
 23	爱	爱	VERB	_	_	14	conj	_	SpaceAfter=No|Translit='ài|LTranslit='ài
 24	过	过	AUX	_	_	23	aux	_	SpaceAfter=No|Translit=guò|LTranslit=guò
 25	男人	男人	NOUN	_	_	23	obj	_	SpaceAfter=No|Translit=nánrén|LTranslit=nánrén

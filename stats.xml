@@ -18,13 +18,13 @@
     <tag name="ADJ">353</tag><!-- 好, 难忘, 快, 一样, 多, 第一, 冷, 新, 大, 容易 -->
     <tag name="ADP">330</tag><!-- 在, 上, 对, 给, 从, 后, 跟, 里, 以后, 和 -->
     <tag name="ADV">756</tag><!-- 不, 很, 就, 所以, 都, 也, 一起, 最, 已经, 真的 -->
-    <tag name="AUX">344</tag><!-- 了, 是, 着, 要, 会, 能, 想, 过, 可以, 没 -->
+    <tag name="AUX">335</tag><!-- 了, 是, 着, 要, 会, 能, 想, 过, 可以, 应该 -->
     <tag name="CCONJ">94</tag><!-- 和, 但是, 而, 但, 跟, 还有, 并且, 并, 而且, 也 -->
     <tag name="DET">127</tag><!-- 这, 那, 很多, 每, 什么, 一些, 几, 哪, 有的, 这些 -->
     <tag name="INTJ">3</tag><!-- 吧, 天哪, 罢了 -->
     <tag name="NOUN">1352</tag><!-- 个, 人, 时候, 天, 次, 朋友, 自行车, 旅行, 事, 时间 -->
     <tag name="NUM">143</tag><!-- 一, 两, 三, 第一, 几, 10, 20, 之一, 仨, 半 -->
-    <tag name="PART">536</tag><!-- 的, 了, 地, 得, 吧, 吗, 呢, 啊, 和, 嗬 -->
+    <tag name="PART">545</tag><!-- 的, 了, 地, 得, 没, 吧, 吗, 呢, 啊, 和 -->
     <tag name="PRON">759</tag><!-- 我, 他, 她, 这, 你, 那里, 自己, 什么, 那, 谁 -->
     <tag name="PROPN">144</tag><!-- 中国, 西安, 麦加, 北京, 商洛, 韩国, 天池, 日本, 香港, 加拿大 -->
     <tag name="PUNCT">919</tag><!-- ，, 。, ！, ？, “, ”, ：, ?, 、, （ -->
@@ -32,17 +32,18 @@
     <tag name="VERB">1328</tag><!-- 到, 去, 是, 有, 看, 说, 让, 来, 见, 吃 -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
-  <feats unique="0">
+  <feats unique="1">
+    <feat name="Polarity" value="Neg" upos="PART">9</feat><!-- 没 -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
   <deps unique="45">
     <dep name="acl">111</dep>
     <dep name="advcl">209</dep>
-    <dep name="advmod">801</dep>
+    <dep name="advmod">810</dep>
     <dep name="advmod:df">1</dep>
     <dep name="amod">148</dep>
     <dep name="appos">19</dep>
-    <dep name="aux">268</dep>
+    <dep name="aux">259</dep>
     <dep name="case">376</dep>
     <dep name="case:loc">90</dep>
     <dep name="cc">93</dep>
