@@ -5505,9 +5505,9 @@
 14	下去	下去	VERB	_	_	12	compound:dir	_	SpaceAfter=No|Translit=xiàqù|LTranslit=xiàqù
 15	，	，	PUNCT	_	_	21	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 16	井盖	井盖	NOUN	_	_	21	obj	_	SpaceAfter=No|Translit=jǐnggài|LTranslit=jǐnggài
-17	爱	爱	AUX	_	_	19	aux	_	SpaceAfter=No|Translit='ài|LTranslit='ài
-18	谁	谁	PRON	_	_	19	nsubj	_	SpaceAfter=No|Translit=shuí|LTranslit=shuí
-19	搬	搬	VERB	_	_	21	advcl	_	SpaceAfter=No|Translit=bān|LTranslit=bān
+17	爱	爱	VERB	_	_	21	advcl	_	SpaceAfter=No|Translit='ài|LTranslit='ài
+18	谁	谁	PRON	_	_	17	nsubj	_	SpaceAfter=No|Translit=shuí|LTranslit=shuí
+19	搬	搬	VERB	_	_	17	xcomp	_	SpaceAfter=No|Translit=bān|LTranslit=bān
 20	谁	谁	PRON	_	_	21	nsubj	_	SpaceAfter=No|Translit=shuí|LTranslit=shuí
 21	般	般	VERB	_	_	12	parataxis	_	SpaceAfter=No|Translit=bān|LTranslit=bān
 22	。	。	PUNCT	_	_	3	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
@@ -8684,12 +8684,12 @@
 15	我	我	PRON	_	_	17	nsubj	_	SpaceAfter=No|Translit=wǒ|LTranslit=wǒ
 16	才	才	ADV	_	_	17	advmod	_	SpaceAfter=No|Translit=cái|LTranslit=cái
 17	知道	知道	VERB	_	_	4	conj	_	SpaceAfter=No|Translit=zhīdào|LTranslit=zhīdào
-18	他们	他	PRON	_	_	22	nsubj	_	SpaceAfter=No|Translit=tāmen|LTranslit=tā
-19	为什么	为什么	PRON	_	_	22	obl	_	SpaceAfter=No|Translit=wèishénme|LTranslit=wèishénme
+18	他们	他	PRON	_	_	21	nsubj	_	SpaceAfter=No|Translit=tāmen|LTranslit=tā
+19	为什么	为什么	PRON	_	_	21	obl	_	SpaceAfter=No|Translit=wèishénme|LTranslit=wèishénme
 20	这么	这么	ADV	_	_	21	advmod	_	SpaceAfter=No|Translit=zhème|LTranslit=zhème
-21	爱	爱	AUX	_	_	22	aux	_	SpaceAfter=No|Translit='ài|LTranslit='ài
-22	骑	骑	VERB	_	_	17	ccomp	_	SpaceAfter=No|Translit=qí|LTranslit=qí
-23	自行车	自行车	NOUN	_	_	22	obj	_	SpaceAfter=No|Translit=zìxíngchē|LTranslit=zìxíngchē
+21	爱	爱	VERB	_	_	17	ccomp	_	SpaceAfter=No|Translit='ài|LTranslit='ài
+22	骑	骑	VERB	_	_	21	xcomp	_	SpaceAfter=No|Translit=qí|LTranslit=qí
+23	自行车	自行车	NOUN	_	_	21	obj	_	SpaceAfter=No|Translit=zìxíngchē|LTranslit=zìxíngchē
 24	。	。	PUNCT	_	_	4	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = CFL_Z_1-5_ori
@@ -8804,11 +8804,11 @@
 # translit = wǒjuédeběijīngrén'àiqízìxíngchēdelǐyóuyòuzàiyúběijīngdejiāotōnghùnluàn.
 1	我	我	PRON	_	_	2	nsubj	_	SpaceAfter=No|Translit=wǒ|LTranslit=wǒ
 2	觉得	觉得	VERB	_	_	0	root	_	SpaceAfter=No|Translit=juéde|LTranslit=juéde
-3	北京人	北京人	NOUN	_	_	5	nsubj	_	SpaceAfter=No|Translit=běijīngrén|LTranslit=běijīngrén
-4	爱	爱	AUX	_	_	5	aux	_	SpaceAfter=No|Translit='ài|LTranslit='ài
-5	骑	骑	VERB	_	_	8	acl	_	SpaceAfter=No|Translit=qí|LTranslit=qí
-6	自行车	自行车	NOUN	_	_	5	obj	_	SpaceAfter=No|Translit=zìxíngchē|LTranslit=zìxíngchē
-7	的	的	PART	_	_	5	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
+3	北京人	北京人	NOUN	_	_	4	nsubj	_	SpaceAfter=No|Translit=běijīngrén|LTranslit=běijīngrén
+4	爱	爱	VERB	_	_	8	acl	_	SpaceAfter=No|Translit='ài|LTranslit='ài
+5	骑	骑	VERB	_	_	4	xcomp	_	SpaceAfter=No|Translit=qí|LTranslit=qí
+6	自行车	自行车	NOUN	_	_	4	obj	_	SpaceAfter=No|Translit=zìxíngchē|LTranslit=zìxíngchē
+7	的	的	PART	_	_	4	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 8	理由	理由	NOUN	_	_	10	nsubj	_	SpaceAfter=No|Translit=lǐyóu|LTranslit=lǐyóu
 9	又	又	ADV	_	_	10	advmod	_	SpaceAfter=No|Translit=yòu|LTranslit=yòu
 10	在于	在于	VERB	_	_	2	ccomp	_	SpaceAfter=No|Translit=zàiyú|LTranslit=zàiyú
@@ -9050,11 +9050,11 @@
 9	人	人	NOUN	_	_	11	nsubj	_	SpaceAfter=No|Translit=rén|LTranslit=rén
 10	都	都	ADV	_	_	11	advmod	_	SpaceAfter=No|Translit=dōu|LTranslit=dōu
 11	知道	知道	VERB	_	_	0	root	_	SpaceAfter=No|Translit=zhīdào|LTranslit=zhīdào
-12	为什么	为什么	ADV	_	_	16	advmod	_	SpaceAfter=No|Translit=wèishénme|LTranslit=wèishénme
-13	北京人	北京人	NOUN	_	_	16	nsubj	_	SpaceAfter=No|Translit=běijīngrén|LTranslit=běijīngrén
+12	为什么	为什么	ADV	_	_	15	advmod	_	SpaceAfter=No|Translit=wèishénme|LTranslit=wèishénme
+13	北京人	北京人	NOUN	_	_	15	nsubj	_	SpaceAfter=No|Translit=běijīngrén|LTranslit=běijīngrén
 14	这么	这么	ADV	_	_	15	advmod	_	SpaceAfter=No|Translit=zhème|LTranslit=zhème
-15	爱	爱	AUX	_	_	16	aux	_	SpaceAfter=No|Translit='ài|LTranslit='ài
-16	骑	骑	VERB	_	_	11	ccomp	_	SpaceAfter=No|Translit=qí|LTranslit=qí
-17	自行车	自行车	NOUN	_	_	16	obj	_	SpaceAfter=No|Translit=zìxíngchē|LTranslit=zìxíngchē
+15	爱	爱	VERB	_	_	11	ccomp	_	SpaceAfter=No|Translit='ài|LTranslit='ài
+16	骑	骑	VERB	_	_	15	xcomp	_	SpaceAfter=No|Translit=qí|LTranslit=qí
+17	自行车	自行车	NOUN	_	_	15	obj	_	SpaceAfter=No|Translit=zìxíngchē|LTranslit=zìxíngchē
 18	。	。	PUNCT	_	_	11	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
