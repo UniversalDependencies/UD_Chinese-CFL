@@ -5564,8 +5564,8 @@
 # text = 我被着惊人的举动惊呆了，一个残疾人都可以做到的事，为什么我们做不到？
 # translit = wǒbèizhejīngréndejǔdòngjīngdāile,yīgècánjíréndōukěyǐzuòdàodeshì,wèishénmewǒmenzuòbùdào?
 1	我	我	PRON	_	_	7	nsubj:pass	_	SpaceAfter=No|Translit=wǒ|LTranslit=wǒ
-2	被	被	ADP	_	_	6	case	_	SpaceAfter=No|Translit=bèi|LTranslit=bèi
-3	着	这	AUX	_	_	2	aux	_	SpaceAfter=No|Translit=zhe|LTranslit=zhè
+2	被	被	ADP	_	_	3	xcomp	_	SpaceAfter=No|Translit=bèi|LTranslit=bèi
+3	着	这	VERB	_	_	6	case	_	SpaceAfter=No|Translit=zhe|LTranslit=zhè
 4	惊人	惊人	ADJ	_	_	6	amod	_	SpaceAfter=No|Translit=jīngrén|LTranslit=jīngrén
 5	的	的	PART	_	_	4	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 6	举动	举动	NOUN	_	_	7	obl:agent	_	SpaceAfter=No|Translit=jǔdòng|LTranslit=jǔdòng
