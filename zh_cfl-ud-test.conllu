@@ -4341,12 +4341,12 @@
 # sent_id = CFL_H_1-11_ori
 # text = 当时，我宁愿回韩国，也不想体验这里的生活。
 # translit = dāngshí,wǒníngyuànhuíhánguó,yěbùxiǎngtǐyànzhèlǐdeshēnghuó.
-1	当时	当时	NOUN	_	_	5	obl:tmod	_	SpaceAfter=No|Translit=dāngshí|LTranslit=dāngshí
+1	当时	当时	NOUN	_	_	4	obl:tmod	_	SpaceAfter=No|Translit=dāngshí|LTranslit=dāngshí
 2	，	，	PUNCT	_	_	1	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-3	我	我	PRON	_	_	5	nsubj	_	SpaceAfter=No|Translit=wǒ|LTranslit=wǒ
-4	宁愿	宁愿	AUX	_	_	5	aux	_	SpaceAfter=No|Translit=níngyuàn|LTranslit=níngyuàn
-5	回	回	VERB	_	_	0	root	_	SpaceAfter=No|Translit=huí|LTranslit=huí
-6	韩国	韩国	PROPN	_	_	5	obj	_	SpaceAfter=No|Translit=hánguó|LTranslit=hánguó
+3	我	我	PRON	_	_	4	nsubj	_	SpaceAfter=No|Translit=wǒ|LTranslit=wǒ
+4	宁愿	宁愿	VERB	_	_	0	root	_	SpaceAfter=No|Translit=níngyuàn|LTranslit=níngyuàn
+5	回	回	VERB	_	_	4	xcomp	_	SpaceAfter=No|Translit=huí|LTranslit=huí
+6	韩国	韩国	PROPN	_	_	4	obj	_	SpaceAfter=No|Translit=hánguó|LTranslit=hánguó
 7	，	，	PUNCT	_	_	11	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 8	也	也	ADV	_	_	11	advmod	_	SpaceAfter=No|Translit=yě|LTranslit=yě
 9	不	不	ADV	_	_	10	advmod	_	SpaceAfter=No|Translit=bù|LTranslit=bù
@@ -4355,7 +4355,7 @@
 12	这里	这里	DET	_	_	14	det	_	SpaceAfter=No|Translit=zhèlǐ|LTranslit=zhèlǐ
 13	的	的	PART	_	_	12	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 14	生活	生活	NOUN	_	_	11	compound:vo	_	SpaceAfter=No|Translit=shēnghuó|LTranslit=shēnghuó
-15	。	。	PUNCT	_	_	5	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
+15	。	。	PUNCT	_	_	4	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = CFL_H_1-12_ori
 # text = 但是我一定得进去丛林，我要见他们了。
