@@ -10,7 +10,7 @@
     <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
     <test><sentences>451</sentences><tokens>7256</tokens><words>7256</words><fused>0</fused></test>
   </size>
-  <lemmas unique="1495" /><!-- 我, ，, 的, 。, 了, 是, 他, 一, 到, 去, 个, 在, 不, 很, 她 -->
+  <lemmas unique="1486" /><!-- 我, ，, 的, 。, 了, 是, 他, 一, 到, 去, 个, 不, 在, 很, 她 -->
   <forms unique="1505" /><!-- ，, 的, 。, 我, 了, 是, 我们, 一, 到, 去, 个, 在, 不, 很, 他 -->
   <fusions unique="0" /><!--  -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
@@ -33,7 +33,7 @@
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
   <feats unique="1">
-    <feat name="Polarity" value="Neg" upos="PART">9</feat><!-- 没 -->
+    <feat name="Polarity" value="Neg" upos="AUX,PART,VERB">28</feat><!-- 没有, 没, 不好意思, 不得, 不见, 不通, 不顾 -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
   <deps unique="45">
