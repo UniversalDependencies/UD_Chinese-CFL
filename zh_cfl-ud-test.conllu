@@ -2233,11 +2233,11 @@
 1	对	对	ADP	_	_	3	case	_	SpaceAfter=No|Translit=duì|LTranslit=duì
 2	韩人	韩人	NOUN	_	_	4	obl	_	SpaceAfter=No|Translit=hánrén|LTranslit=hánrén
 3	来	来	SCONJ	_	_	4	mark	_	SpaceAfter=No|Translit=lái|LTranslit=lái
-4	说	说	VERB	_	_	7	advcl	_	SpaceAfter=No|Translit=shuō|LTranslit=shuō
+4	说	说	VERB	_	_	6	advcl	_	SpaceAfter=No|Translit=shuō|LTranslit=shuō
 5	很	很	ADV	_	_	6	advmod	_	SpaceAfter=No|Translit=hěn|LTranslit=hěn
-6	喜欢	喜欢	AUX	_	_	7	aux	_	SpaceAfter=No|Translit=xǐhuan|LTranslit=xǐhuan
-7	吃	吃	VERB	_	_	0	root	_	SpaceAfter=No|Translit=chī|LTranslit=chī
-8	五花肉	五花肉	NOUN	_	_	7	obj	_	SpaceAfter=No|Translit=wǔhuāròu|LTranslit=wǔhuāròu
+6	喜欢	喜欢	VERB	_	_	0	root	_	SpaceAfter=No|Translit=xǐhuan|LTranslit=xǐhuan
+7	吃	吃	VERB	_	_	6	xcomp	_	SpaceAfter=No|Translit=chī|LTranslit=chī
+8	五花肉	五花肉	NOUN	_	_	6	obj	_	SpaceAfter=No|Translit=wǔhuāròu|LTranslit=wǔhuāròu
 9	和	和	CCONJ	_	_	10	cc	_	SpaceAfter=No|Translit=hé|LTranslit=hé
 10	烧酒	烧酒	NOUN	_	_	8	conj	_	SpaceAfter=No|Translit=shāojiǔ|LTranslit=shāojiǔ
 11	，	，	PUNCT	_	_	17	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
@@ -2248,7 +2248,7 @@
 16	应该	应该	AUX	_	_	17	aux	_	SpaceAfter=No|Translit=yīnggāi|LTranslit=yīnggāi
 17	点	点	VERB	_	_	7	conj	_	SpaceAfter=No|Translit=diǎn|LTranslit=diǎn
 18	凉面	凉面	NOUN	_	_	17	obj	_	SpaceAfter=No|Translit=liángmiàn|LTranslit=liángmiàn
-19	。	。	PUNCT	_	_	7	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
+19	。	。	PUNCT	_	_	6	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 # sent_id = CFL_E_1-4_ori
 # text = 肉跟凉面离不开。
