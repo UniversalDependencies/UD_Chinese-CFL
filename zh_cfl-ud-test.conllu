@@ -5017,17 +5017,17 @@
 12	一	一	NUM	_	_	14	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
 13	次	次	NOUN	_	_	12	clf	_	SpaceAfter=No|Translit=cì|LTranslit=cì
 14	体验	体验	NOUN	_	_	10	conj	_	SpaceAfter=No|Translit=tǐyàn|LTranslit=tǐyàn
-15	，	，	PUNCT	_	_	22	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-16	希望	希望	AUX	_	_	22	aux	_	SpaceAfter=No|Translit=xīwàng|LTranslit=xīwàng
+15	，	，	PUNCT	_	_	16	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
+16	希望	希望	VERB	_	_	3	parataxis	_	SpaceAfter=No|Translit=xīwàng|LTranslit=xīwàng
 17	今后	今后	NOUN	_	_	19	nmod	_	SpaceAfter=No|Translit=jīnhòu|LTranslit=jīnhòu
 18	的	的	PART	_	_	17	case	_	SpaceAfter=No|Translit=de|LTranslit=de
-19	生活	生活	NOUN	_	_	22	nsubj	_	SpaceAfter=No|Translit=shēnghuó|LTranslit=shēnghuó
-20	每天	每天	NOUN	_	_	22	obl:tmod	_	SpaceAfter=No|Translit=měitiān|LTranslit=měitiān
-21	都	都	ADV	_	_	22	advmod	_	SpaceAfter=No|Translit=dōu|LTranslit=dōu
-22	成为	成为	VERB	_	_	3	parataxis	_	SpaceAfter=No|Translit=chéngwèi|LTranslit=chéngwèi
+19	生活	生活	NOUN	_	_	16	nsubj	_	SpaceAfter=No|Translit=shēnghuó|LTranslit=shēnghuó
+20	每天	每天	NOUN	_	_	16	obl:tmod	_	SpaceAfter=No|Translit=měitiān|LTranslit=měitiān
+21	都	都	ADV	_	_	16	advmod	_	SpaceAfter=No|Translit=dōu|LTranslit=dōu
+22	成为	成为	VERB	_	_	16	xcomp	_	SpaceAfter=No|Translit=chéngwèi|LTranslit=chéngwèi
 23	难忘	难忘	ADJ	_	_	25	amod	_	SpaceAfter=No|Translit=nánwàng|LTranslit=nánwàng
 24	的	的	PART	_	_	23	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
-25	回忆	回忆	NOUN	_	_	22	obj	_	SpaceAfter=No|Translit=huíyì|LTranslit=huíyì
+25	回忆	回忆	NOUN	_	_	16	obj	_	SpaceAfter=No|Translit=huíyì|LTranslit=huíyì
 26	！	！	PUNCT	_	_	3	punct	_	SpaceAfter=No|Translit=!|LTranslit=!
 
 # sent_id = CFL_I_1-1_ori
