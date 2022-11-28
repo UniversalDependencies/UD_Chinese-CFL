@@ -105,10 +105,10 @@ Data available since: UD v2.1
 License: CC BY-SA 4.0
 Includes text: yes
 Genre: learner-essays
-Lemmas: not available
+Lemmas: automatic with corrections
 UPOS: manual native
 XPOS: not available
-Features: not available
+Features: automatic with corrections
 Relations: manual native
 Contributors: Lee, John; Leung, Herman; Li, Keying
 Contributing: elsewhere
