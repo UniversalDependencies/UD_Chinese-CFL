@@ -18,7 +18,7 @@
     <tag name="ADJ">353</tag><!-- 好, 难忘, 快, 一样, 多, 第一, 冷, 新, 大, 容易 -->
     <tag name="ADP">330</tag><!-- 在, 上, 对, 给, 从, 后, 跟, 里, 以后, 和 -->
     <tag name="ADV">756</tag><!-- 不, 很, 就, 所以, 都, 也, 一起, 最, 已经, 真的 -->
-    <tag name="AUX">335</tag><!-- 了, 是, 着, 要, 会, 能, 想, 过, 可以, 应该 -->
+    <tag name="AUX">336</tag><!-- 了, 是, 着, 要, 会, 能, 想, 过, 可以, 应该 -->
     <tag name="CCONJ">94</tag><!-- 和, 但是, 而, 但, 跟, 还有, 并且, 并, 而且, 也 -->
     <tag name="DET">127</tag><!-- 这, 那, 很多, 每, 什么, 一些, 几, 哪, 有的, 这些 -->
     <tag name="INTJ">3</tag><!-- 吧, 天哪, 罢了 -->
@@ -29,14 +29,14 @@
     <tag name="PROPN">144</tag><!-- 中国, 西安, 麦加, 北京, 商洛, 韩国, 天池, 日本, 香港, 加拿大 -->
     <tag name="PUNCT">919</tag><!-- ，, 。, ！, ？, “, ”, ：, ?, 、, （ -->
     <tag name="SCONJ">68</tag><!-- 虽然, 因为, 来, 因, 如果, 虽, 一, 之所以, 但是, 不但 -->
-    <tag name="VERB">1328</tag><!-- 到, 去, 有, 是, 看, 说, 让, 来, 见, 吃 -->
+    <tag name="VERB">1327</tag><!-- 到, 去, 有, 是, 看, 说, 让, 来, 见, 吃 -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
   <feats unique="1">
     <feat name="Polarity" value="Neg" upos="AUX,PART,VERB">28</feat><!-- 没有, 没, 不好意思, 不得, 不见, 不通, 不顾 -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
-  <deps unique="45">
+  <deps unique="46">
     <dep name="acl">111</dep>
     <dep name="advcl">209</dep>
     <dep name="advmod">810</dep>
@@ -47,7 +47,7 @@
     <dep name="case">376</dep>
     <dep name="case:loc">90</dep>
     <dep name="cc">93</dep>
-    <dep name="ccomp">110</dep>
+    <dep name="ccomp">109</dep>
     <dep name="clf">141</dep>
     <dep name="compound">52</dep>
     <dep name="compound:dir">29</dep>
@@ -55,7 +55,7 @@
     <dep name="compound:vo">25</dep>
     <dep name="compound:vv">106</dep>
     <dep name="conj">275</dep>
-    <dep name="cop">74</dep>
+    <dep name="cop">75</dep>
     <dep name="csubj">5</dep>
     <dep name="dep">13</dep>
     <dep name="det">124</dep>
@@ -68,11 +68,12 @@
     <dep name="mark:adv">25</dep>
     <dep name="mark:rel">229</dep>
     <dep name="nmod">258</dep>
-    <dep name="nsubj">657</dep>
+    <dep name="nsubj">654</dep>
+    <dep name="nsubj:outer">2</dep>
     <dep name="nsubj:pass">3</dep>
     <dep name="nummod">137</dep>
     <dep name="obj">562</dep>
-    <dep name="obl">224</dep>
+    <dep name="obl">225</dep>
     <dep name="obl:agent">5</dep>
     <dep name="obl:patient">7</dep>
     <dep name="obl:tmod">143</dep>
