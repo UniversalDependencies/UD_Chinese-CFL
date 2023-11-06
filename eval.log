@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit 04abe686385f14a9a6f68784bd723a6b60ded594
+commit e9726a6a7d6913193d90edb45a4cb549235c5b16
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue May 9 00:14:39 2023 +0200
+Date:   Sat Nov 4 17:10:55 2023 +0100
 Evaluating the following revision of UD_Chinese-CFL:
-commit c65adb96a4fb42575b2948d756450ae3ee160e44
-Merge: c3a45b0 a704088
+commit 3b0f86ad7af3ab221b9724fa90be92615baa6df5
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Tue May 9 09:36:39 2023 +0200
 Size: counted 7256 of 7256 words (nodes).
 Size: min(0, log((N/1000)**2)) = 3.96365742562567.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -20,8 +20,8 @@ Features: source of annotation (from README) factor is 0.5.
 Universal relations: 32 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 1.
 Udapi:
-               TOTAL       2365
-Udapi: found 2365 bugs.
+               TOTAL       2364
+Udapi: found 2364 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 7256 words.
 Genres: found 1 out of 17 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang zh --max-err=10 UD_Chinese-CFL/zh_cfl-ud-test.conllu
