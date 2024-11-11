@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit 78ce4b21495c6e4c17a7b07925bec1267d833d14
+commit c1984d97df0ecdcc1b50fbeaa8c96419c6321432
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun May 5 09:21:16 2024 +0200
+Date:   Sun Nov 10 10:33:45 2024 +0100
 Evaluating the following revision of UD_Chinese-CFL:
-commit 706b17fab36669078911ec4d7c1ef6e1b4657318
+commit d467830419d48b3ef74029cdb321e33a4767d3a8
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Mon Nov 6 11:35:15 2023 +0100
+Date:   Sun May 5 11:58:17 2024 +0200
 Size: counted 7256 of 7256 words (nodes).
 Size: min(0, log((N/1000)**2)) = 3.96365742562567.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -25,6 +25,9 @@ Udapi: found 2364 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 7256 words.
 Genres: found 1 out of 17 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang zh --max-err=10 UD_Chinese-CFL/zh_cfl-ud-test.conllu
+[Line 4176 Sent CFL_G_1-14_ori Node 10]: [L3 Warning leaf-clf] 'clf' not expected to have children (10:次:clf --> 11:的:case)
+[Line 8080 Sent CFL_X_1-10_ori Node 27]: [L3 Warning leaf-det] 'det' not expected to have children (27:这:det --> 28:四:nummod)
+Warnings: 2
 *** PASSED ***
 Validity: 1
 (weight=0.0769230769230769) * (score{features}=0.15) = 0.0115384615384615
