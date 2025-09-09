@@ -104,6 +104,7 @@ John Lee, Herman Leung, Keying Li. 2017. Towards Universal Dependencies for Lear
 Data available since: UD v2.1
 License: CC BY-SA 4.0
 Includes text: yes
+Parallel: no
 Genre: learner-essays
 Lemmas: automatic with corrections
 UPOS: manual native
