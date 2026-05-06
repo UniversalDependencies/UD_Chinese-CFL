@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit 26e6c87a2f518322d15901a351199b6be6569062
+commit b39dc4111bb13658bc0c204b48bb78b492e45d2b
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Fri Nov 7 15:39:58 2025 +0100
+Date:   Tue May 5 17:01:41 2026 +0200
 Evaluating the following revision of UD_Chinese-CFL:
-commit 8c9c8886c3405d61f89f15436ff2ae34ec1b4e73
-Merge: 23f6ae1 ad71b06
+commit c699eaa4603390a6a24314b1952177517cad0546
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Tue Nov 11 18:55:24 2025 +0100
 CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
 Language-treebank code (from CoNLL-U file name) = 'zh_cfl'
 Language code (from CoNLL-U file name) = 'zh'
@@ -25,23 +25,27 @@ Universal relations: 32 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 1.
 Genres: found 1 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang zh --max-err=10 UD_Chinese-CFL/zh_cfl-ud-test.conllu
-[Line 6 Sent CFL_A_1-1a_ori]: [L3 Warning pron-det-without-prontype] The word '我 wǒ' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 30 Sent CFL_A_1-1b_ori]: [L3 Warning pron-det-without-prontype] The word '我们 wǒmen' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 52 Sent CFL_A_1-3_ori]: [L3 Warning pron-det-without-prontype] The word '我 wǒ' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 54 Sent CFL_A_1-3_ori]: [L3 Warning pron-det-without-prontype] The word '我 wǒ' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 67 Sent CFL_A_1-3_ori]: [L3 Warning pron-det-without-prontype] The word '我 wǒ' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 74 Sent CFL_A_1-3_ori]: [L3 Warning pron-det-without-prontype] The word '她 tā' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 78 Sent CFL_A_1-3_ori]: [L3 Warning pron-det-without-prontype] The word '我 wǒ' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 87 Sent CFL_A_1-4_ori]: [L3 Warning pron-det-without-prontype] The word '我们 wǒmen' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 93 Sent CFL_A_1-4_ori]: [L3 Warning pron-det-without-prontype] The word '那里 nàlǐ' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 107 Sent CFL_A_1-5_ori]: [L3 Warning pron-det-without-prontype] The word '那里 nàlǐ' is tagged 'PRON' but it lacks the 'PronType' feature
-...suppressing further errors regarding Warning
-[Line 4064 Sent CFL_G_1-10_ori]: [L3 Syntax too-many-objects] Multiple direct objects [3, 5] ('哪里 nǎlǐ', '汉语 hànyǔ') under the predicate '学习 xuéxí'.
-[Line 4176 Sent CFL_G_1-14_ori]: [L3 Syntax leaf-clf] 'clf' not expected to have children (10:次:clf --> 11:的:case)
-[Line 8080 Sent CFL_X_1-10_ori]: [L3 Syntax leaf-det] 'det' not expected to have children (27:这:det --> 28:四:nummod)
-Syntax errors: 3
-Warnings: 890
-*** FAILED *** with 3 errors
+[Line 6 Sent CFL_A_1-1a_ori]: [L3 WARNING pron-det-without-prontype] The word '我 wǒ' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 30 Sent CFL_A_1-1b_ori]: [L3 WARNING pron-det-without-prontype] The word '我们 wǒmen' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 52 Sent CFL_A_1-3_ori]: [L3 WARNING pron-det-without-prontype] The word '我 wǒ' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 54 Sent CFL_A_1-3_ori]: [L3 WARNING pron-det-without-prontype] The word '我 wǒ' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 67 Sent CFL_A_1-3_ori]: [L3 WARNING pron-det-without-prontype] The word '我 wǒ' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 74 Sent CFL_A_1-3_ori]: [L3 WARNING pron-det-without-prontype] The word '她 tā' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 78 Sent CFL_A_1-3_ori]: [L3 WARNING pron-det-without-prontype] The word '我 wǒ' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 87 Sent CFL_A_1-4_ori]: [L3 WARNING pron-det-without-prontype] The word '我们 wǒmen' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 93 Sent CFL_A_1-4_ori]: [L3 WARNING pron-det-without-prontype] The word '那里 nàlǐ' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 107 Sent CFL_A_1-5_ori]: [L3 WARNING pron-det-without-prontype] The word '那里 nàlǐ' is tagged 'PRON' but it lacks the 'PronType' feature
+...suppressing further messages regarding WARNING/MORPHO
+[Line 4064 Sent CFL_G_1-10_ori]: [L3 SYNTAX too-many-objects] Multiple direct objects [3, 5] ('哪里 nǎlǐ', '汉语 hànyǔ') under the predicate '学习 xuéxí'.
+[Line 4176 Sent CFL_G_1-14_ori]: [L3 SYNTAX leaf-clf] 'clf' not expected to have children (10:次:clf --> 11:的:case)
+[Line 5755 Sent CFL_K_1-4_ori]: [L3 SYNTAX obl-should-be-nmod] The parent (node [10] '事情 shìqíng') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 6286 Sent CFL_M_1-2_ori]: [L3 SYNTAX obl-should-be-nmod] The parent (node [10] '事 shì') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 6504 Sent CFL_M_1-12_ori]: [L3 SYNTAX obl-should-be-nmod] The parent (node [24] '诗 shī') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 8080 Sent CFL_X_1-10_ori]: [L3 SYNTAX leaf-det] 'det' not expected to have children (27:这:det --> 28:四:nummod)
+[Line 9032 Sent CFL_Z_1-21_ori]: [L3 SYNTAX obl-should-be-nmod] The parent (node [11] '一部分 yībùfēn') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+Warnings: 886
+SYNTAX errors: 7
+*** FAILED *** with 7 errors
 Exit code: 1
 Validity: 0.01
 (weight=0.111111111111111) * (score{features}=0.15) = 0.0166666666666667
